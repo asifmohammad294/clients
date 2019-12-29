@@ -1,0 +1,728 @@
+Uri: http://brightsecuritysystem.com/
+File Name: c:\Downloaded Web Sites\brightsecuritysystem.com\index.html
+Content Type: text/html
+
+Uri: http://brightsecuritysystem.com/images/home/home-slider/Magal-New-Homepage-Billboards-Camera.jpg
+File Name: c:\Downloaded Web Sites\brightsecuritysystem.com\images\home\home-slider\Magal-New-Homepage-Billboards-Camera.jpeg
+Content Type: image/jpeg
+
+Uri: http://brightsecuritysystem.com/images/home/home-slider/Alarmanlage-Haus3.png
+File Name: c:\Downloaded Web Sites\brightsecuritysystem.com\images\home\home-slider\Alarmanlage-Haus3.png
+Content Type: image/png
+
+Uri: http://brightsecuritysystem.com/images/home/home-slider/h8D6K0HJNjUpDK2O34uM2n3MFZd8a0cr3r31cXfELgMevHdmFIIj67iAUacJIV9WpJCL29ewSZPdK4LEW69nzk.jpeg
+File Name: c:\Downloaded Web Sites\brightsecuritysystem.com\images\home\home-slider\h8D6K0HJNjUpDK2O34uM2n3MFZd8a0cr3r31cXfELgMevHdmFIIj67iAUacJIV9WpJCL29ewSZPdK4LEW69nzk.jpeg
+Content Type: image/jpeg
+
+Uri: http://brightsecuritysystem.com/images/home/home-slider/time_attendance_slide1.jpg
+File Name: c:\Downloaded Web Sites\brightsecuritysystem.com\images\home\home-slider\time_attendance_slide1.jpeg
+Content Type: image/jpeg
+
+Uri: http://brightsecuritysystem.com/images/home/home-slider/SilentKnightHoneywell.jpg
+File Name: c:\Downloaded Web Sites\brightsecuritysystem.com\images\home\home-slider\SilentKnightHoneywell.jpeg
+Content Type: image/jpeg
+
+Uri: http://brightsecuritysystem.com/images/home/home-slider/img-product-cat.jpg
+File Name: c:\Downloaded Web Sites\brightsecuritysystem.com\images\home\home-slider\img-product-cat.jpeg
+Content Type: image/jpeg
+
+Uri: http://brightsecuritysystem.com/images/home/home-slider/slide1.jpg
+File Name: c:\Downloaded Web Sites\brightsecuritysystem.com\images\home\home-slider\slide1.jpeg
+Content Type: image/jpeg
+
+Uri: http://brightsecuritysystem.com/images/home/home-slider/Synology-Surveillance-Station-7-b.jpg
+File Name: c:\Downloaded Web Sites\brightsecuritysystem.com\images\home\home-slider\Synology-Surveillance-Station-7-b.jpeg
+Content Type: image/jpeg
+
+Uri: http://brightsecuritysystem.com/images/home/home-slider/NEC_PBX_Systems.jpg
+File Name: c:\Downloaded Web Sites\brightsecuritysystem.com\images\home\home-slider\NEC_PBX_Systems.jpeg
+Content Type: image/jpeg
+
+Uri: http://brightsecuritysystem.com/images/home/home-slider/pms.jpg
+File Name: c:\Downloaded Web Sites\brightsecuritysystem.com\images\home\home-slider\pms.jpeg
+Content Type: image/jpeg
+
+Uri: http://brightsecuritysystem.com/images/home/home-slider/fsdgsg.jpg
+File Name: c:\Downloaded Web Sites\brightsecuritysystem.com\images\home\home-slider\fsdgsg.jpeg
+Content Type: image/jpeg
+
+Uri: http://brightsecuritysystem.com/css/animate.css
+File Name: c:\Downloaded Web Sites\brightsecuritysystem.com\css\animate.css
+Content Type: text/css
+
+Uri: http://brightsecuritysystem.com/css/meanmenu.css
+File Name: c:\Downloaded Web Sites\brightsecuritysystem.com\css\meanmenu.css
+Content Type: text/css
+
+Uri: http://brightsecuritysystem.com/css/slicknav.min.css
+File Name: c:\Downloaded Web Sites\brightsecuritysystem.com\css\slicknav.min.css
+Content Type: text/css
+
+Uri: http://brightsecuritysystem.com/css/bootstrap.min.css
+File Name: c:\Downloaded Web Sites\brightsecuritysystem.com\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: http://brightsecuritysystem.com/css/font-awesome.min.css
+File Name: c:\Downloaded Web Sites\brightsecuritysystem.com\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: http://brightsecuritysystem.com/css/owl.carousel.css
+File Name: c:\Downloaded Web Sites\brightsecuritysystem.com\css\owl.carousel.css
+Content Type: text/css
+
+Uri: http://brightsecuritysystem.com/css/magnific-popup.css
+File Name: c:\Downloaded Web Sites\brightsecuritysystem.com\css\magnific-popup.css
+Content Type: text/css
+
+Uri: http://brightsecuritysystem.com/venobox/css/venobox.css
+File Name: c:\Downloaded Web Sites\brightsecuritysystem.com\venobox\css\venobox.css
+Content Type: text/css
+
+Uri: http://brightsecuritysystem.com/css/owl.theme.default.css
+File Name: c:\Downloaded Web Sites\brightsecuritysystem.com\css\owl.theme.default.css
+Content Type: text/css
+
+Uri: http://brightsecuritysystem.com/css/flaticon.css
+File Name: c:\Downloaded Web Sites\brightsecuritysystem.com\css\flaticon.css
+Content Type: text/css
+
+Uri: http://brightsecuritysystem.com/css/fonts.css
+File Name: c:\Downloaded Web Sites\brightsecuritysystem.com\css\fonts.css
+Content Type: text/css
+
+Uri: http://brightsecuritysystem.com/css/style.css
+File Name: c:\Downloaded Web Sites\brightsecuritysystem.com\css\style.css
+Content Type: text/css
+
+Uri: http://brightsecuritysystem.com/css/responsive.css
+File Name: c:\Downloaded Web Sites\brightsecuritysystem.com\css\responsive.css
+Content Type: text/css
+
+Uri: http://brightsecuritysystem.com/images/logo.jpeg
+File Name: c:\Downloaded Web Sites\brightsecuritysystem.com\images\logo.jpeg
+Content Type: image/jpeg
+
+Uri: http://brightsecuritysystem.com/index.php
+File Name: c:\Downloaded Web Sites\brightsecuritysystem.com\index-1.html
+Content Type: text/html
+
+Uri: http://brightsecuritysystem.com/about_us.php
+File Name: c:\Downloaded Web Sites\brightsecuritysystem.com\about_us.html
+Content Type: text/html
+
+Uri: http://brightsecuritysystem.com/security-alarm-service.php
+File Name: c:\Downloaded Web Sites\brightsecuritysystem.com\security-alarm-service.html
+Content Type: text/html
+
+Uri: http://brightsecuritysystem.com/fire-alarm-service.php
+File Name: c:\Downloaded Web Sites\brightsecuritysystem.com\fire-alarm-service.html
+Content Type: text/html
+
+Uri: http://brightsecuritysystem.com/time-attendence-service.php
+File Name: c:\Downloaded Web Sites\brightsecuritysystem.com\time-attendence-service.html
+Content Type: text/html
+
+Uri: http://brightsecuritysystem.com/access-control-service.php
+File Name: c:\Downloaded Web Sites\brightsecuritysystem.com\access-control-service.html
+Content Type: text/html
+
+Uri: http://brightsecuritysystem.com/cctv-security-service.php
+File Name: c:\Downloaded Web Sites\brightsecuritysystem.com\cctv-security-service.html
+Content Type: text/html
+
+Uri: http://brightsecuritysystem.com/digital-recorder-service.php
+File Name: c:\Downloaded Web Sites\brightsecuritysystem.com\digital-recorder-service.html
+Content Type: text/html
+
+Uri: http://brightsecuritysystem.com/av_door_phones.php
+File Name: c:\Downloaded Web Sites\brightsecuritysystem.com\av_door_phones.html
+Content Type: text/html
+
+Uri: http://brightsecuritysystem.com/epabx-systems-service.php
+File Name: c:\Downloaded Web Sites\brightsecuritysystem.com\epabx-systems-service.html
+Content Type: text/html
+
+Uri: http://brightsecuritysystem.com/parking-management-service.php
+File Name: c:\Downloaded Web Sites\brightsecuritysystem.com\parking-management-service.html
+Content Type: text/html
+
+Uri: http://brightsecuritysystem.com/computer-peripherals-service.php
+File Name: c:\Downloaded Web Sites\brightsecuritysystem.com\computer-peripherals-service.html
+Content Type: text/html
+
+Uri: http://brightsecuritysystem.com/career.php
+File Name: c:\Downloaded Web Sites\brightsecuritysystem.com\career.html
+Content Type: text/html
+
+Uri: http://brightsecuritysystem.com/contact_us.php
+File Name: c:\Downloaded Web Sites\brightsecuritysystem.com\contact_us.html
+Content Type: text/html
+
+Uri: http://brightsecuritysystem.com/images/preloader.gif
+File Name: c:\Downloaded Web Sites\brightsecuritysystem.com\images\preloader.gif
+Content Type: image/gif
+
+Uri: http://brightsecuritysystem.com/images/home/security-on.png
+File Name: c:\Downloaded Web Sites\brightsecuritysystem.com\images\home\security-on.png
+Content Type: image/png
+
+Uri: http://brightsecuritysystem.com/images/home/cells.png
+File Name: c:\Downloaded Web Sites\brightsecuritysystem.com\images\home\cells.png
+Content Type: image/png
+
+Uri: http://brightsecuritysystem.com/images/home/password.png
+File Name: c:\Downloaded Web Sites\brightsecuritysystem.com\images\home\password.png
+Content Type: image/png
+
+Uri: http://brightsecuritysystem.com/images/home/Samsung-SHS-2920-Digital-Door-Lock-With-Keyless-Touchpad-Security-02.jpg
+File Name: c:\Downloaded Web Sites\brightsecuritysystem.com\images\home\Samsung-SHS-2920-Digital-Door-Lock-With-Keyless-Touchpad-Security-02.jpeg
+Content Type: image/jpeg
+
+Uri: http://brightsecuritysystem.com/images/home/securities/789ad6e069fd.jpg
+File Name: c:\Downloaded Web Sites\brightsecuritysystem.com\images\home\securities\789ad6e069fd.jpeg
+Content Type: image/jpeg
+
+Uri: http://brightsecuritysystem.com/images/home/securities/ser_img_1.jpg
+File Name: c:\Downloaded Web Sites\brightsecuritysystem.com\images\home\securities\ser_img_1.jpeg
+Content Type: image/jpeg
+
+Uri: http://brightsecuritysystem.com/images/home/securities/53794.8110625_370x180.jpg
+File Name: c:\Downloaded Web Sites\brightsecuritysystem.com\images\home\securities\53794.8110625_370x180.jpeg
+Content Type: image/jpeg
+
+Uri: http://brightsecuritysystem.com/images/home/securities/slider-access-control-jpg_370x180.jpg
+File Name: c:\Downloaded Web Sites\brightsecuritysystem.com\images\home\securities\slider-access-control-jpg_370x180.jpeg
+Content Type: image/jpeg
+
+Uri: http://brightsecuritysystem.com/images/home/securities/CCTV-Security-System_370x180.jpg
+File Name: c:\Downloaded Web Sites\brightsecuritysystem.com\images\home\securities\CCTV-Security-System_370x180.jpeg
+Content Type: image/jpeg
+
+Uri: http://brightsecuritysystem.com/images/home/securities/wireless-camera-system-LW_370x180.jpg
+File Name: c:\Downloaded Web Sites\brightsecuritysystem.com\images\home\securities\wireless-camera-system-LW_370x180.jpeg
+Content Type: image/jpeg
+
+Uri: http://brightsecuritysystem.com/images/home/securities/IS1506_Security_News_MX-MDR_Vidoe-Door-Phones_02_370x180.jpg
+File Name: c:\Downloaded Web Sites\brightsecuritysystem.com\images\home\securities\IS1506_Security_News_MX-MDR_Vidoe-Door-Phones_02_370x180.jpeg
+Content Type: image/jpeg
+
+Uri: http://brightsecuritysystem.com/images/home/securities/epabx-system-Graedial-Electronic-Security-Solutions-Pvt-Ltd-bengaluru-x2.jpg
+File Name: c:\Downloaded Web Sites\brightsecuritysystem.com\images\home\securities\epabx-system-Graedial-Electronic-Security-Solutions-Pvt-Ltd-bengaluru-x2.jpeg
+Content Type: image/jpeg
+
+Uri: http://brightsecuritysystem.com/images/home/securities/HTB11kd.LVXXXXbUXXXXq6xXFXXXx_370x180.jpg
+File Name: c:\Downloaded Web Sites\brightsecuritysystem.com\images\home\securities\HTB11kd.LVXXXXbUXXXXq6xXFXXXx_370x180.jpeg
+Content Type: image/jpeg
+
+Uri: http://brightsecuritysystem.com/images/home/securities/digixinfo-security-systems-hardware-services-santacruz-west-mumbai-computer-repair-and-services-klrcj.jpg
+File Name: c:\Downloaded Web Sites\brightsecuritysystem.com\images\home\securities\digixinfo-security-systems-hardware-services-santacruz-west-mumbai-computer-repair-and-services-klrcj.jpeg
+Content Type: image/jpeg
+
+Uri: http://brightsecuritysystem.com/images/home/img22.jpg
+File Name: c:\Downloaded Web Sites\brightsecuritysystem.com\images\home\img22.jpeg
+Content Type: image/jpeg
+
+Uri: http://brightsecuritysystem.com/images/home/products/Hikvision-2MP-IR-HD-Indoor-Night-Vision-Bullet-Camera.jpg
+File Name: c:\Downloaded Web Sites\brightsecuritysystem.com\images\home\products\Hikvision-2MP-IR-HD-Indoor-Night-Vision-Bullet-Camera.jpeg
+Content Type: image/jpeg
+
+Uri: http://brightsecuritysystem.com/images/home/products/alarmsense_detector_and_sounder_beacon_base_1.jpg
+File Name: c:\Downloaded Web Sites\brightsecuritysystem.com\images\home\products\alarmsense_detector_and_sounder_beacon_base_1.jpeg
+Content Type: image/jpeg
+
+Uri: http://brightsecuritysystem.com/images/home/products/Cp-plus-Hdcvi-8-Ch-SDL488125650-1-ace35.jpg
+File Name: c:\Downloaded Web Sites\brightsecuritysystem.com\images\home\products\Cp-plus-Hdcvi-8-Ch-SDL488125650-1-ace35.jpeg
+Content Type: image/jpeg
+
+Uri: http://brightsecuritysystem.com/images/testi_1.jfif
+File Name: c:\Downloaded Web Sites\brightsecuritysystem.com\images\testi_1.jfif
+Content Type: 
+
+Uri: http://brightsecuritysystem.com/images/client/DPS.png
+File Name: c:\Downloaded Web Sites\brightsecuritysystem.com\images\client\DPS.png
+Content Type: image/png
+
+Uri: http://brightsecuritysystem.com/images/client/kiet.png
+File Name: c:\Downloaded Web Sites\brightsecuritysystem.com\images\client\kiet.png
+Content Type: image/png
+
+Uri: http://brightsecuritysystem.com/images/client/Ahlcon International School.png
+File Name: c:\Downloaded Web Sites\brightsecuritysystem.com\images\client\Ahlcon International School.png
+Content Type: image/png
+
+Uri: http://brightsecuritysystem.com/images/client/b.png
+File Name: c:\Downloaded Web Sites\brightsecuritysystem.com\images\client\b.png
+Content Type: image/png
+
+Uri: http://brightsecuritysystem.com/images/client/kdp.png
+File Name: c:\Downloaded Web Sites\brightsecuritysystem.com\images\client\kdp.png
+Content Type: image/png
+
+Uri: http://brightsecuritysystem.com/images/client/KIDZZ.png
+File Name: c:\Downloaded Web Sites\brightsecuritysystem.com\images\client\KIDZZ.png
+Content Type: image/png
+
+Uri: http://brightsecuritysystem.com/images/client/Radha Krishna Public School.png
+File Name: c:\Downloaded Web Sites\brightsecuritysystem.com\images\client\Radha Krishna Public School.png
+Content Type: image/png
+
+Uri: http://brightsecuritysystem.com/js/jquery_min.js
+File Name: c:\Downloaded Web Sites\brightsecuritysystem.com\js\jquery_min.js
+Content Type: application/javascript
+
+Uri: http://brightsecuritysystem.com/js/jqu_menu.js
+File Name: c:\Downloaded Web Sites\brightsecuritysystem.com\js\jqu_menu.js
+Content Type: application/javascript
+
+Uri: http://brightsecuritysystem.com/js/jqu_slickmenu.js
+File Name: c:\Downloaded Web Sites\brightsecuritysystem.com\js\jqu_slickmenu.js
+Content Type: application/javascript
+
+Uri: http://brightsecuritysystem.com/js/bootstrap.min.js
+File Name: c:\Downloaded Web Sites\brightsecuritysystem.com\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: http://brightsecuritysystem.com/js/jquery.countTo.js
+File Name: c:\Downloaded Web Sites\brightsecuritysystem.com\js\jquery.countTo.js
+Content Type: application/javascript
+
+Uri: http://brightsecuritysystem.com/js/wow.min.js
+File Name: c:\Downloaded Web Sites\brightsecuritysystem.com\js\wow.min.js
+Content Type: application/javascript
+
+Uri: http://brightsecuritysystem.com/js/isotope.pkgd.min.js
+File Name: c:\Downloaded Web Sites\brightsecuritysystem.com\js\isotope.pkgd.min.js
+Content Type: application/javascript
+
+Uri: http://brightsecuritysystem.com/venobox/js/venobox.min.js
+File Name: c:\Downloaded Web Sites\brightsecuritysystem.com\venobox\js\venobox.min.js
+Content Type: application/javascript
+
+Uri: http://brightsecuritysystem.com/js/jquery.easypiechart.min.js
+File Name: c:\Downloaded Web Sites\brightsecuritysystem.com\js\jquery.easypiechart.min.js
+Content Type: application/javascript
+
+Uri: http://brightsecuritysystem.com/js/progress-script.js
+File Name: c:\Downloaded Web Sites\brightsecuritysystem.com\js\progress-script.js
+Content Type: application/javascript
+
+Uri: http://brightsecuritysystem.com/js/owl.carousel.js
+File Name: c:\Downloaded Web Sites\brightsecuritysystem.com\js\owl.carousel.js
+Content Type: application/javascript
+
+Uri: http://brightsecuritysystem.com/js/jquery.inview.min.js
+File Name: c:\Downloaded Web Sites\brightsecuritysystem.com\js\jquery.inview.min.js
+Content Type: application/javascript
+
+Uri: http://brightsecuritysystem.com/js/jquery.mixitup.min.js
+File Name: c:\Downloaded Web Sites\brightsecuritysystem.com\js\jquery.mixitup.min.js
+Content Type: application/javascript
+
+Uri: http://brightsecuritysystem.com/js/plugin/rs_slider/jquery.themepunch.revolution.min.js
+File Name: c:\Downloaded Web Sites\brightsecuritysystem.com\js\plugin\rs_slider\jquery.themepunch.revolution.min.js
+Content Type: application/javascript
+
+Uri: http://brightsecuritysystem.com/js/plugin/rs_slider/jquery.themepunch.tools.min.js
+File Name: c:\Downloaded Web Sites\brightsecuritysystem.com\js\plugin\rs_slider\jquery.themepunch.tools.min.js
+Content Type: application/javascript
+
+Uri: http://brightsecuritysystem.com/js/plugin/rs_slider/revolution.addon.snow.min.js
+File Name: c:\Downloaded Web Sites\brightsecuritysystem.com\js\plugin\rs_slider\revolution.addon.snow.min.js
+Content Type: application/javascript
+
+Uri: http://brightsecuritysystem.com/js/plugin/rs_slider/revolution.extension.actions.min.js
+File Name: c:\Downloaded Web Sites\brightsecuritysystem.com\js\plugin\rs_slider\revolution.extension.actions.min.js
+Content Type: application/javascript
+
+Uri: http://brightsecuritysystem.com/js/plugin/rs_slider/revolution.extension.carousel.min.js
+File Name: c:\Downloaded Web Sites\brightsecuritysystem.com\js\plugin\rs_slider\revolution.extension.carousel.min.js
+Content Type: application/javascript
+
+Uri: http://brightsecuritysystem.com/js/plugin/rs_slider/revolution.extension.kenburn.min.js
+File Name: c:\Downloaded Web Sites\brightsecuritysystem.com\js\plugin\rs_slider\revolution.extension.kenburn.min.js
+Content Type: application/javascript
+
+Uri: http://brightsecuritysystem.com/js/plugin/rs_slider/revolution.extension.layeranimation.min.js
+File Name: c:\Downloaded Web Sites\brightsecuritysystem.com\js\plugin\rs_slider\revolution.extension.layeranimation.min.js
+Content Type: application/javascript
+
+Uri: http://brightsecuritysystem.com/js/plugin/rs_slider/revolution.extension.migration.min.js
+File Name: c:\Downloaded Web Sites\brightsecuritysystem.com\js\plugin\rs_slider\revolution.extension.migration.min.js
+Content Type: application/javascript
+
+Uri: http://brightsecuritysystem.com/js/plugin/rs_slider/revolution.extension.navigation.min.js
+File Name: c:\Downloaded Web Sites\brightsecuritysystem.com\js\plugin\rs_slider\revolution.extension.navigation.min.js
+Content Type: application/javascript
+
+Uri: http://brightsecuritysystem.com/js/plugin/rs_slider/revolution.extension.parallax.min.js
+File Name: c:\Downloaded Web Sites\brightsecuritysystem.com\js\plugin\rs_slider\revolution.extension.parallax.min.js
+Content Type: application/javascript
+
+Uri: http://brightsecuritysystem.com/js/plugin/rs_slider/revolution.extension.slideanims.min.js
+File Name: c:\Downloaded Web Sites\brightsecuritysystem.com\js\plugin\rs_slider\revolution.extension.slideanims.min.js
+Content Type: application/javascript
+
+Uri: http://brightsecuritysystem.com/js/plugin/rs_slider/revolution.extension.video.min.js
+File Name: c:\Downloaded Web Sites\brightsecuritysystem.com\js\plugin\rs_slider\revolution.extension.video.min.js
+Content Type: application/javascript
+
+Uri: http://brightsecuritysystem.com/js/responsive_header.js
+File Name: c:\Downloaded Web Sites\brightsecuritysystem.com\js\responsive_header.js
+Content Type: application/javascript
+
+Uri: http://brightsecuritysystem.com/js/custom.js
+File Name: c:\Downloaded Web Sites\brightsecuritysystem.com\js\custom.js
+Content Type: application/javascript
+
+Uri: http://brightsecuritysystem.com/fonts/glyphicons-halflings-regular.eot
+File Name: c:\Downloaded Web Sites\brightsecuritysystem.com\fonts\glyphicons-halflings-regular.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://brightsecuritysystem.com/fonts/glyphicons-halflings-regular-1.eot
+File Name: c:\Downloaded Web Sites\brightsecuritysystem.com\fonts\glyphicons-halflings-regular-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://brightsecuritysystem.com/fonts/glyphicons-halflings-regular.woff2
+File Name: c:\Downloaded Web Sites\brightsecuritysystem.com\fonts\glyphicons-halflings-regular.woff2
+Content Type: 
+
+Uri: http://brightsecuritysystem.com/fonts/glyphicons-halflings-regular.woff
+File Name: c:\Downloaded Web Sites\brightsecuritysystem.com\fonts\glyphicons-halflings-regular.woff
+Content Type: application/font-woff
+
+Uri: http://brightsecuritysystem.com/fonts/glyphicons-halflings-regular.ttf
+File Name: c:\Downloaded Web Sites\brightsecuritysystem.com\fonts\glyphicons-halflings-regular.ttf
+Content Type: application/font-sfnt
+
+Uri: http://brightsecuritysystem.com/fonts/glyphicons-halflings-regular.svg
+File Name: c:\Downloaded Web Sites\brightsecuritysystem.com\fonts\glyphicons-halflings-regular.svg
+Content Type: image/svg+xml
+
+Uri: http://brightsecuritysystem.com/fonts/fontawesome-webfont.eot
+File Name: c:\Downloaded Web Sites\brightsecuritysystem.com\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://brightsecuritysystem.com/fonts/fontawesome-webfont-1.eot
+File Name: c:\Downloaded Web Sites\brightsecuritysystem.com\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://brightsecuritysystem.com/fonts/fontawesome-webfont.woff2
+File Name: c:\Downloaded Web Sites\brightsecuritysystem.com\fonts\fontawesome-webfont.woff2
+Content Type: 
+
+Uri: http://brightsecuritysystem.com/fonts/fontawesome-webfont.woff
+File Name: c:\Downloaded Web Sites\brightsecuritysystem.com\fonts\fontawesome-webfont.woff
+Content Type: application/font-woff
+
+Uri: http://brightsecuritysystem.com/fonts/fontawesome-webfont.ttf
+File Name: c:\Downloaded Web Sites\brightsecuritysystem.com\fonts\fontawesome-webfont.ttf
+Content Type: application/font-sfnt
+
+Uri: http://brightsecuritysystem.com/fonts/fontawesome-webfont.svg
+File Name: c:\Downloaded Web Sites\brightsecuritysystem.com\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: http://brightsecuritysystem.com/fonts/Flaticon.eot
+File Name: c:\Downloaded Web Sites\brightsecuritysystem.com\fonts\Flaticon.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://brightsecuritysystem.com/fonts/Flaticon-1.eot
+File Name: c:\Downloaded Web Sites\brightsecuritysystem.com\fonts\Flaticon-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://brightsecuritysystem.com/fonts/Flaticon.woff
+File Name: c:\Downloaded Web Sites\brightsecuritysystem.com\fonts\Flaticon.woff
+Content Type: application/font-woff
+
+Uri: http://brightsecuritysystem.com/fonts/Flaticon.ttf
+File Name: c:\Downloaded Web Sites\brightsecuritysystem.com\fonts\Flaticon.ttf
+Content Type: application/font-sfnt
+
+Uri: http://brightsecuritysystem.com/fonts/Flaticon.svg
+File Name: c:\Downloaded Web Sites\brightsecuritysystem.com\fonts\Flaticon.svg
+Content Type: image/svg+xml
+
+Uri: http://brightsecuritysystem.com/images/security_bg.jfif
+File Name: c:\Downloaded Web Sites\brightsecuritysystem.com\images\security_bg.jfif
+Content Type: 
+
+Uri: http://brightsecuritysystem.com/images/testimonial.jfif
+File Name: c:\Downloaded Web Sites\brightsecuritysystem.com\images\testimonial.jfif
+Content Type: 
+
+Uri: http://brightsecuritysystem.com/images/blog_bg.jfif
+File Name: c:\Downloaded Web Sites\brightsecuritysystem.com\images\blog_bg.jfif
+Content Type: 
+
+Uri: http://brightsecuritysystem.com/images/top_img_bg.jfif
+File Name: c:\Downloaded Web Sites\brightsecuritysystem.com\images\top_img_bg.jfif
+Content Type: 
+
+Uri: http://brightsecuritysystem.com/images/blog_bg_line.png
+File Name: c:\Downloaded Web Sites\brightsecuritysystem.com\images\blog_bg_line.png
+Content Type: image/png
+
+Uri: http://brightsecuritysystem.com/images/contct_us_bg.jfif
+File Name: c:\Downloaded Web Sites\brightsecuritysystem.com\images\contct_us_bg.jfif
+Content Type: 
+
+Uri: http://brightsecuritysystem.com/css/custom.css
+File Name: c:\Downloaded Web Sites\brightsecuritysystem.com\css\custom.css
+Content Type: text/css
+
+Uri: http://brightsecuritysystem.com/images/access_control.jpg
+File Name: c:\Downloaded Web Sites\brightsecuritysystem.com\images\access_control.jpeg
+Content Type: image/jpeg
+
+Uri: http://brightsecuritysystem.com/images/mission.jpg
+File Name: c:\Downloaded Web Sites\brightsecuritysystem.com\images\mission.jpeg
+Content Type: image/jpeg
+
+Uri: http://brightsecuritysystem.com/images/bright security about_pat_1.jpg
+File Name: c:\Downloaded Web Sites\brightsecuritysystem.com\images\bright security about_pat_1.jpeg
+Content Type: image/jpeg
+
+Uri: http://brightsecuritysystem.com/images/about/logo-patner.png
+File Name: c:\Downloaded Web Sites\brightsecuritysystem.com\images\about\logo-patner.png
+Content Type: image/png
+
+Uri: http://brightsecuritysystem.com/images/bright security about_pat_2.jpg
+File Name: c:\Downloaded Web Sites\brightsecuritysystem.com\images\bright security about_pat_2.jpeg
+Content Type: image/jpeg
+
+Uri: http://brightsecuritysystem.com/images/services/security-alarm/security-alarm.jpg
+File Name: c:\Downloaded Web Sites\brightsecuritysystem.com\images\services\security-alarm\security-alarm.jpeg
+Content Type: image/jpeg
+
+Uri: http://brightsecuritysystem.com/images/services/security-alarm/wireless_kit_3.jpg
+File Name: c:\Downloaded Web Sites\brightsecuritysystem.com\images\services\security-alarm\wireless_kit_3.jpeg
+Content Type: image/jpeg
+
+Uri: http://brightsecuritysystem.com/images/services/security-alarm/honeywell-lynxtouch-l5100-lynx-touch-wireless-alarm-control-panel.jpg
+File Name: c:\Downloaded Web Sites\brightsecuritysystem.com\images\services\security-alarm\honeywell-lynxtouch-l5100-lynx-touch-wireless-alarm-control-panel.jpeg
+Content Type: image/jpeg
+
+Uri: http://brightsecuritysystem.com/images/services/security-alarm/security-alarm-system-india.jpg
+File Name: c:\Downloaded Web Sites\brightsecuritysystem.com\images\services\security-alarm\security-alarm-system-india.jpeg
+Content Type: image/jpeg
+
+Uri: http://brightsecuritysystem.com/images/services/security-alarm/3.jpg
+File Name: c:\Downloaded Web Sites\brightsecuritysystem.com\images\services\security-alarm\3.jpeg
+Content Type: image/jpeg
+
+Uri: http://brightsecuritysystem.com/images/services/security-alarm/wireless-alarm-system-500x500.jpg
+File Name: c:\Downloaded Web Sites\brightsecuritysystem.com\images\services\security-alarm\wireless-alarm-system-500x500.jpeg
+Content Type: image/jpeg
+
+Uri: http://brightsecuritysystem.com/images/services/security-alarm/OPRCTCKIT-2__51858.1522347977.webp
+File Name: c:\Downloaded Web Sites\brightsecuritysystem.com\images\services\security-alarm\OPRCTCKIT-2__51858.1522347977.webp
+Content Type: 
+
+Uri: http://brightsecuritysystem.com/images/services/fire-alarm/B-Safe-Security_How-to-Select-the-Best-Commercial-Fire-Alarm-System_Image-1-691x460.jpeg
+File Name: c:\Downloaded Web Sites\brightsecuritysystem.com\images\services\fire-alarm\B-Safe-Security_How-to-Select-the-Best-Commercial-Fire-Alarm-System_Image-1-691x460.jpeg
+Content Type: image/jpeg
+
+Uri: http://brightsecuritysystem.com/images/services/fire-alarm/5ad9beb73740d40af01a6a76.jpg
+File Name: c:\Downloaded Web Sites\brightsecuritysystem.com\images\services\fire-alarm\5ad9beb73740d40af01a6a76.jpeg
+Content Type: image/jpeg
+
+Uri: http://brightsecuritysystem.com/images/services/fire-alarm/agni-fire-alarm-panel-500x500.jpg
+File Name: c:\Downloaded Web Sites\brightsecuritysystem.com\images\services\fire-alarm\agni-fire-alarm-panel-500x500.jpeg
+Content Type: image/jpeg
+
+Uri: http://brightsecuritysystem.com/images/services/fire-alarm/addressable-fire-alarm-control-panel-500x500_1_263x271.jpg
+File Name: c:\Downloaded Web Sites\brightsecuritysystem.com\images\services\fire-alarm\addressable-fire-alarm-control-panel-500x500_1_263x271.jpeg
+Content Type: image/jpeg
+
+Uri: http://brightsecuritysystem.com/images/services/fire-alarm/bosch-fpa-1000-v2-analog-addressable-fire-panel-fpa-1000-v2-e9e_263x271.jpg
+File Name: c:\Downloaded Web Sites\brightsecuritysystem.com\images\services\fire-alarm\bosch-fpa-1000-v2-analog-addressable-fire-panel-fpa-1000-v2-e9e_263x271.jpeg
+Content Type: image/jpeg
+
+Uri: http://brightsecuritysystem.com/images/services/time-attendence/CMFP1.jpg
+File Name: c:\Downloaded Web Sites\brightsecuritysystem.com\images\services\time-attendence\CMFP1.jpeg
+Content Type: image/jpeg
+
+Uri: http://brightsecuritysystem.com/images/services/time-attendence/Eco-S-C121-ta_new_1b0ef631-9b3e-4ad5-82bc-604343f7362c_800x.png
+File Name: c:\Downloaded Web Sites\brightsecuritysystem.com\images\services\time-attendence\Eco-S-C121-ta_new_1b0ef631-9b3e-4ad5-82bc-604343f7362c_800x.png
+Content Type: image/png
+
+Uri: http://brightsecuritysystem.com/images/services/time-attendence/face-time-attendance-and-access-control-system-500x500.jpeg
+File Name: c:\Downloaded Web Sites\brightsecuritysystem.com\images\services\time-attendence\face-time-attendance-and-access-control-system-500x500.jpeg
+Content Type: image/jpeg
+
+Uri: http://brightsecuritysystem.com/images/services/time-attendence/fingerprint-time-attendance-system-500x500 (1).jpeg
+File Name: c:\Downloaded Web Sites\brightsecuritysystem.com\images\services\time-attendence\fingerprint-time-attendance-system-500x500 (1).jpeg
+Content Type: image/jpeg
+
+Uri: http://brightsecuritysystem.com/images/services/time-attendence/fingerprint-time-attendance-system-500x500.jpeg
+File Name: c:\Downloaded Web Sites\brightsecuritysystem.com\images\services\time-attendence\fingerprint-time-attendance-system-500x500.jpeg
+Content Type: image/jpeg
+
+Uri: http://brightsecuritysystem.com/images/services/access-control/ACCESS-CONTROL-SLIDER_2.jpg
+File Name: c:\Downloaded Web Sites\brightsecuritysystem.com\images\services\access-control\ACCESS-CONTROL-SLIDER_2.jpeg
+Content Type: image/jpeg
+
+Uri: http://brightsecuritysystem.com/images/services/access-control/access_control_sidebar-1.png
+File Name: c:\Downloaded Web Sites\brightsecuritysystem.com\images\services\access-control\access_control_sidebar-1.png
+Content Type: image/png
+
+Uri: http://brightsecuritysystem.com/images/services/access-control/ROSSLARE_AC-825IP_1.jpg
+File Name: c:\Downloaded Web Sites\brightsecuritysystem.com\images\services\access-control\ROSSLARE_AC-825IP_1.jpeg
+Content Type: image/jpeg
+
+Uri: http://brightsecuritysystem.com/images/services/access-control/HID_access.jpg
+File Name: c:\Downloaded Web Sites\brightsecuritysystem.com\images\services\access-control\HID_access.jpeg
+Content Type: image/jpeg
+
+Uri: http://brightsecuritysystem.com/images/services/access-control/ProRF-T.jpg
+File Name: c:\Downloaded Web Sites\brightsecuritysystem.com\images\services\access-control\ProRF-T.jpeg
+Content Type: image/jpeg
+
+Uri: http://brightsecuritysystem.com/images/services/access-control/az-large-1949661.jpg
+File Name: c:\Downloaded Web Sites\brightsecuritysystem.com\images\services\access-control\az-large-1949661.jpeg
+Content Type: image/jpeg
+
+Uri: http://brightsecuritysystem.com/images/services/access-control/digitek-access-control-system-500x500.jpg
+File Name: c:\Downloaded Web Sites\brightsecuritysystem.com\images\services\access-control\digitek-access-control-system-500x500.jpeg
+Content Type: image/jpeg
+
+Uri: http://brightsecuritysystem.com/images/services/access-control/sf100.png
+File Name: c:\Downloaded Web Sites\brightsecuritysystem.com\images\services\access-control\sf100.png
+Content Type: image/png
+
+Uri: http://brightsecuritysystem.com/images/services/cctv-security/cctv.jpg
+File Name: c:\Downloaded Web Sites\brightsecuritysystem.com\images\services\cctv-security\cctv.jpeg
+Content Type: image/jpeg
+
+Uri: http://brightsecuritysystem.com/images/services/cctv-security/honeywell-cctv-camera-system-500x500.jpeg
+File Name: c:\Downloaded Web Sites\brightsecuritysystem.com\images\services\cctv-security\honeywell-cctv-camera-system-500x500.jpeg
+Content Type: image/jpeg
+
+Uri: http://brightsecuritysystem.com/images/services/cctv-security/Copy_of_Copy_of_Copy_of_Copy_of_Copy_of_Copy_of_Copy_of_512px_x_512px_Untitled_Design_5_99a8a2d3-e7b9-492a-bd1c-7dbd2b2bacfb_345x@2x.png
+File Name: c:\Downloaded Web Sites\brightsecuritysystem.com\images\services\cctv-security\Copy_of_Copy_of_Copy_of_Copy_of_Copy_of_Copy_of_Copy_of_512px_x_512px_Untitled_Design_5_99a8a2d3-e7b9-492a-bd1c-7dbd2b2bacfb_345x@2x.png
+Content Type: image/png
+
+Uri: http://brightsecuritysystem.com/images/services/cctv-security/panasonic-cctv-camera-500x500.jpeg
+File Name: c:\Downloaded Web Sites\brightsecuritysystem.com\images\services\cctv-security\panasonic-cctv-camera-500x500.jpeg
+Content Type: image/jpeg
+
+Uri: http://brightsecuritysystem.com/images/services/cctv-security/p_13498_SAMSUNG-SCD-5083RP.jpg
+File Name: c:\Downloaded Web Sites\brightsecuritysystem.com\images\services\cctv-security\p_13498_SAMSUNG-SCD-5083RP.jpeg
+Content Type: image/jpeg
+
+Uri: http://brightsecuritysystem.com/images/services/cctv-security/Xper-Xc20d01c-Dome-Cctv-Camera-SDL315786990-1-616f7.jpg
+File Name: c:\Downloaded Web Sites\brightsecuritysystem.com\images\services\cctv-security\Xper-Xc20d01c-Dome-Cctv-Camera-SDL315786990-1-616f7.jpeg
+Content Type: image/jpeg
+
+Uri: http://brightsecuritysystem.com/images/services/cctv-security/endroid-bullet-500x500.png
+File Name: c:\Downloaded Web Sites\brightsecuritysystem.com\images\services\cctv-security\endroid-bullet-500x500.png
+Content Type: image/png
+
+Uri: http://brightsecuritysystem.com/images/services/cctv-security/IPC-HDW4831EM-ASE-1.jpg
+File Name: c:\Downloaded Web Sites\brightsecuritysystem.com\images\services\cctv-security\IPC-HDW4831EM-ASE-1.jpeg
+Content Type: image/jpeg
+
+Uri: http://brightsecuritysystem.com/images/services/dvr-security/cdabb08776ae35abe7b63c6329d46e40.jpg
+File Name: c:\Downloaded Web Sites\brightsecuritysystem.com\images\services\dvr-security\cdabb08776ae35abe7b63c6329d46e40.jpeg
+Content Type: image/jpeg
+
+Uri: http://brightsecuritysystem.com/images/services/dvr-security/e8dfc26b9b8f13fac715c0dd516e294f_263x271.jpg
+File Name: c:\Downloaded Web Sites\brightsecuritysystem.com\images\services\dvr-security\e8dfc26b9b8f13fac715c0dd516e294f_263x271.jpeg
+Content Type: image/jpeg
+
+Uri: http://brightsecuritysystem.com/images/services/dvr-security/hikvision-2mp-7a04hqhi-k1-dvr-4-channel-500x500_263x271.jpg
+File Name: c:\Downloaded Web Sites\brightsecuritysystem.com\images\services\dvr-security\hikvision-2mp-7a04hqhi-k1-dvr-4-channel-500x500_263x271.jpeg
+Content Type: image/jpeg
+
+Uri: http://brightsecuritysystem.com/images/services/dvr-security/EverFocus_EDVR16D3_1T_EDVR16D3_1T_16_Channel_1000GB_MPEG_4_529941_263x271.jpg
+File Name: c:\Downloaded Web Sites\brightsecuritysystem.com\images\services\dvr-security\EverFocus_EDVR16D3_1T_EDVR16D3_1T_16_Channel_1000GB_MPEG_4_529941_263x271.jpeg
+Content Type: image/jpeg
+
+Uri: http://brightsecuritysystem.com/images/services/dvr-security/shr-2042p_263x271.jpg
+File Name: c:\Downloaded Web Sites\brightsecuritysystem.com\images\services\dvr-security\shr-2042p_263x271.jpeg
+Content Type: image/jpeg
+
+Uri: http://brightsecuritysystem.com/images/services/av-door/AX-8MV.jpg
+File Name: c:\Downloaded Web Sites\brightsecuritysystem.com\images\services\av-door\AX-8MV.jpeg
+Content Type: image/jpeg
+
+Uri: http://brightsecuritysystem.com/images/services/av-door/panasonic-video-phones.jpg
+File Name: c:\Downloaded Web Sites\brightsecuritysystem.com\images\services\av-door\panasonic-video-phones.jpeg
+Content Type: image/jpeg
+
+Uri: http://brightsecuritysystem.com/images/services/av-door/av_slider.jpg
+File Name: c:\Downloaded Web Sites\brightsecuritysystem.com\images\services\av-door\av_slider.jpeg
+Content Type: image/jpeg
+
+Uri: http://brightsecuritysystem.com/images/services/av-door/SDL802973590_M_1_2x-18df6.jpg
+File Name: c:\Downloaded Web Sites\brightsecuritysystem.com\images\services\av-door\SDL802973590_M_1_2x-18df6.jpeg
+Content Type: image/jpeg
+
+Uri: http://brightsecuritysystem.com/images/services/av-door/DSC_2106.png
+File Name: c:\Downloaded Web Sites\brightsecuritysystem.com\images\services\av-door\DSC_2106.png
+Content Type: image/png
+
+Uri: http://brightsecuritysystem.com/images/services/av-door/securico-sec-wiak-gd-wireless-security-alarm-kit-with-gsm-dialer.jpg
+File Name: c:\Downloaded Web Sites\brightsecuritysystem.com\images\services\av-door\securico-sec-wiak-gd-wireless-security-alarm-kit-with-gsm-dialer.jpeg
+Content Type: image/jpeg
+
+Uri: http://brightsecuritysystem.com/images/services/epabx-system/kx-tde-ip-pbx.jpg
+File Name: c:\Downloaded Web Sites\brightsecuritysystem.com\images\services\epabx-system\kx-tde-ip-pbx.jpeg
+Content Type: image/jpeg
+
+Uri: http://brightsecuritysystem.com/images/services/epabx-system/digital-epabx-system-584.jpeg
+File Name: c:\Downloaded Web Sites\brightsecuritysystem.com\images\services\epabx-system\digital-epabx-system-584.jpeg
+Content Type: image/jpeg
+
+Uri: http://brightsecuritysystem.com/images/services/epabx-system/epabx-308-plus-500x500.jpeg
+File Name: c:\Downloaded Web Sites\brightsecuritysystem.com\images\services\epabx-system\epabx-308-plus-500x500.jpeg
+Content Type: image/jpeg
+
+Uri: http://brightsecuritysystem.com/images/services/epabx-system/KX-TDA-600.jpeg
+File Name: c:\Downloaded Web Sites\brightsecuritysystem.com\images\services\epabx-system\KX-TDA-600.jpeg
+Content Type: image/jpeg
+
+Uri: http://brightsecuritysystem.com/images/services/epabx-system/nec-epabx-system-500x500.jpeg
+File Name: c:\Downloaded Web Sites\brightsecuritysystem.com\images\services\epabx-system\nec-epabx-system-500x500.jpeg
+Content Type: image/jpeg
+
+Uri: http://brightsecuritysystem.com/images/services/parking-management/car-management-parking-system.png
+File Name: c:\Downloaded Web Sites\brightsecuritysystem.com\images\services\parking-management\car-management-parking-system.png
+Content Type: image/png
+
+Uri: http://brightsecuritysystem.com/images/services/parking-management/227885990_Tes-4-2014-903-5.jpeg
+File Name: c:\Downloaded Web Sites\brightsecuritysystem.com\images\services\parking-management\227885990_Tes-4-2014-903-5.jpeg
+Content Type: image/jpeg
+
+Uri: http://brightsecuritysystem.com/images/services/parking-management/5767deb59ec6680654eede89.jpeg
+File Name: c:\Downloaded Web Sites\brightsecuritysystem.com\images\services\parking-management\5767deb59ec6680654eede89.jpeg
+Content Type: image/jpeg
+
+Uri: http://brightsecuritysystem.com/images/services/parking-management/8800196ab0a868610fd90f1bb27590af.jpeg
+File Name: c:\Downloaded Web Sites\brightsecuritysystem.com\images\services\parking-management\8800196ab0a868610fd90f1bb27590af.jpeg
+Content Type: image/jpeg
+
+Uri: http://brightsecuritysystem.com/images/services/parking-management/parkingguidance.jpeg
+File Name: c:\Downloaded Web Sites\brightsecuritysystem.com\images\services\parking-management\parkingguidance.jpeg
+Content Type: image/jpeg
+
+Uri: http://brightsecuritysystem.com/images/services/computer-hardware/0e5350c438caa360aa50dfd8ebd69667.jpg
+File Name: c:\Downloaded Web Sites\brightsecuritysystem.com\images\services\computer-hardware\0e5350c438caa360aa50dfd8ebd69667.jpeg
+Content Type: image/jpeg
+
+Uri: http://brightsecuritysystem.com/images/services/computer-hardware/csm_2-Wegejoystick_frei_web_32af1ae5d1.jpeg
+File Name: c:\Downloaded Web Sites\brightsecuritysystem.com\images\services\computer-hardware\csm_2-Wegejoystick_frei_web_32af1ae5d1.jpeg
+Content Type: image/jpeg
+
+Uri: http://brightsecuritysystem.com/images/services/computer-hardware/printer.png
+File Name: c:\Downloaded Web Sites\brightsecuritysystem.com\images\services\computer-hardware\printer.png
+Content Type: image/png
+
+Uri: http://brightsecuritysystem.com/images/services/computer-hardware/sim2-crystal35-hazimozi-projektor.jpeg
+File Name: c:\Downloaded Web Sites\brightsecuritysystem.com\images\services\computer-hardware\sim2-crystal35-hazimozi-projektor.jpeg
+Content Type: image/jpeg
+
+Uri: http://brightsecuritysystem.com/images/services/computer-hardware/2017-08-15-product-3.jpeg
+File Name: c:\Downloaded Web Sites\brightsecuritysystem.com\images\services\computer-hardware\2017-08-15-product-3.jpeg
+Content Type: image/jpeg
+

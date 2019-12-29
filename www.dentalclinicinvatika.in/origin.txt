@@ -1,0 +1,948 @@
+Uri: http://www.dentalclinicinvatika.in/
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\index.html
+Content Type: text/html
+
+Uri: http://www.dentalclinicinvatika.in/images/favicon.png
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\images\favicon.png
+Content Type: image/png
+
+Uri: http://www.dentalclinicinvatika.in/images/apple-touch-icon.png
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\images\apple-touch-icon.png
+Content Type: image/png
+
+Uri: http://www.dentalclinicinvatika.in/images/apple-touch-icon-72x72.png
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\images\apple-touch-icon-72x72.png
+Content Type: image/png
+
+Uri: http://www.dentalclinicinvatika.in/images/apple-touch-icon-114x114.png
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\images\apple-touch-icon-114x114.png
+Content Type: image/png
+
+Uri: http://www.dentalclinicinvatika.in/images/apple-touch-icon-144x144.png
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\images\apple-touch-icon-144x144.png
+Content Type: image/png
+
+Uri: http://www.dentalclinicinvatika.in/css/bootstrap.min.css
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: http://www.dentalclinicinvatika.in/css/jquery-ui.min.css
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\css\jquery-ui.min.css
+Content Type: text/css
+
+Uri: http://www.dentalclinicinvatika.in/css/animate.css
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\css\animate.css
+Content Type: text/css
+
+Uri: http://www.dentalclinicinvatika.in/css/css-plugin-collections.css
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\css\css-plugin-collections.css
+Content Type: text/css
+
+Uri: http://www.dentalclinicinvatika.in/css/menuzord-skins/menuzord-boxed.css
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\css\menuzord-skins\menuzord-boxed.css
+Content Type: text/css
+
+Uri: http://www.dentalclinicinvatika.in/css/style-main.css
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\css\style-main.css
+Content Type: text/css
+
+Uri: http://www.dentalclinicinvatika.in/css/preloader.css
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\css\preloader.css
+Content Type: text/css
+
+Uri: http://www.dentalclinicinvatika.in/css/custom-bootstrap-margin-padding.css
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\css\custom-bootstrap-margin-padding.css
+Content Type: text/css
+
+Uri: http://www.dentalclinicinvatika.in/js/revolution-slider/css/settings.css
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\js\revolution-slider\css\settings.css
+Content Type: text/css
+
+Uri: http://www.dentalclinicinvatika.in/js/revolution-slider/css/layers.css
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\js\revolution-slider\css\layers.css
+Content Type: text/css
+
+Uri: http://www.dentalclinicinvatika.in/js/revolution-slider/css/navigation.css
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\js\revolution-slider\css\navigation.css
+Content Type: text/css
+
+Uri: http://www.dentalclinicinvatika.in/css/colors/theme-skin-blue4.css
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\css\colors\theme-skin-blue4.css
+Content Type: text/css
+
+Uri: http://www.dentalclinicinvatika.in/index.php
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\index-1.html
+Content Type: text/html
+
+Uri: http://www.dentalclinicinvatika.in/aboutus.php
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\aboutus.html
+Content Type: text/html
+
+Uri: http://www.dentalclinicinvatika.in/dental-treatment.php
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\dental-treatment.html
+Content Type: text/html
+
+Uri: http://www.dentalclinicinvatika.in/skin-treatment.php
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\skin-treatment.html
+Content Type: text/html
+
+Uri: http://www.dentalclinicinvatika.in/appoinment.php
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\appoinment.html
+Content Type: text/html
+
+Uri: http://www.dentalclinicinvatika.in/gallery.php
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\gallery.html
+Content Type: text/html
+
+Uri: http://www.dentalclinicinvatika.in/contact-us.php
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\contact-us.html
+Content Type: text/html
+
+Uri: http://www.dentalclinicinvatika.in/images/portfolio/1.jpg
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\images\portfolio\1.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.dentalclinicinvatika.in/images/portfolio/2.jpg
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\images\portfolio\2.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.dentalclinicinvatika.in/images/portfolio/3.jpg
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\images\portfolio\3.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.dentalclinicinvatika.in/images/portfolio/4.jpg
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\images\portfolio\4.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.dentalclinicinvatika.in/images/portfolio/5.jpg
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\images\portfolio\5.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.dentalclinicinvatika.in/images/portfolio/6.jpg
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\images\portfolio\6.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.dentalclinicinvatika.in/images/portfolio/7.jpg
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\images\portfolio\7.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.dentalclinicinvatika.in/images/portfolio/8.jpg
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\images\portfolio\8.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.dentalclinicinvatika.in/images/portfolio/9.jpg
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\images\portfolio\9.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.dentalclinicinvatika.in/images/portfolio/10.jpg
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\images\portfolio\10.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.dentalclinicinvatika.in/images/portfolio/11.jpg
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\images\portfolio\11.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.dentalclinicinvatika.in/images/portfolio/12.jpg
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\images\portfolio\12.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.dentalclinicinvatika.in/js/jquery-2.2.4.min.js
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\js\jquery-2.2.4.min.js
+Content Type: application/javascript
+
+Uri: http://www.dentalclinicinvatika.in/js/jquery-ui.min.js
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\js\jquery-ui.min.js
+Content Type: application/javascript
+
+Uri: http://www.dentalclinicinvatika.in/js/bootstrap.min.js
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: http://www.dentalclinicinvatika.in/js/jquery-plugin-collection.js
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\js\jquery-plugin-collection.js
+Content Type: application/javascript
+
+Uri: http://www.dentalclinicinvatika.in/js/revolution-slider/js/jquery.themepunch.tools.min.js
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\js\revolution-slider\js\jquery.themepunch.tools.min.js
+Content Type: application/javascript
+
+Uri: http://www.dentalclinicinvatika.in/js/revolution-slider/js/jquery.themepunch.revolution.min.js
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\js\revolution-slider\js\jquery.themepunch.revolution.min.js
+Content Type: application/javascript
+
+Uri: http://www.dentalclinicinvatika.in/images/logo-wide.png
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\images\logo-wide.png
+Content Type: image/png
+
+Uri: http://www.dentalclinicinvatika.in/images/bg/bg1.jpg
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\images\bg\bg1.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.dentalclinicinvatika.in/images/bg/bg8.jpg
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\images\bg\bg8.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.dentalclinicinvatika.in/images/bg/bg7.jpg
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\images\bg\bg7.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.dentalclinicinvatika.in/images/about/8.jpg
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\images\about\8.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.dentalclinicinvatika.in/images/about/6.jpg
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\images\about\6.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.dentalclinicinvatika.in/images/blog/11.jpg
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\images\blog\11.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.dentalclinicinvatika.in/images/blog/22.jpg
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\images\blog\22.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.dentalclinicinvatika.in/images/blog/33.jpg
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\images\blog\33.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.dentalclinicinvatika.in/images/blog/44.jpg
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\images\blog\44.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.dentalclinicinvatika.in/images/blog/55.jpg
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\images\blog\55.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.dentalclinicinvatika.in/images/blog/66.jpg
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\images\blog\66.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.dentalclinicinvatika.in/images/blog/1.jpg
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\images\blog\1.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.dentalclinicinvatika.in/images/blog/2.jpg
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\images\blog\2.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.dentalclinicinvatika.in/images/blog/p.jpg
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\images\blog\p.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.dentalclinicinvatika.in/images/blog/4.jpg
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\images\blog\4.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.dentalclinicinvatika.in/images/blog/5.jpg
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\images\blog\5.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.dentalclinicinvatika.in/images/blog/6.jpg
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\images\blog\6.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.dentalclinicinvatika.in/images/depertments/9.jpg
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\images\depertments\9.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.dentalclinicinvatika.in/images/depertments/7.jpg
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\images\depertments\7.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.dentalclinicinvatika.in/images/depertments/3.jpg
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\images\depertments\3.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.dentalclinicinvatika.in/images/depertments/4.jpg
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\images\depertments\4.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.dentalclinicinvatika.in/images/depertments/5.jpg
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\images\depertments\5.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.dentalclinicinvatika.in/images/depertments/8.jpg
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\images\depertments\8.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.dentalclinicinvatika.in/images/depertments/1.jpg
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\images\depertments\1.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.dentalclinicinvatika.in/images/denapp.jpg
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\images\denapp.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.dentalclinicinvatika.in/images/testimonials/s2.jpg
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\images\testimonials\s2.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.dentalclinicinvatika.in/images/testimonials/s1.jpg
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\images\testimonials\s1.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.dentalclinicinvatika.in/images/logo-wide-white.png
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\images\logo-wide-white.png
+Content Type: image/png
+
+Uri: http://www.dentalclinicinvatika.in/js/custom.js
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\js\custom.js
+Content Type: application/javascript
+
+Uri: http://www.dentalclinicinvatika.in/js/revolution-slider/js/extensions/revolution.extension.actions.min.js
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\js\revolution-slider\js\extensions\revolution.extension.actions.min.js
+Content Type: application/javascript
+
+Uri: http://www.dentalclinicinvatika.in/js/revolution-slider/js/extensions/revolution.extension.carousel.min.js
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\js\revolution-slider\js\extensions\revolution.extension.carousel.min.js
+Content Type: application/javascript
+
+Uri: http://www.dentalclinicinvatika.in/js/revolution-slider/js/extensions/revolution.extension.kenburn.min.js
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\js\revolution-slider\js\extensions\revolution.extension.kenburn.min.js
+Content Type: application/javascript
+
+Uri: http://www.dentalclinicinvatika.in/js/revolution-slider/js/extensions/revolution.extension.layeranimation.min.js
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\js\revolution-slider\js\extensions\revolution.extension.layeranimation.min.js
+Content Type: application/javascript
+
+Uri: http://www.dentalclinicinvatika.in/js/revolution-slider/js/extensions/revolution.extension.migration.min.js
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\js\revolution-slider\js\extensions\revolution.extension.migration.min.js
+Content Type: application/javascript
+
+Uri: http://www.dentalclinicinvatika.in/js/revolution-slider/js/extensions/revolution.extension.navigation.min.js
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\js\revolution-slider\js\extensions\revolution.extension.navigation.min.js
+Content Type: application/javascript
+
+Uri: http://www.dentalclinicinvatika.in/js/revolution-slider/js/extensions/revolution.extension.parallax.min.js
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\js\revolution-slider\js\extensions\revolution.extension.parallax.min.js
+Content Type: application/javascript
+
+Uri: http://www.dentalclinicinvatika.in/js/revolution-slider/js/extensions/revolution.extension.slideanims.min.js
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\js\revolution-slider\js\extensions\revolution.extension.slideanims.min.js
+Content Type: application/javascript
+
+Uri: http://www.dentalclinicinvatika.in/js/revolution-slider/js/extensions/revolution.extension.video.min.js
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\js\revolution-slider\js\extensions\revolution.extension.video.min.js
+Content Type: application/javascript
+
+Uri: http://www.dentalclinicinvatika.in/images/toll.png
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\images\toll.png
+Content Type: image/png
+
+Uri: http://www.dentalclinicinvatika.in/fonts/glyphicons-halflings-regular.eot
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\fonts\glyphicons-halflings-regular.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://www.dentalclinicinvatika.in/fonts/glyphicons-halflings-regulard41d.eot?
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\fonts\glyphicons-halflings-regulard41d.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://www.dentalclinicinvatika.in/fonts/glyphicons-halflings-regular.woff2
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\fonts\glyphicons-halflings-regular.woff2
+Content Type: font/woff2
+
+Uri: http://www.dentalclinicinvatika.in/fonts/glyphicons-halflings-regular.woff
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\fonts\glyphicons-halflings-regular.woff
+Content Type: font/woff
+
+Uri: http://www.dentalclinicinvatika.in/fonts/glyphicons-halflings-regular.ttf
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\fonts\glyphicons-halflings-regular.ttf
+Content Type: font/ttf
+
+Uri: http://www.dentalclinicinvatika.in/fonts/glyphicons-halflings-regular.svg
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\fonts\glyphicons-halflings-regular.svg
+Content Type: image/svg+xml
+
+Uri: http://www.dentalclinicinvatika.in/css/images/ui-icons_444444_256x240.png
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\css\images\ui-icons_444444_256x240.png
+Content Type: image/png
+
+Uri: http://www.dentalclinicinvatika.in/css/images/ui-icons_777777_256x240.png
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\css\images\ui-icons_777777_256x240.png
+Content Type: image/png
+
+Uri: http://www.dentalclinicinvatika.in/css/images/ui-icons_555555_256x240.png
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\css\images\ui-icons_555555_256x240.png
+Content Type: image/png
+
+Uri: http://www.dentalclinicinvatika.in/css/images/ui-icons_ffffff_256x240.png
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\css\images\ui-icons_ffffff_256x240.png
+Content Type: image/png
+
+Uri: http://www.dentalclinicinvatika.in/css/images/ui-icons_777620_256x240.png
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\css\images\ui-icons_777620_256x240.png
+Content Type: image/png
+
+Uri: http://www.dentalclinicinvatika.in/css/images/ui-icons_cc0000_256x240.png
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\css\images\ui-icons_cc0000_256x240.png
+Content Type: image/png
+
+Uri: http://www.dentalclinicinvatika.in/css/owl.video.play.html
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\css\owl.video.play.html
+Content Type: text/html
+
+Uri: http://www.dentalclinicinvatika.in/css/fonts/flexslider-icon.html
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\css\fonts\flexslider-icon.html
+Content Type: text/html
+
+Uri: http://www.dentalclinicinvatika.in/css/fonts/flexslider-icond41d.html?
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\css\fonts\flexslider-icond41d.html
+Content Type: text/html
+
+Uri: http://www.dentalclinicinvatika.in/css/fonts/flexslider-icon-2.html
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\css\fonts\flexslider-icon-2.html
+Content Type: text/html
+
+Uri: http://www.dentalclinicinvatika.in/css/fonts/flexslider-icon-3.html
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\css\fonts\flexslider-icon-3.html
+Content Type: text/html
+
+Uri: http://www.dentalclinicinvatika.in/css/fonts/flexslider-icon-4.html
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\css\fonts\flexslider-icon-4.html
+Content Type: text/html
+
+Uri: http://www.dentalclinicinvatika.in/css/lightbox/close.png
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\css\lightbox\close.png
+Content Type: image/png
+
+Uri: http://www.dentalclinicinvatika.in/css/lightbox/loading.gif
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\css\lightbox\loading.gif
+Content Type: image/gif
+
+Uri: http://www.dentalclinicinvatika.in/css/lightbox/prev.png
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\css\lightbox\prev.png
+Content Type: image/png
+
+Uri: http://www.dentalclinicinvatika.in/css/lightbox/next.png
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\css\lightbox\next.png
+Content Type: image/png
+
+Uri: http://www.dentalclinicinvatika.in/css/nivolightbox-themes/default/loading.gif
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\css\nivolightbox-themes\default\loading.gif
+Content Type: image/gif
+
+Uri: http://www.dentalclinicinvatika.in/css/nivolightbox-themes/default/prev.png
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\css\nivolightbox-themes\default\prev.png
+Content Type: image/png
+
+Uri: http://www.dentalclinicinvatika.in/css/nivolightbox-themes/default/next.png
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\css\nivolightbox-themes\default\next.png
+Content Type: image/png
+
+Uri: http://www.dentalclinicinvatika.in/css/nivolightbox-themes/default/close.png
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\css\nivolightbox-themes\default\close.png
+Content Type: image/png
+
+Uri: http://www.dentalclinicinvatika.in/css/nivolightbox-themes/default/loading%402x.gif
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\css\nivolightbox-themes\default\loading@2x.gif
+Content Type: image/gif
+
+Uri: http://www.dentalclinicinvatika.in/css/nivolightbox-themes/default/prev%402x.png
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\css\nivolightbox-themes\default\prev@2x.png
+Content Type: image/png
+
+Uri: http://www.dentalclinicinvatika.in/css/nivolightbox-themes/default/next%402x.png
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\css\nivolightbox-themes\default\next@2x.png
+Content Type: image/png
+
+Uri: http://www.dentalclinicinvatika.in/css/nivolightbox-themes/default/close%402x.png
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\css\nivolightbox-themes\default\close@2x.png
+Content Type: image/png
+
+Uri: http://www.dentalclinicinvatika.in/css/ytplayer/ytp-regular.eot
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\css\ytplayer\ytp-regular.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://www.dentalclinicinvatika.in/css/bxslider/images/bx_loader.html
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\css\bxslider\images\bx_loader.html
+Content Type: text/html
+
+Uri: http://www.dentalclinicinvatika.in/css/bxslider/images/arrow-left.html
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\css\bxslider\images\arrow-left.html
+Content Type: text/html
+
+Uri: http://www.dentalclinicinvatika.in/css/bxslider/images/arrow-right.html
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\css\bxslider\images\arrow-right.html
+Content Type: text/html
+
+Uri: http://www.dentalclinicinvatika.in/css/prettyPhoto/default/sprite.png
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\css\prettyPhoto\default\sprite.png
+Content Type: image/png
+
+Uri: http://www.dentalclinicinvatika.in/css/prettyPhoto/default/sprite_x.png
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\css\prettyPhoto\default\sprite_x.png
+Content Type: image/png
+
+Uri: http://www.dentalclinicinvatika.in/css/prettyPhoto/default/sprite_y.png
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\css\prettyPhoto\default\sprite_y.png
+Content Type: image/png
+
+Uri: http://www.dentalclinicinvatika.in/css/prettyPhoto/default/sprite_next.png
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\css\prettyPhoto\default\sprite_next.png
+Content Type: image/png
+
+Uri: http://www.dentalclinicinvatika.in/css/prettyPhoto/default/sprite_prev.png
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\css\prettyPhoto\default\sprite_prev.png
+Content Type: image/png
+
+Uri: http://www.dentalclinicinvatika.in/css/prettyPhoto/default/default_thumb.png
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\css\prettyPhoto\default\default_thumb.png
+Content Type: image/png
+
+Uri: http://www.dentalclinicinvatika.in/css/prettyPhoto/default/loader.gif
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\css\prettyPhoto\default\loader.gif
+Content Type: image/gif
+
+Uri: http://www.dentalclinicinvatika.in/css/prettyPhoto/light_rounded/sprite.png
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\css\prettyPhoto\light_rounded\sprite.png
+Content Type: image/png
+
+Uri: http://www.dentalclinicinvatika.in/css/prettyPhoto/light_rounded/btnNext.png
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\css\prettyPhoto\light_rounded\btnNext.png
+Content Type: image/png
+
+Uri: http://www.dentalclinicinvatika.in/css/prettyPhoto/light_rounded/btnPrevious.png
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\css\prettyPhoto\light_rounded\btnPrevious.png
+Content Type: image/png
+
+Uri: http://www.dentalclinicinvatika.in/css/prettyPhoto/dark_rounded/sprite.png
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\css\prettyPhoto\dark_rounded\sprite.png
+Content Type: image/png
+
+Uri: http://www.dentalclinicinvatika.in/css/prettyPhoto/dark_rounded/contentPattern.png
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\css\prettyPhoto\dark_rounded\contentPattern.png
+Content Type: image/png
+
+Uri: http://www.dentalclinicinvatika.in/css/prettyPhoto/dark_rounded/btnNext.png
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\css\prettyPhoto\dark_rounded\btnNext.png
+Content Type: image/png
+
+Uri: http://www.dentalclinicinvatika.in/css/prettyPhoto/dark_rounded/btnPrevious.png
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\css\prettyPhoto\dark_rounded\btnPrevious.png
+Content Type: image/png
+
+Uri: http://www.dentalclinicinvatika.in/css/prettyPhoto/dark_rounded/loader.gif
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\css\prettyPhoto\dark_rounded\loader.gif
+Content Type: image/gif
+
+Uri: http://www.dentalclinicinvatika.in/css/prettyPhoto/dark_square/loader.gif
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\css\prettyPhoto\dark_square\loader.gif
+Content Type: image/gif
+
+Uri: http://www.dentalclinicinvatika.in/css/prettyPhoto/dark_square/sprite.png
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\css\prettyPhoto\dark_square\sprite.png
+Content Type: image/png
+
+Uri: http://www.dentalclinicinvatika.in/css/prettyPhoto/dark_square/btnNext.png
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\css\prettyPhoto\dark_square\btnNext.png
+Content Type: image/png
+
+Uri: http://www.dentalclinicinvatika.in/css/prettyPhoto/dark_square/btnPrevious.png
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\css\prettyPhoto\dark_square\btnPrevious.png
+Content Type: image/png
+
+Uri: http://www.dentalclinicinvatika.in/css/prettyPhoto/light_square/sprite.png
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\css\prettyPhoto\light_square\sprite.png
+Content Type: image/png
+
+Uri: http://www.dentalclinicinvatika.in/css/prettyPhoto/light_square/btnNext.png
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\css\prettyPhoto\light_square\btnNext.png
+Content Type: image/png
+
+Uri: http://www.dentalclinicinvatika.in/css/prettyPhoto/light_square/btnPrevious.png
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\css\prettyPhoto\light_square\btnPrevious.png
+Content Type: image/png
+
+Uri: http://www.dentalclinicinvatika.in/css/prettyPhoto/facebook/sprite.png
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\css\prettyPhoto\facebook\sprite.png
+Content Type: image/png
+
+Uri: http://www.dentalclinicinvatika.in/css/prettyPhoto/facebook/contentPatternTop.png
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\css\prettyPhoto\facebook\contentPatternTop.png
+Content Type: image/png
+
+Uri: http://www.dentalclinicinvatika.in/css/prettyPhoto/facebook/contentPatternLeft.png
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\css\prettyPhoto\facebook\contentPatternLeft.png
+Content Type: image/png
+
+Uri: http://www.dentalclinicinvatika.in/css/prettyPhoto/facebook/contentPatternRight.png
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\css\prettyPhoto\facebook\contentPatternRight.png
+Content Type: image/png
+
+Uri: http://www.dentalclinicinvatika.in/css/prettyPhoto/facebook/loader.gif
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\css\prettyPhoto\facebook\loader.gif
+Content Type: image/gif
+
+Uri: http://www.dentalclinicinvatika.in/css/prettyPhoto/facebook/btnNext.png
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\css\prettyPhoto\facebook\btnNext.png
+Content Type: image/png
+
+Uri: http://www.dentalclinicinvatika.in/css/prettyPhoto/facebook/btnPrevious.png
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\css\prettyPhoto\facebook\btnPrevious.png
+Content Type: image/png
+
+Uri: http://www.dentalclinicinvatika.in/css/prettyPhoto/facebook/contentPatternBottom.png
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\css\prettyPhoto\facebook\contentPatternBottom.png
+Content Type: image/png
+
+Uri: http://www.dentalclinicinvatika.in/css/prettyPhoto/facebook/default_thumbnail.gif
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\css\prettyPhoto\facebook\default_thumbnail.gif
+Content Type: image/gif
+
+Uri: http://www.dentalclinicinvatika.in/css/prettyPhoto/light_rounded/loader.gif
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\css\prettyPhoto\light_rounded\loader.gif
+Content Type: image/gif
+
+Uri: https://fonts.googleapis.com/css?family=Montserrat:400,700
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\css.css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Open+Sans:300,400,500,600,700,800
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\css-1.css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Playfair+Display:400,400italic,700,700italic
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\css-2.css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Raleway:400,300,200,500,700,600,800
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\css-3.css
+Content Type: text/css
+
+Uri: http://www.dentalclinicinvatika.in/images/pattern1.png
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\images\pattern1.png
+Content Type: image/png
+
+Uri: http://www.dentalclinicinvatika.in/images/pattern2.png
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\images\pattern2.png
+Content Type: image/png
+
+Uri: http://www.dentalclinicinvatika.in/images/pattern3.png
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\images\pattern3.png
+Content Type: image/png
+
+Uri: http://www.dentalclinicinvatika.in/images/close.png
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\images\close.png
+Content Type: image/png
+
+Uri: http://www.dentalclinicinvatika.in/images/shadow-overlay.png
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\images\shadow-overlay.png
+Content Type: image/png
+
+Uri: http://www.dentalclinicinvatika.in/css/images/countdown/shop.html
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\css\images\countdown\shop.html
+Content Type: text/html
+
+Uri: http://www.dentalclinicinvatika.in/images/testimonials/quote_arrow.png
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\images\testimonials\quote_arrow.png
+Content Type: image/png
+
+Uri: http://www.dentalclinicinvatika.in/css/font-awesome.min.css
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: http://www.dentalclinicinvatika.in/css/font-awesome-animation.min.css
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\css\font-awesome-animation.min.css
+Content Type: text/css
+
+Uri: http://www.dentalclinicinvatika.in/css/pe-icon-7-stroke.css
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\css\pe-icon-7-stroke.css
+Content Type: text/css
+
+Uri: http://www.dentalclinicinvatika.in/css/elegant-icons.css
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\css\elegant-icons.css
+Content Type: text/css
+
+Uri: http://www.dentalclinicinvatika.in/css/stroke-gap-icons.css
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\css\stroke-gap-icons.css
+Content Type: text/css
+
+Uri: http://www.dentalclinicinvatika.in/css/flaticon-set-dental.css
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\css\flaticon-set-dental.css
+Content Type: text/css
+
+Uri: http://www.dentalclinicinvatika.in/css/flaticon-set-medical.css
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\css\flaticon-set-medical.css
+Content Type: text/css
+
+Uri: http://www.dentalclinicinvatika.in/css/utility-classes.css
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\css\utility-classes.css
+Content Type: text/css
+
+Uri: http://www.dentalclinicinvatika.in/js/revolution-slider/fonts/revicons/revicons90c6.eot?5510888
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\js\revolution-slider\fonts\revicons\revicons90c6.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://www.dentalclinicinvatika.in/js/revolution-slider/fonts/revicons/revicons90c6.woff?5510888
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\js\revolution-slider\fonts\revicons\revicons90c6.woff
+Content Type: font/woff
+
+Uri: http://www.dentalclinicinvatika.in/js/revolution-slider/fonts/revicons/revicons90c6.ttf?5510888
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\js\revolution-slider\fonts\revicons\revicons90c6.ttf
+Content Type: font/ttf
+
+Uri: http://www.dentalclinicinvatika.in/js/revolution-slider/fonts/revicons/revicons90c6.svg?5510888
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\js\revolution-slider\fonts\revicons\revicons90c6.svg
+Content Type: image/svg+xml
+
+Uri: http://www.dentalclinicinvatika.in/js/revolution-slider/css/openhand.cur
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\js\revolution-slider\css\openhand.cur
+Content Type: 
+
+Uri: http://www.dentalclinicinvatika.in/js/revolution-slider/css/closedhand.cur
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\js\revolution-slider\css\closedhand.cur
+Content Type: 
+
+Uri: http://www.dentalclinicinvatika.in/js/revolution-slider/assets/gridtile.png
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\js\revolution-slider\assets\gridtile.png
+Content Type: image/png
+
+Uri: http://www.dentalclinicinvatika.in/js/revolution-slider/assets/gridtile_white.png
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\js\revolution-slider\assets\gridtile_white.png
+Content Type: image/png
+
+Uri: http://www.dentalclinicinvatika.in/js/revolution-slider/assets/gridtile_3x3.png
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\js\revolution-slider\assets\gridtile_3x3.png
+Content Type: image/png
+
+Uri: http://www.dentalclinicinvatika.in/js/revolution-slider/assets/gridtile_3x3_white.png
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\js\revolution-slider\assets\gridtile_3x3_white.png
+Content Type: image/png
+
+Uri: http://www.dentalclinicinvatika.in/js/revolution-slider/assets/coloredbg.png
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\js\revolution-slider\assets\coloredbg.png
+Content Type: image/png
+
+Uri: http://www.dentalclinicinvatika.in/js/revolution-slider/assets/loader.gif
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\js\revolution-slider\assets\loader.gif
+Content Type: image/gif
+
+Uri: http://www.dentalclinicinvatika.in/css/responsive.css
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\css\responsive.css
+Content Type: text/css
+
+Uri: http://www.dentalclinicinvatika.in/images/about/9.jpg
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\images\about\9.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.dentalclinicinvatika.in/images/about/7.jpg
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\images\about\7.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.dentalclinicinvatika.in/images/about/10.jpg
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\images\about\10.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.dentalclinicinvatika.in/images/about/11.jpg
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\images\about\11.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.dentalclinicinvatika.in/images/photos/1.png
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\images\photos\1.png
+Content Type: image/png
+
+Uri: http://www.dentalclinicinvatika.in/images/gallery/1.jpg
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\images\gallery\1.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.dentalclinicinvatika.in/images/gallery/2.jpg
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\images\gallery\2.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.dentalclinicinvatika.in/images/gallery/3.jpg
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\images\gallery\3.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.dentalclinicinvatika.in/images/gallery/6.jpg
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\images\gallery\6.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.dentalclinicinvatika.in/images/gallery/5.jpg
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\images\gallery\5.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.dentalclinicinvatika.in/images/gallery/4.jpg
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\images\gallery\4.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.dentalclinicinvatika.in/js/google-map-init.js
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\js\google-map-init.js
+Content Type: application/javascript
+
+Uri: https://fonts.gstatic.com/s/montserrat/v12/JTUSjIg1_i6t8kCHKm459Wlhzg.ttf
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\s\montserrat\v12\JTUSjIg1_i6t8kCHKm459Wlhzg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v12/JTURjIg1_i6t8kCHKm45_dJE3gnD-w.ttf
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\s\montserrat\v12\JTURjIg1_i6t8kCHKm45_dJE3gnD-w.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v15/mem5YaGs126MiZpBA-UN_r8OUuhs.ttf
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\s\opensans\v15\mem5YaGs126MiZpBA-UN_r8OUuhs.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v15/mem8YaGs126MiZpBA-UFVZ0e.ttf
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\s\opensans\v15\mem8YaGs126MiZpBA-UFVZ0e.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v15/mem5YaGs126MiZpBA-UNirkOUuhs.ttf
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\s\opensans\v15\mem5YaGs126MiZpBA-UNirkOUuhs.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v15/mem5YaGs126MiZpBA-UN7rgOUuhs.ttf
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\s\opensans\v15\mem5YaGs126MiZpBA-UN7rgOUuhs.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v15/mem5YaGs126MiZpBA-UN8rsOUuhs.ttf
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\s\opensans\v15\mem5YaGs126MiZpBA-UN8rsOUuhs.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfairdisplay/v13/nuFkD-vYSZviVYUb_rj3ij__anPXDTnogkk-.ttf
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\s\playfairdisplay\v13\nuFkD-vYSZviVYUb_rj3ij__anPXDTnogkk-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfairdisplay/v13/nuFnD-vYSZviVYUb_rj3ij__anPXDTngOWwu5DRj.ttf
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\s\playfairdisplay\v13\nuFnD-vYSZviVYUb_rj3ij__anPXDTngOWwu5DRj.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfairdisplay/v13/nuFiD-vYSZviVYUb_rj3ij__anPXDTzYhQ.ttf
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\s\playfairdisplay\v13\nuFiD-vYSZviVYUb_rj3ij__anPXDTzYhQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfairdisplay/v13/nuFlD-vYSZviVYUb_rj3ij__anPXBYf9lW4e4w.ttf
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\s\playfairdisplay\v13\nuFlD-vYSZviVYUb_rj3ij__anPXBYf9lW4e4w.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v12/1Ptrg8zYS_SKggPNwOIpWqZPBQ.ttf
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\s\raleway\v12\1Ptrg8zYS_SKggPNwOIpWqZPBQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v12/1Ptrg8zYS_SKggPNwIYqWqZPBQ.ttf
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\s\raleway\v12\1Ptrg8zYS_SKggPNwIYqWqZPBQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v12/1Ptug8zYS_SKggPNyC0ISg.ttf
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\s\raleway\v12\1Ptug8zYS_SKggPNyC0ISg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v12/1Ptrg8zYS_SKggPNwN4rWqZPBQ.ttf
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\s\raleway\v12\1Ptrg8zYS_SKggPNwN4rWqZPBQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v12/1Ptrg8zYS_SKggPNwPIsWqZPBQ.ttf
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\s\raleway\v12\1Ptrg8zYS_SKggPNwPIsWqZPBQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v12/1Ptrg8zYS_SKggPNwJYtWqZPBQ.ttf
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\s\raleway\v12\1Ptrg8zYS_SKggPNwJYtWqZPBQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v12/1Ptrg8zYS_SKggPNwIouWqZPBQ.ttf
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\s\raleway\v12\1Ptrg8zYS_SKggPNwIouWqZPBQ.ttf
+Content Type: font/ttf
+
+Uri: http://www.dentalclinicinvatika.in/fonts/fontawesome-webfont3295.eot?v=4.5.0
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\fonts\fontawesome-webfont3295.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://www.dentalclinicinvatika.in/fonts/fontawesome-webfontd41d.eot?
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\fonts\fontawesome-webfontd41d.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://www.dentalclinicinvatika.in/fonts/fontawesome-webfont3295.woff2?v=4.5.0
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\fonts\fontawesome-webfont3295.woff2
+Content Type: font/woff2
+
+Uri: http://www.dentalclinicinvatika.in/fonts/fontawesome-webfont3295.woff?v=4.5.0
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\fonts\fontawesome-webfont3295.woff
+Content Type: font/woff
+
+Uri: http://www.dentalclinicinvatika.in/fonts/fontawesome-webfont3295.ttf?v=4.5.0
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\fonts\fontawesome-webfont3295.ttf
+Content Type: font/ttf
+
+Uri: http://www.dentalclinicinvatika.in/fonts/fontawesome-webfont3295.svg?v=4.5.0
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\fonts\fontawesome-webfont3295.svg
+Content Type: image/svg+xml
+
+Uri: http://www.dentalclinicinvatika.in/fonts/Pe-icon-7-strokebb1d.eot?d7yf1v
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\fonts\Pe-icon-7-strokebb1d.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://www.dentalclinicinvatika.in/fonts/Pe-icon-7-stroked41d.eot?
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\fonts\Pe-icon-7-stroked41d.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://www.dentalclinicinvatika.in/fonts/Pe-icon-7-strokebb1d.woff?d7yf1v
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\fonts\Pe-icon-7-strokebb1d.woff
+Content Type: font/woff
+
+Uri: http://www.dentalclinicinvatika.in/fonts/Pe-icon-7-strokebb1d.ttf?d7yf1v
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\fonts\Pe-icon-7-strokebb1d.ttf
+Content Type: font/ttf
+
+Uri: http://www.dentalclinicinvatika.in/fonts/Pe-icon-7-strokebb1d.svg?d7yf1v
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\fonts\Pe-icon-7-strokebb1d.svg
+Content Type: image/svg+xml
+
+Uri: http://www.dentalclinicinvatika.in/fonts/ElegantIcons.eot
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\fonts\ElegantIcons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://www.dentalclinicinvatika.in/fonts/ElegantIconsd41d.eot?
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\fonts\ElegantIconsd41d.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://www.dentalclinicinvatika.in/fonts/ElegantIcons.woff
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\fonts\ElegantIcons.woff
+Content Type: font/woff
+
+Uri: http://www.dentalclinicinvatika.in/fonts/ElegantIcons.ttf
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\fonts\ElegantIcons.ttf
+Content Type: font/ttf
+
+Uri: http://www.dentalclinicinvatika.in/fonts/ElegantIcons.svg
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\fonts\ElegantIcons.svg
+Content Type: image/svg+xml
+
+Uri: http://www.dentalclinicinvatika.in/fonts/Stroke-Gap-Icons.eot
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\fonts\Stroke-Gap-Icons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://www.dentalclinicinvatika.in/fonts/flaticons/flaticon-set-dental.eot
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\fonts\flaticons\flaticon-set-dental.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://www.dentalclinicinvatika.in/fonts/flaticons/flaticon-set-dentald41d.eot?
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\fonts\flaticons\flaticon-set-dentald41d.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://www.dentalclinicinvatika.in/fonts/flaticons/flaticon-set-dental.woff
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\fonts\flaticons\flaticon-set-dental.woff
+Content Type: font/woff
+
+Uri: http://www.dentalclinicinvatika.in/fonts/flaticons/flaticon-set-dental.ttf
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\fonts\flaticons\flaticon-set-dental.ttf
+Content Type: font/ttf
+
+Uri: http://www.dentalclinicinvatika.in/fonts/flaticons/flaticon-set-dental.svg
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\fonts\flaticons\flaticon-set-dental.svg
+Content Type: image/svg+xml
+
+Uri: http://www.dentalclinicinvatika.in/fonts/flaticons/flaticon-set-medicalff07.eot?hr0153
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\fonts\flaticons\flaticon-set-medicalff07.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://www.dentalclinicinvatika.in/fonts/flaticons/flaticon-set-medicalff07.ttf?hr0153
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\fonts\flaticons\flaticon-set-medicalff07.ttf
+Content Type: font/ttf
+
+Uri: http://www.dentalclinicinvatika.in/fonts/flaticons/flaticon-set-medicalff07.woff?hr0153
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\fonts\flaticons\flaticon-set-medicalff07.woff
+Content Type: font/woff
+
+Uri: http://www.dentalclinicinvatika.in/fonts/flaticons/flaticon-set-medicalff07.svg?hr0153
+File Name: c:\Downloaded Web Sites\www.dentalclinicinvatika.in\fonts\flaticons\flaticon-set-medicalff07.svg
+Content Type: image/svg+xml
+

@@ -1,0 +1,553 @@
+﻿<!DOCTYPE html>
+<!--[if lt IE 10]> 
+<html  lang="en" class="iex">
+   <![endif]-->
+   <!--[if (gt IE 10)|!(IE)]><!-->
+   <html lang="en">
+      <!--<![endif]-->
+      <head>
+      	<!-- Global site tag (gtag.js) - Google Analytics -->
+		<script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-118261268-2"></script>
+		<script>
+		  window.dataLayer = window.dataLayer || [];
+		  function gtag(){dataLayer.push(arguments);}
+		  gtag('js', new Date());
+
+		  gtag('config', 'UA-118261268-2');
+		</script>
+         <meta charset="utf-8">
+         <meta http-equiv="X-UA-Compatible" content="IE=edge">
+         <meta name="viewport" content="width=device-width, initial-scale=1">
+         <title>About | JMV Developers</title>
+         <meta name="description" content="JMV Developers established in 2008 is a renowned brand to cater to all your Real Estate needs. 
+            JMV Developers assure you the full satisfaction as regards to the quality, commitment, service and deal in a wide network of properties. ">
+         <meta name="keywords" content="JMV Developers,real estate jmvdevelopers, Real Estate delhi NCR, Real Estate in Ghaziabad,JMV DEVELOPERS in Ghaziabad, Jewar Airport Property,real estate dealer in delhi ncr,jmvdevelopers in ghaziabad, ghaziabad property dealer, Propert dealer in Ghaziabad">
+         <script src="scripts\jquery.min.js"></script>
+         <link rel="stylesheet" href="css\bootstrap\css\bootstrap.css">
+         <script src="scripts\script.js"></script>
+         <link rel="stylesheet" href="css\style.css">
+         <link rel="stylesheet" href="css\animations.css">
+         <link rel="stylesheet" href='css\components.css'>
+         <link rel="icon" href="images\jmv developers-logo.png">
+         <link rel="stylesheet" href='css\magnific-popup.css'>
+         <link rel="stylesheet" href="css\skin.css">
+         <link rel="stylesheet" href='css\flexslider\flexslider.css'>
+         <link rel="stylesheet" href="css\custom.css">
+         <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
+         <link rel="stylesheet" href="scripts\font-awesome\css\font-awesome.min.css">
+         <link href="https://fonts.googleapis.com/css?family=Dosis:400,600,700|Lobster|Open+Sans" rel="stylesheet">
+         <link href="https://fonts.googleapis.com/css?family=Dosis:400,500,600,700|Lobster|Open+Sans:400,500,600" rel="stylesheet">
+         <link href="https://fonts.googleapis.com/css?family=Dosis:400,600,700|Lobster|Open+Sans:400,500,600,700" rel="stylesheet">
+         <style>
+            /*-----Float form------------*/
+            .float-msg{
+            position:absolute;
+            z-index:9;
+            }
+            .float .fa {
+            color:white;
+            font-size:14px;
+            text-align:center;
+            }
+            .float p {
+            color:white;
+            padding:6px;
+            text-align:center;
+            }
+            .float a:active{
+            background:#EAAB00;
+            }
+            .float{
+            position:fixed;
+            width:80px;
+            height:80px;
+            bottom:30%;
+            right:0px;
+            background-color:#EAAB00;
+            color:#FFF;
+            border-rdius:0px;
+            text-align:center;
+            box-shadow: 0px 0px 60px 0px rgba(0,0,0,0.4);
+            }
+            .my-float{
+            margin-top:22px;
+            }
+            .float-form {
+            position:fixed;
+            z-index:9;
+            }
+            #form
+            {
+            position: fixed;
+            bottom: 0px;
+            float:right;
+            right:140px;
+            width:320px;
+            bottom:30px;
+            border:2px solid #EAAB00;
+            padding:0px;
+            background:#fff;
+            box-shadow:0 130px 160px 140px rgba(0,0,0,0.04); 
+            visibility: visible;
+            /*-webkit-animation: slide 0.5s forwards;
+            -webkit-animation-delay: 2s;
+            animation: slide 0.5s forwards;
+            animation-delay: 2s;*/
+            }
+            /*
+            @-webkit-keyframes slide {
+            100% { left: 0; }
+            }
+            @keyframes slide {
+            100% { left: 0; }
+            }
+            */
+            .nav-tabs a{
+            background-color:#EAAB00;
+            }
+            #form::after
+            {
+            content: "";
+            position: absolute;
+            top: 50%;
+            right:-50px;
+            margin-left: 78px;
+            border-width: 25px;
+            border-style: solid;
+            border-color: transparent transparent transparent #EAAB00;
+            }
+            #form p
+            {
+            margin:0px;
+            margi-bottom:10px;
+            background-color:#EAAB00;
+            text-align:center;
+            color:#fff;
+            padding:20px;
+            font-size:20px;
+            letter-spacing:2px;
+            mrgin-left:20px;
+            mrgin-right:20px;
+            cursor:pointer;
+            }
+            form
+            {
+            padding:1rem 1rem;
+            display:none;
+            }
+            input[type="text"]
+            {
+            font-family: "Roboto", sans-serif;
+            outline: 0;
+            background: #f2f2f2;
+            width: 100%;
+            height:28px;
+            border: 0;
+            margin: 0 0 15px;
+            padding: 15px;
+            box-sizing: border-box;
+            font-size: 14px;
+            letter-spacing:1px;
+            }
+            .form-control{
+            background: #f2f2f2 !important;
+            border-bottom: 1px solid #f2f2f2;
+            color:#EAAB00 !important;
+            }
+            .form-control:focus{
+            border-color:#EAAB00;
+            color:#EAAB00 !important;
+            }
+            select {
+            font-family: "Roboto", sans-serif;
+            outline: 0;
+            background: #f2f2f2 !important;
+            width: 100%;
+            height:28px;
+            border: 0;
+            margin: 0 0 15px;
+            padding: 15px;
+            box-sizing: border-box;
+            font-size: 14px;
+            letter-spacing:1px;
+            }
+            input:focus, textarea:focus {
+            border:1px solid #EAAB00;
+            outline:none;
+            color:#EAAB00;
+            }
+            text_field:focus {
+            outline: none !important;
+            border-color: #fd784f;
+            }
+            textarea
+            {
+            width:100%;
+            margin-left:15px;
+            border: 0;
+            margin: 0 0 15px;
+            padding: 15px;
+            box-sizing: border-box;
+            background: #f2f2f2;
+            font-size: 14px;
+            font-family:helvetica;
+            }
+            .submit_feedback:focus
+            {
+            color:white;
+            }
+            .submit_feedback
+            {
+            width:120px;
+            text-align:center;
+            margin-left:75px;
+            background-color:#EAAB00;
+            border:none;
+            color:white;
+            height:35px;
+            font-size:18px;
+            margin-top:10px;
+            margin-bottom:0px;
+            border-radius:5px;
+            }   
+            .orm-inner{
+            padding:0px;
+            }   
+            .mfp-container{
+            cursor: default !important;
+            }   
+            .mfp-container.active .mfp-close{
+            cursor: pointer !important;
+            }  
+         </style>
+      </head>
+      <body>
+         <div id="preloader"></div>
+         <header>
+            <nav class="navbar navbar-default navbar-fixed-top over">
+               
+               <div class="navbar-mini scroll-hide scroll-show-mobile">
+                  <div class="container">
+                     <div class="nav navbar-nav navbar-left">
+                        <span><i class="fa fa-phone"></i>012-02841500</span>
+                        <hr>
+                        <span><i class="fa fa-envelope-o"></i>info@jmvdevelopers.com</span>
+                     </div>
+                     <div class="nav navbar-nav navbar-right">
+                        <div class="minisocial-group">
+                           <a target="_blank" href="https://www.facebook.com/Jmv-Developers-400467110434254/?modal=admin_todo_tour"><i class="fa fa-facebook first"></i></a>
+                           <a target="_blank" href="https://twitter.com/DevelopersJmv"><i class="fa fa-twitter"></i></a>
+                           <a target="_blank" href="https://www.instagram.com/jmvdevelopers/"><i class="fa fa-instagram"></i></a>
+                        </div>
+                        <a href="https://accounts.zoho.com/signin" style="padding:10px 10px;"><span><i class="fa fa-sign-in"></i><span style="color:#000; ">Login</span></span></a>
+                     </div>
+                  </div>
+               </div>
+               <div class="navbar navbar-main middle-box-menu scroll-change mega-menu-fullwidth">
+                  <div class="container">
+                     <div class="navbar-header">
+                        <button type="button" class="navbar-toggle">
+                        <i class="fa fa-bars"></i>
+                        </button>
+                        <a class="navbar-brand" style="padding:0;margin:0;" href="index-1.html"><img src="images\jmv developers-logo.png" width="100" alt="logo"></a>
+                        <a class="navbar-brand">
+                           <div style="color:#EAAB00; font-size:24px; padding-top:15px; font-family: 'Dosis', sans-serif; letter-spacing:2px; text-align:left; font-weight:900;">
+                              JMV 
+                              <div style="font-size:16px;">DEVELOPERS</div>
+                           </div>
+                        </a>
+                     </div>
+                     <div class="collapse navbar-collapse" data-menu-anima="fade-in">
+                        <ul class="nav navbar-nav navbar-right">
+                           <li><a href="index-1.html">Home </a></li>
+                           <li><a href="about.html">About </a></li>
+                           <li class="dropdown">
+                              <a class="dropdown-toggle" data-toggle="dropdown" href="#">Projects <i class="caret"></i></a>
+                              <ul class="dropdown-menu multi-level">
+                                 <li><a href="harit-homes.html">Harit Homes</a></li>
+                                 <li><a href="green-view-farm.html">Green view Farm</a></li>
+                                 <li><a href="lakshya-project.html">Lakshya Aquapolis</a></li>
+                                 <li><a href="agricultural.html">Agricultural</a></li>
+                                 <li><a href="javascript:void(0);">Jan Awas Yojna</a></li>
+                              </ul>
+                           </li>
+                           <li><a href="career.html">Career</a></li>
+                           <li><a href="contact.html">Contact</a></li>
+                           <li><a href="news-and-feed.html">News and Feeds</a></li>
+                        </ul>
+                        <div class="nav navbar-nav  navbar-right">
+                        </div>
+                     </div>
+                  </div>
+               </div>
+            </nav>
+         </header>
+         <!--header End----------------->
+         <div class="footer-parallax-container">
+            <div class="header-title white" data-parallax="scroll" data-position="top" data-natural-height="550" data-natural-width="1366" data-image-src="images/about/title-4.jpg">
+               <div class="container">
+                  <div class="title-base padt-2">
+                     <h1>ABOUT US</h1>
+                     <hr class="anima">
+                     <p>Informations about our company and our philosophy</p>
+                  </div>
+               </div>
+            </div>
+            <div class="section-empty">
+               <div class="container content">
+                  <div class="row">
+                     <div class="col-md-6">
+                        <div class="title-base title-small text-left" data-anima="show-scale" data-trigger="hover">
+                           <h2><span class="lower-case">About</span>&nbsp;<span class="letter-space-2">US</span></h2>
+                           <hr class="anima">
+                        </div>
+                        <p>
+                           JMV Developers established in 2008 is a renowned brand to cater to all your Real Estate needs. 
+                           We assure you the full satisfaction as regards to the quality, commitment, service and deal in a wide network of properties. 
+                           We offer top-of-the-line reality services and hold a long-range experience in the industry. 
+                           We develop the societies in Residential Plot, Builder Floor Apartment, Farm House Services, Villas. 
+                           We are committed to deliver the expected quality in promised time.
+                        </p>
+                        <br>
+                        <br>
+                        <h4>Vision:</h4>
+                        <ul>
+                           <li>To building significantly to create the new India and become the India's most valueable real estate company.</li>
+                        </ul>
+                        <h4>Mission:</h4>
+                        <ul>
+                           <li>To achieve international standards of excellence with a focus on quality, aesthetics and customer satisfaction.</li>
+                           <li>To achieve prominence in developing, adopting and assimilating state-of-the-art technology for competitive advantage.</li>
+                           <li>To cultivating high standards of ethics and quality for a strong corporate identity and brand equity.</li>
+                        </ul>
+                        <h4>Value:</h4>
+                        <ul>
+                           <li>Put customers before ourselves.</li>
+                           <li>Honorable and expert service.</li>
+                           <li>Respect and falling in line for all community, environmental and legal requirments.</li>
+                           <li>Continuous efforts to improve customer significance and quality.</li>
+                        </ul>
+                     </div>
+                     <div class="col-md-6">
+                        <hr class="space">
+                        <img src="images\about\about-1.gif" alt="">
+                     </div>
+                  </div>
+                  <hr class="space m">
+                  <hr>
+                  <!-- <hr class="space">
+                     <div class="title-base title-small text-left" data-anima="show-scale" data-trigger="hover">
+                        <h2>THE GREAT TEAM</h2>
+                        <hr class="anima">
+                     </div>
+                     <hr class="space s">
+                     <div class="flexslider carousel outer-navs" data-options="numItems:3,minWidth:250">
+                        <ul class="slides">
+                           <li>
+                              <div class="advs-box niche-box-team" data-anima="scale-up" data-trigger="hover">
+                                 <a class="img-box">
+                                 <img class="anima" src="images\about\team-3.jpg" alt="">
+                                 </a>
+                                 <div class="content-box">
+                                    <h2>JACK CHRISTIAN</h2>
+                                    <h4>Builder and tiler</h4>
+                                    <hr class="e">
+                                    <div class="btn-group social-group">
+                                       <a target="_blank" href="#"><i class="fa fa-facebook"></i></a>
+                                       <a target="_blank" href="#"><i class="fa fa-twitter"></i></a>
+                                       <a target="_blank" href="#"><i class="fa fa-instagram"></i></a>
+                                    </div>
+                                 </div>
+                              </div>
+                           </li>
+                           <li>
+                              <div class="advs-box niche-box-team" data-anima="scale-up" data-trigger="hover">
+                                 <a class="img-box">
+                                 <img class="anima" src="images\about\team-4.jpg" alt="">
+                                 </a>
+                                 <div class="content-box">
+                                    <h2>LUCA ARIS</h2>
+                                    <h4>Metalworking</h4>
+                                    <hr class="e">
+                                    <div class="btn-group social-group">
+                                       <a target="_blank" href="#"><i class="fa fa-facebook"></i></a>
+                                       <a target="_blank" href="#"><i class="fa fa-twitter"></i></a>
+                                       <a target="_blank" href="#"><i class="fa fa-instagram"></i></a>
+                                    </div>
+                                 </div>
+                              </div>
+                           </li>
+                           <li>
+                              <div class="advs-box niche-box-team" data-anima="scale-up" data-trigger="hover">
+                                 <a class="img-box">
+                                 <img class="anima" src="images\about\team-5.jpg" alt="">
+                                 </a>
+                                 <div class="content-box">
+                                    <h2>HAILIDI BANKARI</h2>
+                                    <h4>Officer crane</h4>
+                                    <hr class="e">
+                                    <div class="btn-group social-group">
+                                       <a target="_blank" href="#"><i class="fa fa-facebook"></i></a>
+                                       <a target="_blank" href="#"><i class="fa fa-twitter"></i></a>
+                                       <a target="_blank" href="#"><i class="fa fa-instagram"></i></a>
+                                    </div>
+                                 </div>
+                              </div>
+                           </li>
+                        </ul>
+                     </div>
+                     <hr> -->
+                  <hr class="space m">
+                  <div class="row">
+                     <div class="col-md-3">
+                        <div class="title-base title-small text-left" data-anima="show-scale" data-trigger="hover">
+                           <h2>BROCHURES AND DOWNLOADS</h2>
+                           <hr class="anima">
+                        </div>
+                     </div>
+                     <div class="col-md-9">
+                        <a class="btn btn-sm btn-default" href="#" style="margin-bottom:10px;"><i class="fa fa-file-pdf-o"></i> Download PDF <span class="space"></span><span class="space"></span><i class="fa fa-download"></i></a>
+                        <a class="btn btn-sm btn-default" style="margin-bottom:10px;" href="#"><i class="fa fa-file-text-o"></i> Download DOC <span class="space"></span><span class="space"></span><i class="fa fa-download"></i></a>
+                        <a class="btn btn-sm btn-default" style="margin-bottom:10px;" href="#"><i class="fa fa-file-powerpoint-o"></i> Download PPT <span class="space"></span><span class="space"></span><i class="fa fa-download"></i></a>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+         <script async="" src="scripts\bootstrap\js\bootstrap.min.js"></script>
+         <script src="scripts\imagesloaded.min.js"></script>
+         <script src='scripts\jquery.progress-counter.js'></script>
+         <script src='scripts\parallax.min.js'></script>
+         <script src='scripts\flexslider\jquery.flexslider-min.js'></script>
+         <script src='scripts\jquery.tab-accordion.js'></script>
+         <script src='scripts\smooth.scroll.min.js'></script>
+		
+         <script src='scripts\jquery.magnific-popup.min.js'></script>
+         <div id="footer"></div>
+         <!--- Float button=-->
+         <div class="float-msg">
+            <a href="#" id="show-form" class="float">
+               <!--<i class="fa fa-envelope my-float"></i>-->
+               <p>Enquire Now / Book sites</p>
+            </a>
+         </div>
+         <!----float button-->
+         <!---Float-----form----->
+         <div class="float-form">
+            <div id="form">
+               <p id="feedback_button">Feedback</p>
+               <div class="tab-box" data-tab-anima="show-scale">
+                  <ul class="nav nav-tabs nav-justified">
+                     <li class="active"><a href="#">Enquire Now</a></li>
+                     <li><a href="#">Book site</a></li>
+                  </ul>
+                  <div class="panel active">
+                     <form id="active_form">
+                        <div class="form-inner">
+                           <div class="form-group">
+                              <label for="float_name_active">Name:</label>
+                              <input type="text" class="form-control" id="float_name_active">
+                           </div>
+                           <div class="form-group">
+                              <label>Select Location:</label>
+                              <select id="float_location_active" class="form-control">
+                              	 <option>Select</option>
+                                 <option>Gurugram</option>
+                                 <option>Noida</option>
+                                 <option>Ghaziabad</option>
+                                 <option>Jaipur</option>
+                              </select>
+                           </div>
+                           <div class="form-group">
+                              <label for="float_email_active">Email:</label>
+                              <input type="email" id="float_email_active" class="form-control">
+                           </div>
+                           <!-- <textarea id="feedback"  class="text_field" placeholder="Feedback"></textarea>
+                              -->
+                           <div class="form-group">
+                              <label for="float_phone_active">Phone:</label>
+                              <input type="text" id="float_phone_active" class="form-control">
+                           </div>
+                           <input class="submit_feedback" type="button" id="submit_feedback_active" onclick="float_submit('active')" value="Submit">
+                        </div>
+                        <div class="success-box">
+                           <div class="alert alert-success"><b>Congratulations!</b> Your message has been sent successfull.</div>
+                        </div>
+                        <div class="error-box">
+                           <div class="alert alert-danger error_box"><b>Error!</b> Please try again.</div>
+                        </div>
+                     </form>
+                  </div>
+                  <div class="panel">
+                     <form id="passive_form">
+                        <div class="form-inner">
+                           <div class="form-group">
+                              <label for="float_name_passive">Name:</label>
+                              <input type="text" class="form-control" id="float_name_passive">
+                           </div>
+                           <div class="form-group">
+                              <label>Select Location:</label>
+                              <select id="float_location_passive" class="form-control">
+                              	 <option>Select</option>
+                                 <option>Gurugram</option>
+                                 <option>Noida</option>
+                                 <option>Ghaziabad</option>
+                                 <option>Jaipur</option>
+                              </select>
+                           </div>
+                           <div class="form-group">
+                              <label for="float_email_passive">Email:</label>
+                              <input type="email" id="float_email_passive" class="form-control">
+                           </div>
+                           <!-- <textarea id="feedback"  class="text_field" placeholder="Feedback"></textarea>
+                              -->
+                            <div class="form-group">
+                              <label for="float_phone_passive">Phone:</label>
+                              <input type="text" id="float_phone_passive" class="form-control">
+                           </div>
+                             <input class="submit_feedback" type="button" id="submit_feedback_passive" onclick="float_submit('passive')" value="Submit">
+                        </div>
+                        <div class="success-box">
+                           <div class="alert alert-success"><b>Congratulations!</b> Your message has been sent successfully.</div>
+                        </div>
+                        <div class="error-box">
+                           <div class="alert alert-danger error_box"><b>Error!</b> Please try again.</div>
+                        </div>
+                     </form>
+                  </div>
+               </div>
+            </div>
+         </div>
+		  <script src="scripts\feedback.js"></script>
+      
+         <script type="text/javascript">
+            $(document).ready(function(){
+            $('#form').css('display','none');
+            $('#show-form').click(function(){
+             $("#form, form").animate({
+                            width: "toggle"
+                        });
+            
+            });
+            });
+         </script>
+         <script>
+            jQuery(document).ready(function( $ ) {
+            $(window).scroll(function() {
+               if ($(this).scrollTop() > 50) {
+                 $('.scroll-change').addClass('sh');
+               } else {
+                 $('.scroll-change').removeClass('sh');
+               }
+             });
+            
+             });
+             $(function(){
+             $("#header").load("header.html"); 
+             $("#footer").load("footer.html"); 
+             //pop on load
+            $("#pop_out").trigger('click');
+            });
+         </script>  
+      </body>
+   </html>

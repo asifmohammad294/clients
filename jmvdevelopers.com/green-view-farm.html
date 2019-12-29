@@ -1,0 +1,740 @@
+﻿<!DOCTYPE html>
+<!--[if lt IE 10]> 
+<html  lang="en" class="iex">
+   <![endif]-->
+   <!--[if (gt IE 10)|!(IE)]><!-->
+   <html lang="en">
+      <!--<![endif]-->
+      <head>
+         <!-- Global site tag (gtag.js) - Google Analytics -->
+         <script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-118261268-2"></script>
+         <script>
+           window.dataLayer = window.dataLayer || [];
+           function gtag(){dataLayer.push(arguments);}
+           gtag('js', new Date());
+
+           gtag('config', 'UA-118261268-2');
+         </script>
+         <meta charset="utf-8">
+         <meta http-equiv="X-UA-Compatible" content="IE=edge">
+         <meta name="viewport" content="width=device-width, initial-scale=1">
+         <title>Green View Farms | JMV Developers</title>
+         <meta name="description" content="">
+         <meta name="keywords" content="JMV Developers,real estate jmvdevelopers, Real Estate delhi NCR, Real Estate in Ghaziabad,JMV DEVELOPERS in Ghaziabad, Jewar Airport Property,real estate dealer in delhi ncr,jmvdevelopers in ghaziabad, ghaziabad property dealer, Propert dealer in Ghaziabad">
+         <script src="scripts\jquery.min.js"></script>
+         <link rel="stylesheet" href="css\bootstrap\css\bootstrap.css">
+         <script src="scripts\script.js"></script>
+         <link rel="stylesheet" href="css\style.css">
+         <link rel="stylesheet" href="css\content-box.css">
+         <link rel="stylesheet" href="css\components.css">
+         <link rel="stylesheet" href="css\animations.css">
+         <link rel="stylesheet" href="css\image-box.css">
+         <link rel="stylesheet" href='css\flexslider\flexslider.css'>
+         <link rel="icon" href="images\jmv developers-logo.png">
+         <link rel="stylesheet" href="css\skin.css">
+         <link rel="stylesheet" href='css\magnific-popup.css'>
+         <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
+         <link rel="stylesheet" href="css\custom.css">
+         <link href="https://fonts.googleapis.com/css?family=Arimo" rel="stylesheet">
+         <link rel="stylesheet" href="scripts\font-awesome\css\font-awesome.min.css">
+         <link rel="stylesheet" href="scripts\font-awesome\css\font-awesome.min.css">
+         <link href="https://fonts.googleapis.com/css?family=Dosis:400,600,700|Lobster|Open+Sans" rel="stylesheet">
+         <link href="https://fonts.googleapis.com/css?family=Dosis:400,600,700|Lobster|Open+Sans:400,500,600,700" rel="stylesheet">
+         <style>
+            .font-light{
+            font-weight:lighter;
+            }
+            .letter-space-2 {
+            letter-spacing:2px;
+            }
+            .lower-case{
+            text-transform:none;
+            }
+            .section-bg-image{
+            background-attachment:fixed ;
+            min-height:450px;
+            }
+            .font-size-42{
+            font-size:42px  !important;
+            }
+            .font-size-16{
+            font-size:16px  !important;
+            font-family: 'Open Sans', sans-serif;
+            }
+            .letter-space-1{
+            letter-spacing:1px;
+            }
+            .outer-box{
+            display:block;
+            position:relative;
+            }
+            #inner-box{
+            height: 100%;
+            width: 100%;
+            opacity: 9px;
+            top: 0;
+            left: 0;
+            position: fixed;
+            padding: 0;
+            transition: opacity .5s;
+            z-index:1;
+            background:rgba(0,0,0,0.9);
+            text-align:center;
+            }
+            .inner-cont{
+            z-index:1;
+            position:absolute;
+            color:black !important;
+            top:50%;
+            left:50%;
+            transform:translate(-50%,-50%);
+            }
+            .inner-cont h1{
+            color:#fff;
+            text-transform:UPPERCASE;
+            padding:20px;
+            }
+            .inner-cont .btn{
+            color:#fff;
+            background:none;
+            font-size:18px;
+            border:2px  solid #fff;
+            border-radius:0px;
+            padding:1rem 3rem;
+            transition:5 s ease-in;
+            }
+            .inner-cont .btn:hover {
+            color:#fff;
+            background:#000;
+            border:2px solid #000;
+            border-radius:0px;
+            padding:1rem 3rem;
+            transition:5 s ease-out;
+            }
+            /*-----Float form------------*/
+            .float-msg{
+            position:absolute;
+            z-index:9;
+            }
+            .float .fa {
+            color:white;
+            font-size:14px;
+            text-align:center;
+            }
+            .float p {
+            color:white;
+            padding:6px;
+            text-align:center;
+            }
+            .float a:active{
+            background:#EAAB00;
+            }
+            .float{
+            position:fixed;
+            width:80px;
+            height:80px;
+            bottom:30%;
+            right:0px;
+            background-color:#EAAB00;
+            color:#FFF;
+            border-rdius:0px;
+            text-align:center;
+            box-shadow: 0px 0px 60px 0px rgba(0,0,0,0.4);
+            }
+            .my-float{
+            margin-top:22px;
+            }
+            .float-form {
+            position:fixed;
+            z-index:1;
+            }
+            #form
+            {
+            position: fixed;
+            bottom: 0px;
+            float:right;
+            right:140px;
+            width:320px;
+            bottom:30px;
+            border:2px solid #EAAB00;
+            padding:0px;
+            background:#fff;
+            box-shadow:0 130px 160px 140px rgba(0,0,0,0.04); 
+            visibility: visible;
+            /*-webkit-animation: slide 0.5s forwards;
+            -webkit-animation-delay: 2s;
+            animation: slide 0.5s forwards;
+            animation-delay: 2s;*/
+            }
+            /*
+            @-webkit-keyframes slide {
+            100% { left: 0; }
+            }
+            @keyframes slide {
+            100% { left: 0; }
+            }
+            */
+            .nav-tabs a{
+            background-color:#EAAB00;
+            }
+            #form::after
+            {
+            content: "";
+            position: absolute;
+            top: 50%;
+            right:-50px;
+            margin-left: 78px;
+            border-width: 25px;
+            border-style: solid;
+            border-color: transparent transparent transparent #EAAB00;
+            }
+            #form p
+            {
+            margin:0px;
+            margi-bottom:10px;
+            background-color:#EAAB00;
+            text-align:center;
+            color:#fff;
+            padding:20px;
+            font-size:20px;
+            letter-spacing:2px;
+            mrgin-left:20px;
+            mrgin-right:20px;
+            cursor:pointer;
+            }
+            form
+            {
+            padding:1rem 1rem;
+            display:none;
+            }
+            input[type="text"]
+            {
+            font-family: "Roboto", sans-serif;
+            outline: 0;
+            background: #f2f2f2;
+            width: 100%;
+            height:28px;
+            border: 0;
+            margin: 0 0 15px;
+            padding: 15px;
+            box-sizing: border-box;
+            font-size: 14px;
+            letter-spacing:1px;
+            }
+            .form-control{
+            background: #f2f2f2 !important;
+            border-bottom: 1px solid #f2f2f2;
+            color:#EAAB00 !important;
+            }
+            .form-control:focus{
+            border-color:#EAAB00;
+            color:#EAAB00 !important;
+            }
+            select {
+            font-family: "Roboto", sans-serif;
+            outline: 0;
+            background: #f2f2f2 !important;
+            width: 100%;
+            height:28px;
+            border: 0;
+            margin: 0 0 15px;
+            padding: 15px;
+            box-sizing: border-box;
+            font-size: 14px;
+            letter-spacing:1px;
+            }
+            input:focus, textarea:focus {
+            border:1px solid #EAAB00;
+            outline:none;
+            color:#EAAB00;
+            }
+            text_field:focus {
+            outline: none !important;
+            border-color: #fd784f;
+            }
+            textarea
+            {
+            width:100%;
+            margin-left:15px;
+            border: 0;
+            margin: 0 0 15px;
+            padding: 15px;
+            box-sizing: border-box;
+            background: #f2f2f2;
+            font-size: 14px;
+            font-family:helvetica;
+            }
+            #submit_feedback
+            {
+            width:120px;
+            text-align:center;
+            margin-left:75px;
+            background-color:#EAAB00;
+            border:none;
+            color:white;
+            height:35px;
+            font-size:18px;
+            margin-top:10px;
+            margin-bottom:0px;
+            border-radius:5px;
+            }   
+            .orm-inner{
+            padding:0px;
+            }   
+            .mfp-container{
+            cursor: default !important;
+            }   
+            .mfp-container.active .mfp-close{
+            cursor: pointer !important;
+            }   
+         </style>
+      </head>
+      <body>
+         <div id="preloader"></div>
+         <div class="outer-box">
+            <!--header---------------->
+            <header>
+               <nav class="navbar navbar-default navbar-fixed-top over">
+                
+                  <div class="navbar-mini scroll-hide scroll-show-mobile">
+                     <div class="container">
+                        <div class="nav navbar-nav navbar-left">
+                           <span><i class="fa fa-phone"></i>012-02841500</span>
+                           <hr>
+                           <span><i class="fa fa-envelope-o"></i>info@jmvdevelopers.com</span>
+                        </div>
+                        <div class="nav navbar-nav navbar-right">
+                           <div class="minisocial-group">
+                              <a target="_blank" href="https://www.facebook.com/Jmv-Developers-400467110434254/?modal=admin_todo_tour"><i class="fa fa-facebook first"></i></a>
+                              <a target="_blank" href="https://twitter.com/DevelopersJmv"><i class="fa fa-twitter"></i></a>
+                              <a target="_blank" href="https://www.instagram.com/jmvdevelopers/"><i class="fa fa-instagram"></i></a>
+                           </div>
+                           <a href="https://accounts.zoho.com/signin" style="padding:10px 10px;"><span><i class="fa fa-sign-in"></i><span style="color:#000; ">Login</span></span></a>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="navbar navbar-main middle-box-menu scroll-change mega-menu-fullwidth">
+                     <div class="container">
+                        <div class="navbar-header">
+                           <button type="button" class="navbar-toggle">
+                           <i class="fa fa-bars"></i>
+                           </button>
+                           <a class="navbar-brand" style="padding:0;margin:0;" href="index-1.html"><img src="images\jmv developers-logo.png" width="100" alt="logo"></a>
+                           <a class="navbar-brand">
+                              <div style="color:#EAAB00; font-size:24px; padding-top:15px; font-family: 'Dosis', sans-serif; letter-spacing:2px; text-align:left; font-weight:900;">
+                                 JMV 
+                                 <div style="font-size:16px;">DEVELOPERS</div>
+                              </div>
+                           </a>
+                        </div>
+                        <div class="collapse navbar-collapse" data-menu-anima="fade-in">
+                           <ul class="nav navbar-nav navbar-right">
+                              <li><a href="index-1.html">Home </a></li>
+                              <li><a href="about.html">About </a></li>
+                              <li class="dropdown">
+                                 <a class="dropdown-toggle" data-toggle="dropdown" href="#">Projects <i class="caret"></i></a>
+                                 <ul class="dropdown-menu multi-level">
+                                    <li><a href="harit-homes.html">Harit Homes</a></li>
+                                    <li><a href="green-view-farm.html">Green view Farm</a></li>
+                                    <li><a href="lakshya-project.html">Lakshya Aquapolis</a></li>
+                                    <li><a href="agricultural.html">Agricultural</a></li>
+                                    <li><a href="javascript:void(0);">Jan Awas Yojna</a></li>
+                                 </ul>
+                              </li>
+                              <li><a href="career.html">Career</a></li>
+                              <li><a href="contact.html">Contact</a></li>
+                              <li><a href="news-and-feed.html">News and Feeds</a></li>
+                           </ul>
+                           <div class="nav navbar-nav  navbar-right">
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </nav>
+            </header>
+            <!--header End----------------->
+            <!---Main ------------>
+            <div class="footer-parallax-container">
+               <div class="header-title white ken-burn" data-parallax="scroll" data-position="top" data-image-src="images/title-10.jpg" data-natural-width="1366" data-natural-height="530">
+                  <div class="container">
+                     <div class="title-base padt-2">
+                        <h1 class="letter-space-2">GREEN VIEW FARMS</h1>
+                        <hr class="anima">
+                        <p>JMV Developers Project</p>
+                     </div>
+                  </div>
+               </div>
+               <div class="section-empty">
+                  <div class="container content">
+                     <div class="row">
+                        <div class="col-md-8">
+                           <div class="title-base title-small text-left" data-anima="show-scale" data-trigger="hover">
+                              <h2 class="letter-space-2"><span class="lower-case">About</span> GREEN VIEW FARMS</h2>
+                              <hr class="anima">
+                           </div>
+                           <p>
+                              Green View Farms is a eco friendly planned soceity with lush green environments which spreads across 100 acres of area. It is a planned and gated society
+                              of farm houses with facilities including shopping complex, jogging track, yoga center, club house, commercial complex, wide pitched roads etc. it is situated in proximity of many education institutes. it is in Niwai, known as education hub of Rajasthan. With lot of location advantages, we offer you the best deal to suit your pocket and best investment plans which assures you the long term association with our group. 
+                              <br>
+                           </p>
+                           <hr class="space">
+                           <h3 class="letter-space-2">About Rajasthan and Niwai City </h3>
+                           <p>Rajasthan Known as "The Land of Kings" Is the Largest State of the Republic of India by Area. Rajasthan is one of the most popular Tourist Destination in Inida, for both Domestic and International Tourists. It is endowed with Natural Beauty and a Great History.
+                              <br>
+                              An Estimated 25 Million NRI Living in 125 Countries Are Investing in Real Estate Property across Rajasthan. The Massive Development of Delhi NCR and Other Neighboring Towns in Soon Catching Up in Rajasthan Real Estate as Well. 
+                              <br>
+                              Investing in Rajasthan Property Saves the initial Investment in Major Projects As The Rates of Properties In Rajasthan Are Comparatively Lower.         
+                           </p>
+                        </div>
+                        <div class="col-md-4">
+                           <div class="title-base title-small text-left" data-anima="show-scale" data-trigger="hover">
+                              <h2>PROJECT DETAILS</h2>
+                              <hr class="anima">
+                           </div>
+                           <ul class="list-texts">
+                              <li><b>Location:</b> Jaipur NH-12 Rajasthan</li>
+                              <li><b>Surface Area:</b> 5 Lakh Sq Yard</li>
+                              <li><b>Year Completed:</b>Launch Coming Soon </li>
+                              <li><b>Value:</b><i class="fa fa-inr" style="color:#000;" aria-hidden="true"></i> 150 Crore</li>
+                              <li><b>Architect:</b>  Jason & Perry</li>
+                              <br>
+                              <li><b style="font-size:22px; color:#008000;  ">Green View Farm Brochures</b><br><br><a class="btn btn-sm btn-default" style="background:#008000 !important; border:0; padding:10px;" href="#" download=""><i class="fa fa-file-pdf-o"></i> Download PDF <span class="space"></span><span class="space"></span><i class="fa fa-download"></i></a></li>
+                           </ul>
+                        </div>
+                     </div>
+                  </div>
+                  <!---JEWAR AIRPORT START--------->
+                  <div class="section-bg-image box-middle-container overlay-container" style="background-image:linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)),url('images/green view/greenviewfarm.jpeg');">
+                     <div class="bg-ovelay dotted"></div>
+                     <div class="container content overlay-content box-middle white text-center">
+                        <hr class="space">
+                        <h1 class=" font-size-42 pt-0">Why Invest Near Jaipur</h1>
+                        <hr class="e">
+                        <br><br>
+                        <p class="font-size-16 letter-space-1">
+                           Mahindra's 3000 Acres SEZ(Special Economic Zone) on 360ft. Wide Ring road(Asia's Widest) all around Jaipur.<br>
+                           IT corridor, Gems Corridor and Knowledge city International Convention Center, World Trade Park and Gold Souk World Class Golf Corse, Film City And Med-Tech City,
+                           With the Arrival of Metro Rail, Jaipur And Its Surrounding Areas are Going To Get Huge Benefits And Apprecitation in Few Years.
+                           The First Phase of 3151Cr. Jaipur Metro Rail Project is Expected to be Completed By July 2013.
+                           Only City In Northern India With Approved City Development Plan.
+                           Well Connected To Major Cities of the Country Through Rail, Road And Air Traffic. Direct Air Traffic. Direct Air Connectivity To a Number
+                           of Countries.
+                           Jaipur is Seriously Viewed As Alternative To Gurgaon.
+                           Jaipur is Being Projected As One of the 10 Mega Cities in future. By 2015 Population Would Require Quality Housing And Infrastructure To support Vast Future Expansion. Best TIme to Maximize Real Estate Investment Returns.
+                        </p>
+                        <hr class="space">
+                        <hr class="space">
+                     </div>
+                  </div>
+                  <!-------------Green view Farm Features-------------->
+                  <div class="container content">
+                     <div class="row ">
+                        <div class="col-md-8">
+                           <h3 style="padding-left:22px;">Green View Farms Salient Features</h3>
+                           <ul style="line-height:; ">
+                              <li>
+                                 Adjoining Proposed National Level University
+                              </li>
+                              <li>
+                                 Adjoining Well Know Swami Bhajnanand Giri Ji Ashram
+                              </li>
+                              <li>
+                                 Entrance from 100ft Mega Highway
+                              </li>
+                              <li>
+                                 Gated Township of 100 Acres
+                              </li>
+                              <li>
+                                 Eco Friendly Green Environment
+                              </li>
+                              <li>
+                                 Jogging track
+                              </li>
+                              <li>
+                                 Yoga center
+                              </li>
+                              <li>
+                                 Round The clock Security
+                              </li>
+                              <li>
+                                 Common Area
+                              </li>
+                              <li>
+                                 Club House
+                              </li>
+                              <li>
+                                 Indoor & Outdoor Games (Snooker(Pool)), Table Tennis, Badminton Court, etc.
+                              </li>
+                              <li>
+                                 Shopping Complex
+                              </li>
+                              <li>
+                                 Commercial space
+                              </li>
+                              <li>
+                                 Temple
+                              </li>
+                              <li>
+                                 80ft, 60ft, 40ft & 30ft Wide Roads
+                              </li>
+                              <li>
+                                 Electrification, Street Lights
+                              </li>
+                              <li>
+                                 Adequate Parking Space
+                              </li>
+                           </ul>
+                        </div>
+                        <div class="col-md-4">
+                           <img src="images\harit\harit.jpeg">
+                        </div>
+                     </div>
+                     <hr class="space">
+                  </div>
+                  <!--------------Green View Farm Features End---------->
+                  <!-------------Green view Farm Features-------------->
+                  <div class="container content">
+                     <div class="text-center letter-space-1">
+                        <h2>Green View Farms  Features</h2>
+                        <hr class="e">
+                     </div>
+                     <hr class="space">
+                     <div class="row ">
+                        <div class="col-md-4">
+                           <img src="images\harit\harit.jpeg">
+                        </div>
+                        <div class="col-md-8">
+                           <div class="tab-box" data-tab-anima="show-scale">
+                              <ul class="nav nav-tabs nav-justified">
+                                 <li class="active"><a href="#">Our Elite Neighbour</a></li>
+                                 <li><a href="#">Development on NH-12</a></li>
+                                 <li><a href="#">Key distance</a></li>
+                                 <li><a href="#">Why Green View Farm</a></li>
+                              </ul>
+                              <div class="panel active">
+                                 <ul>
+                                    <li>Nearby Huge Industrial Area of RIICO</li>
+                                    <li>World Famous Banasthali Vidyapeeth</li>
+                                    <li>K.N. Modi University</li>
+                                    <li>Mahalaxmi Group</li>
+                                    <li>Banasthali Vatika</li>
+                                    <li>Laxmi Niwas by Narmada Buildcon</li>
+                                    <li>Jaipur Garden Ph-1</li>
+                                 </ul>
+                              </div>
+                              <div class="panel">
+                                 <ul>
+                                    <li>200 ft Wide Road </li>
+                                    <li>Connected to Sanganer Airport</li>
+                                    <li>Main Delhi to Rajasthan Connectivity</li>
+                                    <li>Many Real Estate Project At Tonk Road</li>
+                                    <li>Chokhi Dhani on the Same Road</li>
+                                 </ul>
+                              </div>
+                              <div class="panel">
+                                 <ul>
+                                    <li>45 Minutes Drive from Sanganer Airport</li>
+                                    <li>10 Minutes Drive from K.N. Modi University</li>
+                                    <li>15 Minutes Drive from Banasthali Vidyapeeth</li>
+                                    <li>10 Minutes Drive from Niwai Railway Station</li>
+                                    <li>10 Minutes Drive from Bus Stand</li>
+                                    <li>5 Minutes Drive from Niwai City Tehsil</li>
+                                    <li>Near RIICO Industrial Area</li>
+                                 </ul>
+                              </div>
+                              <div class="panel">
+                                 <ul>
+                                    <li>Government Approved Farms/Registration Township</li>
+                                    <li>Value for Money</li>
+                                    <li>Located on 100 Ft MDR-1</li>
+                                    <li>10 Minutes Drive from Niwai Railway Station</li>
+                                    <li>Very Close to Main lane NH-12 Highway</li>
+                                    <li>Rich Neighborhood of Institutes in Surrounding Area</li>
+                                    <li>45 Minutes from Sanganer Airport</li>
+                                    <li>40 Minutes from Chokhi Delhi</li>
+                                    <li>10 Minutes from Niwai Railway Staition RIICO Industrial Area Phase-I & Phase-II</li>
+                                    <li>15 Minutes from Ghushmeshwer Jyotiling (12th Jyotiling of Lord Shiva)</li>
+                                    <li style="padding-right:20px;">45 Minutes from Famous Ranthambore Tiger Sanctuary, Railway Station, Banks, ATM, RIICO Industries Phase-I & II</li>
+                                    <li>Local Shopping Complex Available Within 3 Km</li>
+                                 </ul>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                     <hr class="space">
+                  </div>
+                  <!---Green View Farm Features END-->
+                  <!----Section 2 parallax---------->
+                  <div class="section-bg-image box-middle-container overlay-container" style="background-image:url('images/green view/hd-4.jpeg');">
+                     <div class="bg-ovelay dotted"></div>
+                     <div class="container content overlay-content box-middle white text-center">
+                        <hr class="space">
+                        <h1 class="font-size-42 pt-0">Why Tonk Road N.H.-12</h1>
+                        <hr class="e">
+                        <br><br>
+                        <p class="font-size-16 letter-space-1">
+                           Jaipur-Ton 6 Lane Highway Work Is Almost Completed. Revenue Generating Highway For The State Govt Six RIICO Industrial Areas Are Working in Tonk, Niwai, Malpura And
+                           Deoliand About 600 Acre land is Already Acquired for industrial purposes. NBC is Spread Over 118 Acres of Land in Jaipur And 56 Acres In Niwai. National Highway No. 12, As An Insitutional Area Jagannath University, Asian Institute of Technology, Singhania University, Dr. K.N. Modi University and Banasthali 
+                           Vidyapeeth. Several New Developments are also in The pipeline along the NH-12 including a Mahindra SEZ(Special Economic Zone) - India. 
+                        </p>
+                        <hr class="space">
+                        <hr class="space">
+                     </div>
+                  </div>
+                  <!----Section 2 Parallax END------------------->
+                  <!---Location------------------>
+                  <div class="container-fluid" style="background-size:cover; background:#fff; ">
+                     <div class="container content">
+                        <h1 class="letter-space-2">LOCATION MAP</h1>
+                        <hr class="space">
+                        <img src='images\green view\green-view-farm-map.jpeg' width="100%">
+                        <hr class="space">
+                     </div>
+                  </div>
+                  <!--Location------------------>
+                  <!--- Float button=-->
+                  <!----float button-->
+                  <div class="float-msg">
+                     <a href="#" id="show-form" class="float">
+                        <!--<i class="fa fa-envelope my-float"></i>-->
+                        <p>Enquire Now / Book sites</p>
+                     </a>
+                  </div>
+                 <!---Float-----form----->
+         <div class="float-form">
+            <div id="form">
+               <p id="feedback_button">Feedback</p>
+               <div class="tab-box" data-tab-anima="show-scale">
+                  <ul class="nav nav-tabs nav-justified">
+                     <li class="active"><a href="#">Enquire Now</a></li>
+                     <li><a href="#">Book site</a></li>
+                  </ul>
+                  <div class="panel active">
+                     <form id="active_form">
+                        <div class="form-inner">
+                           <div class="form-group">
+                              <label for="float_name_active">Name:</label>
+                              <input type="text" class="form-control" id="float_name_active">
+                           </div>
+                           <div class="form-group">
+                              <label>Select Location:</label>
+                              <select id="float_location_active" class="form-control">
+                              	 <option>Select</option>
+                                 <option>Gurugram</option>
+                                 <option>Noida</option>
+                                 <option>Ghaziabad</option>
+                                 <option>Jaipur</option>
+                              </select>
+                           </div>
+                           <div class="form-group">
+                              <label for="float_email_active">Email:</label>
+                              <input type="email" id="float_email_active" class="form-control">
+                           </div>
+                           <!-- <textarea id="feedback"  class="text_field" placeholder="Feedback"></textarea>
+                              -->
+                           <div class="form-group">
+                              <label for="float_phone_active">Phone:</label>
+                              <input type="text" id="float_phone_active" class="form-control">
+                           </div>
+                           <input class="submit_feedback" type="button" id="submit_feedback_active" onclick="float_submit('active')" value="Submit">
+                        </div>
+                        <div class="success-box">
+                           <div class="alert alert-success"><b>Congratulations!</b> Your message has been sent successfull.</div>
+                        </div>
+                        <div class="error-box">
+                           <div class="alert alert-danger error_box"><b>Error!</b> Please try again.</div>
+                        </div>
+                     </form>
+                  </div>
+                  <div class="panel">
+                     <form id="passive_form">
+                        <div class="form-inner">
+                           <div class="form-group">
+                              <label for="float_name_passive">Name:</label>
+                              <input type="text" class="form-control" id="float_name_passive">
+                           </div>
+                           <div class="form-group">
+                              <label>Select Location:</label>
+                              <select id="float_location_passive" class="form-control">
+                              	 <option>Select</option>
+                                 <option>Gurugram</option>
+                                 <option>Noida</option>
+                                 <option>Ghaziabad</option>
+                                 <option>Jaipur</option>
+                              </select>
+                           </div>
+                           <div class="form-group">
+                              <label for="float_email_passive">Email:</label>
+                              <input type="email" id="float_email_passive" class="form-control">
+                           </div>
+                           <!-- <textarea id="feedback"  class="text_field" placeholder="Feedback"></textarea>
+                              -->
+                            <div class="form-group">
+                              <label for="float_phone_passive">Phone:</label>
+                              <input type="text" id="float_phone_passive" class="form-control">
+                           </div>
+                             <input class="submit_feedback" type="button" id="submit_feedback_passive" onclick="float_submit('passive')" value="Submit">
+                        </div>
+                        <div class="success-box">
+                           <div class="alert alert-success"><b>Congratulations!</b> Your message has been sent successfully.</div>
+                        </div>
+                        <div class="error-box">
+                           <div class="alert alert-danger error_box"><b>Error!</b> Please try again.</div>
+                        </div>
+                     </form>
+                  </div>
+               </div>
+            </div>
+         </div>
+               <script src='scripts\parallax.min.js'></script> 
+			   <script src='scripts\feedback.js'></script>
+               <script async="" src="scripts\bootstrap\js\bootstrap.min.js"></script>
+               <script src="scripts\imagesloaded.min.js"></script>
+               <script src='scripts\flexslider\jquery.flexslider-min.js'></script>
+               <script src='scripts\jquery.tab-accordion.js'></script>
+               <script src='scripts\smooth.scroll.min.js'></script>
+               <script src='scripts\jquery.magnific-popup.min.js'></script>
+               <div id="footer"></div>
+            </div>
+         </div>
+         <div id="inner-box">
+            <div class="inner-cont">
+               <h1>up coming project</h1>
+               <!-- <h2 class="btn" onclick="off()">Click To Read</h2>-->
+            </div>
+         </div>
+         <script>
+            jQuery(document).ready(function( $ ) {
+            $(window).scroll(function() {
+               if ($(this).scrollTop() > 40) {
+                 $('.scroll-change').addClass('sh');
+               } else {
+                 $('.scroll-change').removeClass('sh');
+               }
+             });
+             });
+             $(function(){
+             $("#header").load("header.html"); 
+             $("#footer").load("footer.html"); 
+             //pop on load
+                 $("#pop_out").trigger('click');
+            });
+         </script>
+         <script>
+            function off() {
+                document.getElementById("inner-box").style.display = "none";
+            }
+         </script>
+         <script type="text/javascript">
+            $(document).ready(function(){
+            $('#form').css('display','none');
+            $('#show-form').click(function(){
+             $("#form, form").animate({
+                            width: "toggle"
+                        });
+            
+            });
+            });
+         </script>
+      </div></body>
+   </html>

@@ -1,0 +1,700 @@
+Uri: https://lightning.webviron.com/
+File Name: c:\Downloaded Web Sites\lightning.webviron.com\index.html
+Content Type: text/html
+
+Uri: https://lightning.webviron.com/assets/images/logo/Lightning-PNG-Image_130x33_1_33x33.png
+File Name: c:\Downloaded Web Sites\lightning.webviron.com\assets\images\logo\Lightning-PNG-Image_130x33_1_33x33.png
+Content Type: image/png
+
+Uri: https://lightning.webviron.com/assets/css/external.css
+File Name: c:\Downloaded Web Sites\lightning.webviron.com\assets\css\external.css
+Content Type: text/css
+
+Uri: https://lightning.webviron.com/assets/css/style.css
+File Name: c:\Downloaded Web Sites\lightning.webviron.com\assets\css\style.css
+Content Type: text/css
+
+Uri: https://lightning.webviron.com/index.php
+File Name: c:\Downloaded Web Sites\lightning.webviron.com\index-1.html
+Content Type: text/html
+
+Uri: https://lightning.webviron.com/safety.php
+File Name: c:\Downloaded Web Sites\lightning.webviron.com\safety.html
+Content Type: text/html
+
+Uri: https://lightning.webviron.com/safety/flood.php
+File Name: c:\Downloaded Web Sites\lightning.webviron.com\safety\flood.html
+Content Type: text/html
+
+Uri: https://lightning.webviron.com/safety/tsunami.php
+File Name: c:\Downloaded Web Sites\lightning.webviron.com\safety\tsunami.html
+Content Type: text/html
+
+Uri: https://lightning.webviron.com/safety/beach_hazard.php
+File Name: c:\Downloaded Web Sites\lightning.webviron.com\safety\beach_hazard.html
+Content Type: text/html
+
+Uri: https://lightning.webviron.com/safety/wildfire.php
+File Name: c:\Downloaded Web Sites\lightning.webviron.com\safety\wildfire.html
+Content Type: text/html
+
+Uri: https://lightning.webviron.com/safety/cold.php
+File Name: c:\Downloaded Web Sites\lightning.webviron.com\safety\cold.html
+Content Type: text/html
+
+Uri: https://lightning.webviron.com/safety/tornado.php
+File Name: c:\Downloaded Web Sites\lightning.webviron.com\safety\tornado.html
+Content Type: text/html
+
+Uri: https://lightning.webviron.com/safety/air_quality.php
+File Name: c:\Downloaded Web Sites\lightning.webviron.com\safety\air_quality.html
+Content Type: text/html
+
+Uri: https://lightning.webviron.com/safety/fog.php
+File Name: c:\Downloaded Web Sites\lightning.webviron.com\safety\fog.html
+Content Type: text/html
+
+Uri: https://lightning.webviron.com/safety/heat.php
+File Name: c:\Downloaded Web Sites\lightning.webviron.com\safety\heat.html
+Content Type: text/html
+
+Uri: https://lightning.webviron.com/safety/hurricane.php
+File Name: c:\Downloaded Web Sites\lightning.webviron.com\safety\hurricane.html
+Content Type: text/html
+
+Uri: https://lightning.webviron.com/safety/lightning.php
+File Name: c:\Downloaded Web Sites\lightning.webviron.com\safety\lightning.html
+Content Type: text/html
+
+Uri: https://lightning.webviron.com/safety/boat_safety.php
+File Name: c:\Downloaded Web Sites\lightning.webviron.com\safety\boat_safety.html
+Content Type: text/html
+
+Uri: https://lightning.webviron.com/safety/rip_current.php
+File Name: c:\Downloaded Web Sites\lightning.webviron.com\safety\rip_current.html
+Content Type: text/html
+
+Uri: https://lightning.webviron.com/safety/thunderstorm.php
+File Name: c:\Downloaded Web Sites\lightning.webviron.com\safety\thunderstorm.html
+Content Type: text/html
+
+Uri: https://lightning.webviron.com/safety/space.php
+File Name: c:\Downloaded Web Sites\lightning.webviron.com\safety\space.html
+Content Type: text/html
+
+Uri: https://lightning.webviron.com/safety/wind.php
+File Name: c:\Downloaded Web Sites\lightning.webviron.com\safety\wind.html
+Content Type: text/html
+
+Uri: https://lightning.webviron.com/safety/drought.php
+File Name: c:\Downloaded Web Sites\lightning.webviron.com\safety\drought.html
+Content Type: text/html
+
+Uri: https://lightning.webviron.com/assets/images/logo/Lightning-PNG-Image_130x33.png
+File Name: c:\Downloaded Web Sites\lightning.webviron.com\assets\images\logo\Lightning-PNG-Image_130x33.png
+Content Type: image/png
+
+Uri: https://lightning.webviron.com/assets/images/home/carousel/01_tree_weird_lightening_Sander-Meertins.jpg
+File Name: c:\Downloaded Web Sites\lightning.webviron.com\assets\images\home\carousel\01_tree_weird_lightening_Sander-Meertins.jpeg
+Content Type: image/jpeg
+
+Uri: https://lightning.webviron.com/assets/images/home/carousel/02_thunder_weird_lightening_vicuschka-1920x1080.jpg
+File Name: c:\Downloaded Web Sites\lightning.webviron.com\assets\images\home\carousel\02_thunder_weird_lightening_vicuschka-1920x1080.jpeg
+Content Type: image/jpeg
+
+Uri: https://lightning.webviron.com/assets/images/home/carousel/03_petrified_weird_lightening_mike_expert.jpg
+File Name: c:\Downloaded Web Sites\lightning.webviron.com\assets\images\home\carousel\03_petrified_weird_lightening_mike_expert.jpeg
+Content Type: image/jpeg
+
+Uri: https://lightning.webviron.com/assets/images/home/carousel/04-Weird-Facts-About-Lightning-Strikes-3-1200x750.jpg
+File Name: c:\Downloaded Web Sites\lightning.webviron.com\assets\images\home\carousel\04-Weird-Facts-About-Lightning-Strikes-3-1200x750.jpeg
+Content Type: image/jpeg
+
+Uri: https://lightning.webviron.com/assets/images/home/carousel/05-Weird-Facts-About-Lightning-Strikes-2400x1600.jpg
+File Name: c:\Downloaded Web Sites\lightning.webviron.com\assets\images\home\carousel\05-Weird-Facts-About-Lightning-Strikes-2400x1600.jpeg
+Content Type: image/jpeg
+
+Uri: https://lightning.webviron.com/assets/images/home/carousel/06-Weird-Facts-About-Lightning-Strikes-2-1313x750.jpg
+File Name: c:\Downloaded Web Sites\lightning.webviron.com\assets\images\home\carousel\06-Weird-Facts-About-Lightning-Strikes-2-1313x750.jpeg
+Content Type: image/jpeg
+
+Uri: https://lightning.webviron.com/assets/images/home/22.jpeg
+File Name: c:\Downloaded Web Sites\lightning.webviron.com\assets\images\home\22.jpeg
+Content Type: image/jpeg
+
+Uri: https://lightning.webviron.com/assets/js/jquery-3.3.1.min.js
+File Name: c:\Downloaded Web Sites\lightning.webviron.com\assets\js\jquery-3.3.1.min.js
+Content Type: application/javascript
+
+Uri: https://lightning.webviron.com/assets/js/plugins.js
+File Name: c:\Downloaded Web Sites\lightning.webviron.com\assets\js\plugins.js
+Content Type: application/javascript
+
+Uri: https://lightning.webviron.com/assets/js/functions.js
+File Name: c:\Downloaded Web Sites\lightning.webviron.com\assets\js\functions.js
+Content Type: application/javascript
+
+Uri: https://lightning.webviron.com/assets/js/rsconfig.js
+File Name: c:\Downloaded Web Sites\lightning.webviron.com\assets\js\rsconfig.js
+Content Type: application/javascript
+
+Uri: https://lightning.webviron.com/assets/css/fonts/fontawesome-webfont.eot
+File Name: c:\Downloaded Web Sites\lightning.webviron.com\assets\css\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://lightning.webviron.com/assets/css/fonts/fontawesome-webfont-1.eot
+File Name: c:\Downloaded Web Sites\lightning.webviron.com\assets\css\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://lightning.webviron.com/assets/css/fonts/fontawesome-webfont.woff2
+File Name: c:\Downloaded Web Sites\lightning.webviron.com\assets\css\fonts\fontawesome-webfont.woff2
+Content Type: 
+
+Uri: https://lightning.webviron.com/assets/css/fonts/fontawesome-webfont.woff
+File Name: c:\Downloaded Web Sites\lightning.webviron.com\assets\css\fonts\fontawesome-webfont.woff
+Content Type: application/font-woff
+
+Uri: https://lightning.webviron.com/assets/css/fonts/fontawesome-webfont.ttf
+File Name: c:\Downloaded Web Sites\lightning.webviron.com\assets\css\fonts\fontawesome-webfont.ttf
+Content Type: application/font-sfnt
+
+Uri: https://lightning.webviron.com/assets/css/fonts/fontawesome-webfont.svg
+File Name: c:\Downloaded Web Sites\lightning.webviron.com\assets\css\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://lightning.webviron.com/assets/css/fonts/Linearicons-Free.eot
+File Name: c:\Downloaded Web Sites\lightning.webviron.com\assets\css\fonts\Linearicons-Free.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://lightning.webviron.com/assets/css/fonts/Linearicons-Free-1.eot
+File Name: c:\Downloaded Web Sites\lightning.webviron.com\assets\css\fonts\Linearicons-Free-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://lightning.webviron.com/assets/css/fonts/Linearicons-Free.woff2
+File Name: c:\Downloaded Web Sites\lightning.webviron.com\assets\css\fonts\Linearicons-Free.woff2
+Content Type: 
+
+Uri: https://lightning.webviron.com/assets/css/fonts/Linearicons-Free.woff
+File Name: c:\Downloaded Web Sites\lightning.webviron.com\assets\css\fonts\Linearicons-Free.woff
+Content Type: application/font-woff
+
+Uri: https://lightning.webviron.com/assets/css/fonts/Linearicons-Free.ttf
+File Name: c:\Downloaded Web Sites\lightning.webviron.com\assets\css\fonts\Linearicons-Free.ttf
+Content Type: application/font-sfnt
+
+Uri: https://lightning.webviron.com/assets/css/fonts/et-line.eot
+File Name: c:\Downloaded Web Sites\lightning.webviron.com\assets\css\fonts\et-line.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://lightning.webviron.com/assets/css/fonts/et-line-1.eot
+File Name: c:\Downloaded Web Sites\lightning.webviron.com\assets\css\fonts\et-line-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://lightning.webviron.com/assets/css/fonts/et-line.woff
+File Name: c:\Downloaded Web Sites\lightning.webviron.com\assets\css\fonts\et-line.woff
+Content Type: application/font-woff
+
+Uri: https://lightning.webviron.com/assets/css/fonts/et-line.svg
+File Name: c:\Downloaded Web Sites\lightning.webviron.com\assets\css\fonts\et-line.svg
+Content Type: image/svg+xml
+
+Uri: https://lightning.webviron.com/assets/images/icons/bitcoin-icon.png
+File Name: c:\Downloaded Web Sites\lightning.webviron.com\assets\images\icons\bitcoin-icon.png
+Content Type: image/png
+
+Uri: https://lightning.webviron.com/assets/images/icons/dollor.png
+File Name: c:\Downloaded Web Sites\lightning.webviron.com\assets\images\icons\dollor.png
+Content Type: image/png
+
+Uri: https://lightning.webviron.com/assets/images/icons/eur.png
+File Name: c:\Downloaded Web Sites\lightning.webviron.com\assets\images\icons\eur.png
+Content Type: image/png
+
+Uri: https://lightning.webviron.com/assets/images/icons/eth.png
+File Name: c:\Downloaded Web Sites\lightning.webviron.com\assets\images\icons\eth.png
+Content Type: image/png
+
+Uri: https://lightning.webviron.com/assets/images/icons/jpy.png
+File Name: c:\Downloaded Web Sites\lightning.webviron.com\assets\images\icons\jpy.png
+Content Type: image/png
+
+Uri: https://lightning.webviron.com/assets/images/icons/chf.png
+File Name: c:\Downloaded Web Sites\lightning.webviron.com\assets\images\icons\chf.png
+Content Type: image/png
+
+Uri: https://lightning.webviron.com/assets/images/icons/ltc.png
+File Name: c:\Downloaded Web Sites\lightning.webviron.com\assets\images\icons\ltc.png
+Content Type: image/png
+
+Uri: https://lightning.webviron.com/assets/images/icons/aud.png
+File Name: c:\Downloaded Web Sites\lightning.webviron.com\assets\images\icons\aud.png
+Content Type: image/png
+
+Uri: https://lightning.webviron.com/assets/images/icons/quote.png
+File Name: c:\Downloaded Web Sites\lightning.webviron.com\assets\images\icons\quote.png
+Content Type: image/png
+
+Uri: https://lightning.webviron.com/assets/images/icons/quote2.png
+File Name: c:\Downloaded Web Sites\lightning.webviron.com\assets\images\icons\quote2.png
+Content Type: image/png
+
+Uri: https://lightning.webviron.com/assets/images/safety/emergency-kits_1024x684.jpg
+File Name: c:\Downloaded Web Sites\lightning.webviron.com\assets\images\safety\emergency-kits_1024x684.jpeg
+Content Type: image/jpeg
+
+Uri: https://lightning.webviron.com/assets/images/safety/flood/main_flood_background_2048x1365.jpg
+File Name: c:\Downloaded Web Sites\lightning.webviron.com\assets\images\safety\flood\main_flood_background_2048x1365.jpeg
+Content Type: image/jpeg
+
+Uri: https://lightning.webviron.com/assets/images/safety/flood/flood_safety/172505_Slideshow.png
+File Name: c:\Downloaded Web Sites\lightning.webviron.com\assets\images\safety\flood\flood_safety\172505_Slideshow.png
+Content Type: image/png
+
+Uri: https://lightning.webviron.com/assets/images/safety/flood/flood_watch/172405_watch_warning.png
+File Name: c:\Downloaded Web Sites\lightning.webviron.com\assets\images\safety\flood\flood_watch\172405_watch_warning.png
+Content Type: image/png
+
+Uri: https://lightning.webviron.com/assets/images/safety/flood/before_flood/172405_flood_Before.png
+File Name: c:\Downloaded Web Sites\lightning.webviron.com\assets\images\safety\flood\before_flood\172405_flood_Before.png
+Content Type: image/png
+
+Uri: https://lightning.webviron.com/assets/images/safety/flood/during_flood/170405_flood-During.png
+File Name: c:\Downloaded Web Sites\lightning.webviron.com\assets\images\safety\flood\during_flood\170405_flood-During.png
+Content Type: image/png
+
+Uri: https://lightning.webviron.com/assets/images/safety/flood/after_flood/172505_flood_Slideshow2.png
+File Name: c:\Downloaded Web Sites\lightning.webviron.com\assets\images\safety\flood\after_flood\172505_flood_Slideshow2.png
+Content Type: image/png
+
+Uri: https://lightning.webviron.com/assets/images/safety/tsunami/main_tsunami_background_2048x1365.jpg
+File Name: c:\Downloaded Web Sites\lightning.webviron.com\assets\images\safety\tsunami\main_tsunami_background_2048x1365.jpeg
+Content Type: image/jpeg
+
+Uri: https://lightning.webviron.com/assets/images/safety/tsunami/tsunami_safety/AKtsunamidamagetxt600.png
+File Name: c:\Downloaded Web Sites\lightning.webviron.com\assets\images\safety\tsunami\tsunami_safety\AKtsunamidamagetxt600.png
+Content Type: image/png
+
+Uri: https://lightning.webviron.com/assets/images/safety/tsunami/tsunami_safety/AStsunamitxt600.png
+File Name: c:\Downloaded Web Sites\lightning.webviron.com\assets\images\safety\tsunami\tsunami_safety\AStsunamitxt600.png
+Content Type: image/png
+
+Uri: https://lightning.webviron.com/assets/images/safety/tsunami/tsunami_safety/coast600.png
+File Name: c:\Downloaded Web Sites\lightning.webviron.com\assets\images\safety\tsunami\tsunami_safety\coast600.png
+Content Type: image/png
+
+Uri: https://lightning.webviron.com/assets/images/safety/tsunami/tsunami_alert/alerts.png
+File Name: c:\Downloaded Web Sites\lightning.webviron.com\assets\images\safety\tsunami\tsunami_alert\alerts.png
+Content Type: image/png
+
+Uri: https://lightning.webviron.com/assets/images/safety/tsunami/before_tsunami/evacuationdrilltxt.png
+File Name: c:\Downloaded Web Sites\lightning.webviron.com\assets\images\safety\tsunami\before_tsunami\evacuationdrilltxt.png
+Content Type: image/png
+
+Uri: https://lightning.webviron.com/assets/images/safety/tsunami/during_tsunami/tsunamievacuationsigntxt.png
+File Name: c:\Downloaded Web Sites\lightning.webviron.com\assets\images\safety\tsunami\during_tsunami\tsunamievacuationsigntxt.png
+Content Type: image/png
+
+Uri: https://lightning.webviron.com/assets/images/safety/tsunami/after_tsunami/JPtsunamidamagetxt.png
+File Name: c:\Downloaded Web Sites\lightning.webviron.com\assets\images\safety\tsunami\after_tsunami\JPtsunamidamagetxt.png
+Content Type: image/png
+
+Uri: https://lightning.webviron.com/assets/images/safety/beach_hazard/main_beach_hazard.jpg
+File Name: c:\Downloaded Web Sites\lightning.webviron.com\assets\images\safety\beach_hazard\main_beach_hazard.jpeg
+Content Type: image/jpeg
+
+Uri: https://lightning.webviron.com/assets/images/safety/beach_hazard/beach_safety/Rip_Indiana_Dunes.jpg
+File Name: c:\Downloaded Web Sites\lightning.webviron.com\assets\images\safety\beach_hazard\beach_safety\Rip_Indiana_Dunes.jpeg
+Content Type: image/jpeg
+
+Uri: https://lightning.webviron.com/assets/images/safety/beach_hazard/beach_safety/suntan-lotion-600.png
+File Name: c:\Downloaded Web Sites\lightning.webviron.com\assets\images\safety\beach_hazard\beach_safety\suntan-lotion-600.png
+Content Type: image/png
+
+Uri: https://lightning.webviron.com/assets/images/safety/beach_hazard/beach_safety/bh-orange-600.png
+File Name: c:\Downloaded Web Sites\lightning.webviron.com\assets\images\safety\beach_hazard\beach_safety\bh-orange-600.png
+Content Type: image/png
+
+Uri: https://lightning.webviron.com/assets/images/safety/beach_hazard/beach_safety/beach_lightning600.png
+File Name: c:\Downloaded Web Sites\lightning.webviron.com\assets\images\safety\beach_hazard\beach_safety\beach_lightning600.png
+Content Type: image/png
+
+Uri: https://lightning.webviron.com/assets/images/safety/beach_hazard/beach_safety/TsunamiSignStockfree600.png
+File Name: c:\Downloaded Web Sites\lightning.webviron.com\assets\images\safety\beach_hazard\beach_safety\TsunamiSignStockfree600.png
+Content Type: image/png
+
+Uri: https://lightning.webviron.com/assets/images/safety/wildfire/michael-held-133902-unsplash.jpg
+File Name: c:\Downloaded Web Sites\lightning.webviron.com\assets\images\safety\wildfire\michael-held-133902-unsplash.jpeg
+Content Type: image/jpeg
+
+Uri: https://lightning.webviron.com/assets/images/safety/wildfire/scijinks_wildfire.png
+File Name: c:\Downloaded Web Sites\lightning.webviron.com\assets\images\safety\wildfire\scijinks_wildfire.png
+Content Type: image/png
+
+Uri: https://lightning.webviron.com/assets/images/safety/wildfire/WatchVWarning.jpg
+File Name: c:\Downloaded Web Sites\lightning.webviron.com\assets\images\safety\wildfire\WatchVWarning.jpeg
+Content Type: image/jpeg
+
+Uri: https://lightning.webviron.com/assets/images/safety/wildfire/fire-Ready.png
+File Name: c:\Downloaded Web Sites\lightning.webviron.com\assets\images\safety\wildfire\fire-Ready.png
+Content Type: image/png
+
+Uri: https://lightning.webviron.com/assets/images/safety/wildfire/Set.png
+File Name: c:\Downloaded Web Sites\lightning.webviron.com\assets\images\safety\wildfire\Set.png
+Content Type: image/png
+
+Uri: https://lightning.webviron.com/assets/images/safety/wildfire/Go.png
+File Name: c:\Downloaded Web Sites\lightning.webviron.com\assets\images\safety\wildfire\Go.png
+Content Type: image/png
+
+Uri: https://lightning.webviron.com/assets/images/safety/cold/alin-rusu-564059-unsplash.jpg
+File Name: c:\Downloaded Web Sites\lightning.webviron.com\assets\images\safety\cold\alin-rusu-564059-unsplash.jpeg
+Content Type: image/jpeg
+
+Uri: https://lightning.webviron.com/assets/images/safety/cold/Tab1_ColdWeather.png
+File Name: c:\Downloaded Web Sites\lightning.webviron.com\assets\images\safety\cold\Tab1_ColdWeather.png
+Content Type: image/png
+
+Uri: https://lightning.webviron.com/assets/images/safety/cold/Tab2_Cold_WatchWarningAdvisory.png
+File Name: c:\Downloaded Web Sites\lightning.webviron.com\assets\images\safety\cold\Tab2_Cold_WatchWarningAdvisory.png
+Content Type: image/png
+
+Uri: https://lightning.webviron.com/assets/images/safety/cold/Tab4_BeforeColdWeather.png
+File Name: c:\Downloaded Web Sites\lightning.webviron.com\assets\images\safety\cold\Tab4_BeforeColdWeather.png
+Content Type: image/png
+
+Uri: https://lightning.webviron.com/assets/images/safety/cold/Tab3_CropsColdWeather.png
+File Name: c:\Downloaded Web Sites\lightning.webviron.com\assets\images\safety\cold\Tab3_CropsColdWeather.png
+Content Type: image/png
+
+Uri: https://lightning.webviron.com/assets/images/safety/cold/Tab5_DuringColdWeather.png
+File Name: c:\Downloaded Web Sites\lightning.webviron.com\assets\images\safety\cold\Tab5_DuringColdWeather.png
+Content Type: image/png
+
+Uri: https://lightning.webviron.com/assets/images/safety/tornadoes/nikolas-noonan-682178-unsplash.jpg
+File Name: c:\Downloaded Web Sites\lightning.webviron.com\assets\images\safety\tornadoes\nikolas-noonan-682178-unsplash.jpeg
+Content Type: image/jpeg
+
+Uri: https://lightning.webviron.com/assets/images/safety/tornadoes/Tab1_TornadoPhoto.jpg
+File Name: c:\Downloaded Web Sites\lightning.webviron.com\assets\images\safety\tornadoes\Tab1_TornadoPhoto.jpeg
+Content Type: image/jpeg
+
+Uri: https://lightning.webviron.com/assets/images/safety/tornadoes/Tab2_Tor_WatchWarning.png
+File Name: c:\Downloaded Web Sites\lightning.webviron.com\assets\images\safety\tornadoes\Tab2_Tor_WatchWarning.png
+Content Type: image/png
+
+Uri: https://lightning.webviron.com/assets/images/safety/tornadoes/fema-takeshelter.png
+File Name: c:\Downloaded Web Sites\lightning.webviron.com\assets\images\safety\tornadoes\fema-takeshelter.png
+Content Type: image/png
+
+Uri: https://lightning.webviron.com/assets/images/safety/tornadoes/Tornado_sheltering.png
+File Name: c:\Downloaded Web Sites\lightning.webviron.com\assets\images\safety\tornadoes\Tornado_sheltering.png
+Content Type: image/png
+
+Uri: https://lightning.webviron.com/assets/images/safety/tornadoes/cds-gym-txt.png
+File Name: c:\Downloaded Web Sites\lightning.webviron.com\assets\images\safety\tornadoes\cds-gym-txt.png
+Content Type: image/png
+
+Uri: https://lightning.webviron.com/assets/images/safety/air/thomas-millot-526914-unsplash.jpg
+File Name: c:\Downloaded Web Sites\lightning.webviron.com\assets\images\safety\air\thomas-millot-526914-unsplash.jpeg
+Content Type: image/jpeg
+
+Uri: https://lightning.webviron.com/assets/images/safety/air/17503_asthma_cdc.png
+File Name: c:\Downloaded Web Sites\lightning.webviron.com\assets\images\safety\air\17503_asthma_cdc.png
+Content Type: image/png
+
+Uri: https://lightning.webviron.com/assets/images/safety/air/2017_forecast.png
+File Name: c:\Downloaded Web Sites\lightning.webviron.com\assets\images\safety\air\2017_forecast.png
+Content Type: image/png
+
+Uri: https://lightning.webviron.com/assets/images/safety/air/thumbnails/Thumbnail_Ozone012_conus.png
+File Name: c:\Downloaded Web Sites\lightning.webviron.com\assets\images\safety\air\thumbnails\Thumbnail_Ozone012_conus.png
+Content Type: image/png
+
+Uri: https://lightning.webviron.com/assets/images/safety/air/thumbnails/Thumbnail_Ozone012_alaska.png
+File Name: c:\Downloaded Web Sites\lightning.webviron.com\assets\images\safety\air\thumbnails\Thumbnail_Ozone012_alaska.png
+Content Type: image/png
+
+Uri: https://lightning.webviron.com/assets/images/safety/air/thumbnails/Thumbnail_Ozone012_hawaii.png
+File Name: c:\Downloaded Web Sites\lightning.webviron.com\assets\images\safety\air\thumbnails\Thumbnail_Ozone012_hawaii.png
+Content Type: image/png
+
+Uri: https://lightning.webviron.com/assets/images/safety/air/thumbnails/Thumbnail_Ozone082_conus.png
+File Name: c:\Downloaded Web Sites\lightning.webviron.com\assets\images\safety\air\thumbnails\Thumbnail_Ozone082_conus.png
+Content Type: image/png
+
+Uri: https://lightning.webviron.com/assets/images/safety/air/thumbnails/Thumbnail_Ozone082_alaska.png
+File Name: c:\Downloaded Web Sites\lightning.webviron.com\assets\images\safety\air\thumbnails\Thumbnail_Ozone082_alaska.png
+Content Type: image/png
+
+Uri: https://lightning.webviron.com/assets/images/safety/air/thumbnails/Thumbnail_Ozone082_hawaii.png
+File Name: c:\Downloaded Web Sites\lightning.webviron.com\assets\images\safety\air\thumbnails\Thumbnail_Ozone082_hawaii.png
+Content Type: image/png
+
+Uri: https://lightning.webviron.com/assets/images/safety/air/thumbnails/Thumbnail_smokes2_conus.png
+File Name: c:\Downloaded Web Sites\lightning.webviron.com\assets\images\safety\air\thumbnails\Thumbnail_smokes2_conus.png
+Content Type: image/png
+
+Uri: https://lightning.webviron.com/assets/images/safety/air/thumbnails/Thumbnail_smokes2_alaska.png
+File Name: c:\Downloaded Web Sites\lightning.webviron.com\assets\images\safety\air\thumbnails\Thumbnail_smokes2_alaska.png
+Content Type: image/png
+
+Uri: https://lightning.webviron.com/assets/images/safety/air/thumbnails/Thumbnail_smokes2_hawaii.png
+File Name: c:\Downloaded Web Sites\lightning.webviron.com\assets\images\safety\air\thumbnails\Thumbnail_smokes2_hawaii.png
+Content Type: image/png
+
+Uri: https://lightning.webviron.com/assets/images/safety/air/thumbnails/Thumbnail_smokec2_conus.png
+File Name: c:\Downloaded Web Sites\lightning.webviron.com\assets\images\safety\air\thumbnails\Thumbnail_smokec2_conus.png
+Content Type: image/png
+
+Uri: https://lightning.webviron.com/assets/images/safety/air/thumbnails/Thumbnail_dusts2_conus.png
+File Name: c:\Downloaded Web Sites\lightning.webviron.com\assets\images\safety\air\thumbnails\Thumbnail_dusts2_conus.png
+Content Type: image/png
+
+Uri: https://lightning.webviron.com/assets/images/safety/air/thumbnails/Thumbnail_dustc2_conus.png
+File Name: c:\Downloaded Web Sites\lightning.webviron.com\assets\images\safety\air\thumbnails\Thumbnail_dustc2_conus.png
+Content Type: image/png
+
+Uri: https://lightning.webviron.com/assets/images/safety/air/Haboob_Ransom_Canyon_Texas_2009.png
+File Name: c:\Downloaded Web Sites\lightning.webviron.com\assets\images\safety\air\Haboob_Ransom_Canyon_Texas_2009.png
+Content Type: image/png
+
+Uri: https://lightning.webviron.com/assets/images/safety/air/SmogNOAA_ESRL.png
+File Name: c:\Downloaded Web Sites\lightning.webviron.com\assets\images\safety\air\SmogNOAA_ESRL.png
+Content Type: image/png
+
+Uri: https://lightning.webviron.com/assets/images/safety/air/aqindex_map.jpg
+File Name: c:\Downloaded Web Sites\lightning.webviron.com\assets\images\safety\air\aqindex_map.jpeg
+Content Type: image/jpeg
+
+Uri: https://lightning.webviron.com/assets/images/safety/fog/jakub-kriz-414659-unsplash.jpg
+File Name: c:\Downloaded Web Sites\lightning.webviron.com\assets\images\safety\fog\jakub-kriz-414659-unsplash.jpeg
+Content Type: image/jpeg
+
+Uri: https://lightning.webviron.com/assets/images/safety/fog/Fog_NOAA.png
+File Name: c:\Downloaded Web Sites\lightning.webviron.com\assets\images\safety\fog\Fog_NOAA.png
+Content Type: image/png
+
+Uri: https://lightning.webviron.com/assets/images/safety/fog/dense_fog_advisory.jpg
+File Name: c:\Downloaded Web Sites\lightning.webviron.com\assets\images\safety\fog\dense_fog_advisory.jpeg
+Content Type: image/jpeg
+
+Uri: https://lightning.webviron.com/assets/images/safety/fog/FogCarNOAA.png
+File Name: c:\Downloaded Web Sites\lightning.webviron.com\assets\images\safety\fog\FogCarNOAA.png
+Content Type: image/png
+
+Uri: https://lightning.webviron.com/assets/images/safety/fog/Fog NOAA boat.png
+File Name: c:\Downloaded Web Sites\lightning.webviron.com\assets\images\safety\fog\Fog NOAA boat.png
+Content Type: image/png
+
+Uri: https://lightning.webviron.com/assets/images/safety/fog/fog_plane_dailymail.co.png
+File Name: c:\Downloaded Web Sites\lightning.webviron.com\assets\images\safety\fog\fog_plane_dailymail.co.png
+Content Type: image/png
+
+Uri: https://lightning.webviron.com/assets/images/safety/heat/peter-conlan-648540-unsplash.jpg
+File Name: c:\Downloaded Web Sites\lightning.webviron.com\assets\images\safety\heat\peter-conlan-648540-unsplash.jpeg
+Content Type: image/jpeg
+
+Uri: https://lightning.webviron.com/assets/images/safety/heat/heat-graphic-final2-650.jpg
+File Name: c:\Downloaded Web Sites\lightning.webviron.com\assets\images\safety\heat\heat-graphic-final2-650.jpeg
+Content Type: image/jpeg
+
+Uri: https://lightning.webviron.com/assets/images/safety/heat/Heatww.png
+File Name: c:\Downloaded Web Sites\lightning.webviron.com\assets\images\safety\heat\Heatww.png
+Content Type: image/png
+
+Uri: https://lightning.webviron.com/assets/images/safety/heat/heatindexchart-650.jpg
+File Name: c:\Downloaded Web Sites\lightning.webviron.com\assets\images\safety\heat\heatindexchart-650.jpeg
+Content Type: image/jpeg
+
+Uri: https://lightning.webviron.com/assets/images/safety/heat/sunburn-650.png
+File Name: c:\Downloaded Web Sites\lightning.webviron.com\assets\images\safety\heat\sunburn-650.png
+Content Type: image/png
+
+Uri: https://lightning.webviron.com/assets/images/safety/heat/heat-infographics.gif
+File Name: c:\Downloaded Web Sites\lightning.webviron.com\assets\images\safety\heat\heat-infographics.gif
+Content Type: image/gif
+
+Uri: https://lightning.webviron.com/assets/images/safety/hurricane/matt-hardy-495905-unsplash-min.jpg
+File Name: c:\Downloaded Web Sites\lightning.webviron.com\assets\images\safety\hurricane\matt-hardy-495905-unsplash-min.jpeg
+Content Type: image/jpeg
+
+Uri: https://lightning.webviron.com/assets/images/safety/hurricane/Hurricane Safety/water_damage.jpg
+File Name: c:\Downloaded Web Sites\lightning.webviron.com\assets\images\safety\hurricane\Hurricane Safety\water_damage.jpeg
+Content Type: image/jpeg
+
+Uri: https://lightning.webviron.com/assets/images/safety/hurricane/Watches and Warnings/171511_hawaii_ld.jpg
+File Name: c:\Downloaded Web Sites\lightning.webviron.com\assets\images\safety\hurricane\Watches and Warnings\171511_hawaii_ld.jpeg
+Content Type: image/jpeg
+
+Uri: https://lightning.webviron.com/assets/images/safety/hurricane/Watches and Warnings/171511_sandyTrack_ld.jpg
+File Name: c:\Downloaded Web Sites\lightning.webviron.com\assets\images\safety\hurricane\Watches and Warnings\171511_sandyTrack_ld.jpeg
+Content Type: image/jpeg
+
+Uri: https://lightning.webviron.com/assets/images/safety/hurricane/plan/prepare-txt.png
+File Name: c:\Downloaded Web Sites\lightning.webviron.com\assets\images\safety\hurricane\plan\prepare-txt.png
+Content Type: image/png
+
+Uri: https://lightning.webviron.com/assets/images/safety/hurricane/tack action/sandy-windreuters.png
+File Name: c:\Downloaded Web Sites\lightning.webviron.com\assets\images\safety\hurricane\tack action\sandy-windreuters.png
+Content Type: image/png
+
+Uri: https://lightning.webviron.com/assets/images/safety/hurricane/After a Hurricane/After Katrina-txt.png
+File Name: c:\Downloaded Web Sites\lightning.webviron.com\assets\images\safety\hurricane\After a Hurricane\After Katrina-txt.png
+Content Type: image/png
+
+Uri: https://lightning.webviron.com/assets/images/safety/lightning/ian-froome-362138-unsplash-min.jpg
+File Name: c:\Downloaded Web Sites\lightning.webviron.com\assets\images\safety\lightning\ian-froome-362138-unsplash-min.jpeg
+Content Type: image/jpeg
+
+Uri: https://lightning.webviron.com/assets/images/safety/lightning/whats news/lightning_temperature.png
+File Name: c:\Downloaded Web Sites\lightning.webviron.com\assets\images\safety\lightning\whats news\lightning_temperature.png
+Content Type: image/png
+
+Uri: https://lightning.webviron.com/assets/images/safety/lightning/Lightning Safety/When_Thunder_Roars_Photo_Orlando.png
+File Name: c:\Downloaded Web Sites\lightning.webviron.com\assets\images\safety\lightning\Lightning Safety\When_Thunder_Roars_Photo_Orlando.png
+Content Type: image/png
+
+Uri: https://lightning.webviron.com/assets/images/safety/lightning/lightning Science/NM_Lightning_Edens1.jpg
+File Name: c:\Downloaded Web Sites\lightning.webviron.com\assets\images\safety\lightning\lightning Science\NM_Lightning_Edens1.jpeg
+Content Type: image/jpeg
+
+Uri: https://lightning.webviron.com/assets/images/safety/lightning/Lightning Victims/phl_ambulance3_3c_10.png
+File Name: c:\Downloaded Web Sites\lightning.webviron.com\assets\images\safety\lightning\Lightning Victims\phl_ambulance3_3c_10.png
+Content Type: image/png
+
+Uri: https://lightning.webviron.com/assets/images/safety/lightning/faq/lightning-empire-s_1210556i.jpg
+File Name: c:\Downloaded Web Sites\lightning.webviron.com\assets\images\safety\lightning\faq\lightning-empire-s_1210556i.jpeg
+Content Type: image/jpeg
+
+Uri: https://lightning.webviron.com/assets/images/safety/boat/laura-lefurgey-smith-106965-unsplash-min.jpg
+File Name: c:\Downloaded Web Sites\lightning.webviron.com\assets\images\safety\boat\laura-lefurgey-smith-106965-unsplash-min.jpeg
+Content Type: image/jpeg
+
+Uri: https://lightning.webviron.com/assets/images/safety/boat/safe_boat/NSBC-WearIt-logo-horiz.jpg
+File Name: c:\Downloaded Web Sites\lightning.webviron.com\assets\images\safety\boat\safe_boat\NSBC-WearIt-logo-horiz.jpeg
+Content Type: image/jpeg
+
+Uri: https://lightning.webviron.com/assets/images/safety/boat/w_and_w/ww-map.png
+File Name: c:\Downloaded Web Sites\lightning.webviron.com\assets\images\safety\boat\w_and_w\ww-map.png
+Content Type: image/png
+
+Uri: https://lightning.webviron.com/assets/images/safety/boat/before_out/boat_dock650.png
+File Name: c:\Downloaded Web Sites\lightning.webviron.com\assets\images\safety\boat\before_out\boat_dock650.png
+Content Type: image/png
+
+Uri: https://lightning.webviron.com/assets/images/safety/boat/while_out/boat_lightning-eric_treece650.jpg
+File Name: c:\Downloaded Web Sites\lightning.webviron.com\assets\images\safety\boat\while_out\boat_lightning-eric_treece650.jpeg
+Content Type: image/jpeg
+
+Uri: https://lightning.webviron.com/assets/images/safety/boat/inland/sailboat650.png
+File Name: c:\Downloaded Web Sites\lightning.webviron.com\assets\images\safety\boat\inland\sailboat650.png
+Content Type: image/png
+
+Uri: https://lightning.webviron.com/assets/images/safety/rip/dahee-son-204749-unsplash-min.jpg
+File Name: c:\Downloaded Web Sites\lightning.webviron.com\assets\images\safety\rip\dahee-son-204749-unsplash-min.jpeg
+Content Type: image/jpeg
+
+Uri: https://lightning.webviron.com/assets/images/safety/rip/rip_curret_safety/spot_the_rip.png
+File Name: c:\Downloaded Web Sites\lightning.webviron.com\assets\images\safety\rip\rip_curret_safety\spot_the_rip.png
+Content Type: image/png
+
+Uri: https://lightning.webviron.com/assets/images/safety/rip/surf_forcast/forecast_map.png
+File Name: c:\Downloaded Web Sites\lightning.webviron.com\assets\images\safety\rip\surf_forcast\forecast_map.png
+Content Type: image/png
+
+Uri: https://lightning.webviron.com/assets/images/safety/thunderstorm/jakub-kriz-414659-unsplash.jpg
+File Name: c:\Downloaded Web Sites\lightning.webviron.com\assets\images\safety\thunderstorm\jakub-kriz-414659-unsplash.jpeg
+Content Type: image/jpeg
+
+Uri: https://lightning.webviron.com/assets/images/safety/thunderstorm/Severe_Thunderstorm/abcd.jpg
+File Name: c:\Downloaded Web Sites\lightning.webviron.com\assets\images\safety\thunderstorm\Severe_Thunderstorm\abcd.jpeg
+Content Type: image/jpeg
+
+Uri: https://lightning.webviron.com/assets/images/safety/thunderstorm/Watch vs. Warnings/123.png
+File Name: c:\Downloaded Web Sites\lightning.webviron.com\assets\images\safety\thunderstorm\Watch vs. Warnings\123.png
+Content Type: image/png
+
+Uri: https://lightning.webviron.com/assets/images/safety/thunderstorm/Prepare for Severe Thunderstorm/1234.png
+File Name: c:\Downloaded Web Sites\lightning.webviron.com\assets\images\safety\thunderstorm\Prepare for Severe Thunderstorm\1234.png
+Content Type: image/png
+
+Uri: https://lightning.webviron.com/assets/images/safety/thunderstorm/During Severe Thunderstorms/abc.JPG
+File Name: c:\Downloaded Web Sites\lightning.webviron.com\assets\images\safety\thunderstorm\During Severe Thunderstorms\abc.jpeg
+Content Type: image/jpeg
+
+Uri: https://lightning.webviron.com/assets/images/safety/thunderstorm/After Severe Thunderstorms/xyz.png
+File Name: c:\Downloaded Web Sites\lightning.webviron.com\assets\images\safety\thunderstorm\After Severe Thunderstorms\xyz.png
+Content Type: image/png
+
+Uri: https://lightning.webviron.com/assets/images/safety/space/nasa-89125-unsplash-min.jpg
+File Name: c:\Downloaded Web Sites\lightning.webviron.com\assets\images\safety\space\nasa-89125-unsplash-min.jpeg
+Content Type: image/jpeg
+
+Uri: https://lightning.webviron.com/assets/images/safety/space/Space Weather/space-infographic650.jpg
+File Name: c:\Downloaded Web Sites\lightning.webviron.com\assets\images\safety\space\Space Weather\space-infographic650.jpeg
+Content Type: image/jpeg
+
+Uri: https://lightning.webviron.com/assets/images/safety/space/Weather Watches/ww-table.png
+File Name: c:\Downloaded Web Sites\lightning.webviron.com\assets\images\safety\space\Weather Watches\ww-table.png
+Content Type: image/png
+
+Uri: https://lightning.webviron.com/assets/images/safety/space/Before an Extreme Solar Event/prepare-txt.png
+File Name: c:\Downloaded Web Sites\lightning.webviron.com\assets\images\safety\space\Before an Extreme Solar Event\prepare-txt.png
+Content Type: image/png
+
+Uri: https://lightning.webviron.com/assets/images/safety/space/During an Extreme Solar Event/4.png
+File Name: c:\Downloaded Web Sites\lightning.webviron.com\assets\images\safety\space\During an Extreme Solar Event\4.png
+Content Type: image/png
+
+Uri: https://lightning.webviron.com/assets/images/safety/space/After an Extreme Space Weather Event/powerlines.png
+File Name: c:\Downloaded Web Sites\lightning.webviron.com\assets\images\safety\space\After an Extreme Space Weather Event\powerlines.png
+Content Type: image/png
+
+Uri: https://lightning.webviron.com/assets/images/safety/wind/mahkeo-381006-unsplash-min.jpg
+File Name: c:\Downloaded Web Sites\lightning.webviron.com\assets\images\safety\wind\mahkeo-381006-unsplash-min.jpeg
+Content Type: image/jpeg
+
+Uri: https://lightning.webviron.com/assets/images/safety/wind/Strong wind Safety/abc.png
+File Name: c:\Downloaded Web Sites\lightning.webviron.com\assets\images\safety\wind\Strong wind Safety\abc.png
+Content Type: image/png
+
+Uri: https://lightning.webviron.com/assets/images/safety/wind/Warnings and Watches/wind-ww.jpg
+File Name: c:\Downloaded Web Sites\lightning.webviron.com\assets\images\safety\wind\Warnings and Watches\wind-ww.jpeg
+Content Type: image/jpeg
+
+Uri: https://lightning.webviron.com/assets/images/safety/wind/Before Strong Winds/wind-ww.jpg
+File Name: c:\Downloaded Web Sites\lightning.webviron.com\assets\images\safety\wind\Before Strong Winds\wind-ww.jpeg
+Content Type: image/jpeg
+
+Uri: https://lightning.webviron.com/assets/images/safety/wind/During Strong Winds/houseandtree.png
+File Name: c:\Downloaded Web Sites\lightning.webviron.com\assets\images\safety\wind\During Strong Winds\houseandtree.png
+Content Type: image/png
+
+Uri: https://lightning.webviron.com/assets/images/safety/wind/After strong Wind/powerlines_poles_road.png
+File Name: c:\Downloaded Web Sites\lightning.webviron.com\assets\images\safety\wind\After strong Wind\powerlines_poles_road.png
+Content Type: image/png
+
+Uri: https://lightning.webviron.com/assets/images/safety/drought/alfonso-ninguno-195788-unsplash-min.jpg
+File Name: c:\Downloaded Web Sites\lightning.webviron.com\assets\images\safety\drought\alfonso-ninguno-195788-unsplash-min.jpeg
+Content Type: image/jpeg
+
+Uri: https://lightning.webviron.com/assets/images/safety/drought/Drought Safety/Drought1.png
+File Name: c:\Downloaded Web Sites\lightning.webviron.com\assets\images\safety\drought\Drought Safety\Drought1.png
+Content Type: image/png
+
+Uri: https://lightning.webviron.com/assets/images/safety/drought/Monitoring, forecasts/season_drought.png
+File Name: c:\Downloaded Web Sites\lightning.webviron.com\assets\images\safety\drought\Monitoring, forecasts\season_drought.png
+Content Type: image/png
+
+Uri: https://lightning.webviron.com/assets/images/safety/drought/Take Action/drought2.png
+File Name: c:\Downloaded Web Sites\lightning.webviron.com\assets\images\safety\drought\Take Action\drought2.png
+Content Type: image/png
+
+Uri: https://lightning.webviron.com/assets/images/safety/drought/Drought Impacts/drought3.png
+File Name: c:\Downloaded Web Sites\lightning.webviron.com\assets\images\safety\drought\Drought Impacts\drought3.png
+Content Type: image/png
+
+Uri: https://lightning.webviron.com/assets/images/safety/drought/Drought Types/DroughtUSGS.png
+File Name: c:\Downloaded Web Sites\lightning.webviron.com\assets\images\safety\drought\Drought Types\DroughtUSGS.png
+Content Type: image/png
+

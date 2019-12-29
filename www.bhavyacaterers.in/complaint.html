@@ -1,0 +1,511 @@
+﻿<!DOCTYPE html>
+
+<!--[if IE 8]> <html lang="en" class="ie8 no-js"> <![endif]-->
+<!--[if IE 9]> <html lang="en" class="ie9 no-js"> <![endif]-->
+<!--[if !IE]><!-->
+<html lang="zxx">
+
+<head>
+    <title>Complaints</title>
+    <meta name="description" content="">
+    <meta name="keywords" content="">
+
+   	    <meta charset="utf-8">
+    <meta content="width=device-width, initial-scale=1.0" name="viewport">
+    <meta name="author" content="">
+    <meta name="MobileOptimized" content="320">
+    <!--Template style -->
+    <link rel="stylesheet" type="text/css" href="css\animate.css">
+    <link rel="stylesheet" type="text/css" href="css\bootstrap.css">
+    <link rel="stylesheet" type="text/css" href="css\font-awesome.css">
+    <link rel="stylesheet" type="text/css" href="css\fonts.css">
+    <link rel="stylesheet" type="text/css" href="css\flaticon.css">
+    <link rel="stylesheet" type="text/css" href="css\owl.carousel.css">
+    <link rel="stylesheet" type="text/css" href="css\owl.theme.default.css">
+    <link rel="stylesheet" type="text/css" href="css\magnific-popup.css">
+    <link rel="stylesheet" type="text/css" href="css\venobox.css">
+    <link rel="stylesheet" type="text/css" href="css\style.css">
+    <link rel="stylesheet" type="text/css" href="css\responsive.css">
+    <link rel="stylesheet" id="theme-color" type="text/css" href="#">
+    <!-- favicon links -->
+    <link rel="shortcut icon" type="image/png" href="images\header\logo_30x30.jpeg">
+</head>
+
+<body>
+    <!-- preloader Start -->
+    <div id="preloader">
+        <div id="status">
+            <img src="images\header\loader.gif" id="preloader_image" alt="loader">
+        </div>
+    </div>
+    <!-- color picker start -->
+   
+    <!-- color picker end -->
+    <!-- header and navigation Start -->
+    <div class="lr_inner_header_navigation_main_wrapper">
+        <div class="lr_navigation_header_fixed lr_inner_top_header_navigation_wrapper">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
+                        <div class="lr_logo_mian_wrapper">
+                            <a href="index-1.html"><img src="images\header\logo_3_162x70.jpeg" alt="logo"></a>
+                        </div>
+                    </div>
+                    <div class="col-lg-9 col-md-9 col-sm-9 col-xs-9">
+                        <div class="lr_main_navigation_wrapper">
+                            <nav class="main-menu navbar-expand-lg">
+                                <div class="navbar-header">
+                                    <!-- Toggle Button -->
+                                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                                    <span class="icon-bar"></span>
+                                    <span class="icon-bar"></span>
+                                    <span class="icon-bar"></span>
+                                    </button>
+                                </div>
+
+                                <div class="navbar-collapse collapse clearfix">
+                                    <ul class="navigation clearfix">
+                                        <li class=""><a href="index-1.html">Home</a>
+                                        </li>
+                                        
+                                        <li><a href="about.html">About Us</a></li>
+                                        <li class=""><a href="complaint.html">Complaint</a>
+                                            
+                                        </li>
+                                        <li><a href="feedback.html">feedback</a></li>
+                                        <li><a href="contact.html">Contact Us</a></li>
+                                       
+
+                                            </ul>
+                                        
+                                    
+                                </div>
+                            </nav>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+   	<style>
+	@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
+
+html{   
+  background-size: cover;
+  height:100%;
+}
+
+#feedback-page{
+	text-align:center;
+}
+
+#form-main{
+	width:100%;
+	float:left;
+	padding-top:0px;
+}
+
+#form-div {
+	background-color: rgba(72,72,72,0.4);
+    padding-left: 35px;
+    padding-right: 35px;
+    padding-top: 35px;
+    padding-bottom: 50px;
+    width: 90% !important;
+    /* max-width: 320px; */
+    margin-top: -80px;
+    -moz-border-radius: 7px;
+    -webkit-border-radius: 7px;
+    /* margin-left: 20px; */
+    margin-right: 20px;
+
+}
+
+.feedback-input {
+	color:#3c3c3c;
+	font-family: Helvetica, Arial, sans-serif;
+  font-weight:500;
+	font-size: 18px;
+	border-radius: 0;
+	line-height: 22px;
+	background-color: #fbfbfb;
+	padding: 13px 13px 13px 54px;
+	margin-bottom: 10px;
+	width:100%;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-ms-box-sizing: border-box;
+	box-sizing: border-box;
+  border: 3px solid rgba(0,0,0,0);
+}
+
+.feedback-input:focus{
+	background: #fff;
+	box-shadow: 0;
+	border: 3px solid #3498db;
+	color: #3498db;
+	outline: none;
+  padding: 13px 13px 13px 54px;
+}
+
+.focused{
+	color:#30aed6;
+	border:#30aed6 solid 3px;
+}
+
+/* Icons ---------------------------------- */
+#name{
+	background-image: url(images/icons/name.svg);
+	background-size: 30px 30px;
+	background-position: 11px 8px;
+	background-repeat: no-repeat;
+}
+
+#name:focus{
+	background-image: url(images/icons/name.svg);
+	background-size: 30px 30px;
+	background-position: 8px 5px;
+  background-position: 11px 8px;
+	background-repeat: no-repeat;
+}
+
+#email{
+	background-image: url(images/icons/email.svg);
+	background-size: 30px 30px;
+	background-position: 11px 8px;
+	background-repeat: no-repeat;
+}
+
+#email:focus{
+	background-image: url(images/icons/email.svg);
+	background-size: 30px 30px;
+  background-position: 11px 8px;
+	background-repeat: no-repeat;
+}
+
+#comment{
+	background-image: url(images/icons/comment.svg);
+	background-size: 30px 30px;
+	background-position: 11px 8px;
+	background-repeat: no-repeat;
+}
+
+textarea {
+    width: 100%;
+    height: 150px;
+    line-height: 150%;
+    resize:vertical;
+}
+
+input:hover, textarea:hover,
+input:focus, textarea:focus {
+	background-color:white;
+}
+
+#button-blue{
+	font-family: 'Montserrat', Arial, Helvetica, sans-serif;
+	float:left;
+	width: 100%;
+	border: #fbfbfb solid 4px;
+	cursor:pointer;
+	background-color: #3498db;
+	color:white;
+	font-size:24px;
+	padding-top:22px;
+	padding-bottom:22px;
+	-webkit-transition: all 0.3s;
+	-moz-transition: all 0.3s;
+	transition: all 0.3s;
+  margin-top:-4px;
+  font-weight:700;
+}
+
+#button-blue:hover{
+	background-color: rgba(0,0,0,0);
+	color: #0493bd;
+}
+	
+.submit:hover {
+	color: #3498db;
+}
+	
+.ease {
+	width: 0px;
+	height: 74px;
+	background-color: #fbfbfb;
+	-webkit-transition: .3s ease;
+	-moz-transition: .3s ease;
+	-o-transition: .3s ease;
+	-ms-transition: .3s ease;
+	transition: .3s ease;
+}
+
+.submit:hover .ease{
+  width:100%;
+  background-color:white;
+}
+.lr_gt_bur_img {
+    position: relative;
+    right: 50px;
+    /* bottom: 15px; */
+    float: right;
+}
+@media only screen and (max-width: 580px) {
+    #form-div{
+        margin-top:0px;
+        width: 100% !important;
+        margin-left: 0;
+        padding-left: 3%;
+        padding-right: 3%;
+    }
+}
+.lr_gt_right_wrapper{
+    width: 100%
+}
+	</style>
+
+
+        <div class="lr_inner_header_bottom_title_wrapper">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+                        <div class="lr_inner_title_heading_wrapper">
+                            <h2>Complaints<span></span></h2>
+                        </div>
+                    </div>
+                    <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+                        <div class="lr_inner_title_right_Wrapper">
+                            <ul>
+                                <li><a href="index-1.html">Home &nbsp;&nbsp;&nbsp;></a></li>
+                                <li>Complaints</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- header and navigation End -->
+
+    <!-- lr contact title section Start -->
+    <!-- lr contact title section End -->
+
+    <!-- lr contact map section Start -->
+    <!-- lr contact map section End -->
+
+    <!-- lr contact get in section Start -->
+    <div class="lr_contact_gt_main_wrapper" style="margin-bottom: 100px;">
+        <div class="container">
+            <div class="lr_gt_right_wrapper">
+                <div class="lr_gt_right_heading">
+                    <h2>Complaints<span></span></h2>
+                    <p>Facing any problems! Please report us.</p>
+                </div>
+                <div class="lr_gt_chef_img">
+                    <img src="images\content\contact\chef.png" alt="chef_img">
+                </div>
+                <div class="lr_gt_bur_img">
+                    <img src="images\content\contact\bur.png" alt="chef_img">
+                </div>
+                <div class="row">
+                    <div class="blog_contect_wrapper lr_gt_contact_form_Wrapper">
+                        <div id="form-main">
+              <div id="form-div">
+                <form class="form" id="form1">
+                  
+                  <p class="name">
+                    <input name="name" type="text" class="feedback-input" placeholder="Name" id="name">
+                  </p>
+                  
+                  <p class="email">
+                    <input name="email" type="text" class="feedback-input" id="email" placeholder="Email">
+                  </p>
+                  
+                  <p class="text">
+                    <textarea name="text" class="feedback-input" id="comment" placeholder="Write issues!"></textarea>
+                  </p>
+                  
+                  
+                  <div class="submit">
+                    <input type="button" value="SEND" id="button-blue">
+                    <div class="ease"></div>
+                  </div>
+                </form>
+              </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+  </div>
+    <!-- lr contact get in section End -->
+
+    <!-- lr Partner section Start -->
+    <!-- lr Partner section End -->
+    
+    <!-- lr footer section Start -->
+    <div class="lr_footer_main_wrapper jarallax" style="padding-top: 100px;">
+        <!--<div class="lr_banner_bottom_shap_img_wrapper">
+            <img src="images/header/inner_shap-2.png" alt="shape">
+        </div>-->
+        <div class="lr_footer_img_overlay"></div>
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+                    <div class="lr_footer_cont_first">
+                        <div class="lr_footer_first_heading">
+                            <h2>About Us <span></span></h2>
+                        </div>
+                        <div class="lr_footer_first_heading_cont">
+                            <p>We at Bhavya Cateres Pvt. Ltd are fully equipped having experienced Team & Infrastructure for operating private trains & Container Corporation of India. Industrial catering, Outdoor & Event Catering, Hospitity services and food stuff training etc.
+Capable of handling private train
+One step solution to all your Travel & Tourism & Catering Requirements.</p>
+                            <ul>
+                                <li><a href="#"><i class="fa fa-facebook"></i></a></li>
+                                <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+                                <li><a href="#"><i class="fa fa-youtube-play"></i></a></li>
+                                <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+                            </ul>
+                        </div>
+                        <div class="lr_footer_first_btn">
+                            <a href="about.html" class="lr-btn lr-footer-btn move-eff"><span>READ MORE</span></a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+                    <div class="lr_footer_cont_first lr_footer_cont_second">
+                        <div class="lr_footer_third_heading">
+                            <h2>Contact Us <span></span></h2>
+                        </div>
+                        <div class="lr_footer_third_heading_cont">
+                            <div class="lr_foot_add_wrapper">
+                                <div class="lr_foot_icon_wrapper">
+                                    <i class="fa fa-location-arrow"></i>
+                                </div>
+                                <div class="lr_foot_icon_cont_wrapper">
+                                    <p>Icd tughlakabad Pocket , Okhla Phase I<br> Okhla Industrial Area, New Delhi, Delhi 110020, India</p>
+                                </div>
+                            </div>
+                            <div class="lr_foot_add_wrapper lr_foot_contact_wrapper">
+                                <div class="lr_foot_icon_wrapper">
+                                    <i class="fa fa-phone"></i>
+                                </div>
+                                <div class="lr_foot_icon_cont_wrapper lr_foot_icon_contact_cont_wrapper">
+                                    <p>+91 7566850005<br> +91 8586819600
+                                    </p>
+                                </div>
+                            </div>
+                            <div class="lr_foot_add_wrapper lr_foot_contact_wrapper">
+                                <div class="lr_foot_icon_wrapper">
+                                    <i class="fa fa-envelope-open"></i>
+                                </div>
+                                <div class=" lr_foot_icon_cont_wrapper lr_foot_icon_email_cont_wrapper">
+                                    <p><a href="#">rahulyadav@bhavyacateres.com</a><br>
+                                        <a href="#">abhaysingh@bhavyacateres.com</a></p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                    <div class="row">
+                        <div class="lr_footer_news_letter_wrapper">
+                            <div class="col-lg-5 col-md-5 col-sm-12 col-xs-12">
+                                <div class="lr_nl_heading_wrapper">
+                                    <h2>Subscribe to Our Newsletter</h2>
+                                    <p>Receive 15% Discount From Your First Order.</p>
+                                </div>
+                            </div>
+                            <div class="col-lg-7 col-md-7 col-sm-12 col-xs-12">
+                                <div class="lr_nl_form_wrapper">
+                                    <input type="text" placeholder="Enter Your Email">
+                                    <button type="submit">Subscribe</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="lr_bottom_footer_main_wrapper">
+        <a href="javascript:" id="return-to-top"><i class="fa fa-long-arrow-up"></i><br><span>TOP</span></a>
+        <p>Copyright 2018 <a href="about.html">Bhavya Cateres Pvt. Ltd</a> - Design By ~ <a href="https://webviron.com">Webviron</a></p>
+    </div>
+    <!-- lr footer section End -->
+    <!--main js file start-->
+    <script src="js\jquery_min.js"></script>
+    <script src="js\modernizr.js"></script>
+    <script src="js\bootstrap.js"></script>
+    <script src="js\owl.carousel.js"></script>
+    <script src="js\parallax.min.js"></script>
+	<script src="js\bubble-app.js"></script>
+    <script src="js\tilt.jquery.js"></script>
+    <script src="js\jquery.countTo.js"></script>
+    <script src="js\jquery.inview.min.js"></script>
+	<script src="js\jarallax.js"></script>
+    <script src="js\jquery.magnific-popup.js"></script>
+    <script src="js\jquery.counterup.min.js"></script>
+    <script src="js\jquery.downCount.js"></script>
+    <script src="js\waypoints.min.js"></script>
+    <script src="js\venobox.min.js"></script>
+    <script src="js\custom.js"></script>
+    <!--main js file end-->
+    <script>
+        function initMap() {
+        		        	var uluru = {lat: -36.742775, lng:  174.731559};
+        		        	var map = new google.maps.Map(document.getElementById('map'), {
+        		        	zoom: 15,
+        		        	scrollwheel: false,
+        		        	center: uluru
+        		        	});
+        		        	var marker = new google.maps.Marker({
+        		        	position: uluru,
+        		        	map: map
+        		        	});
+        		        	}
+
+
+       // Complaint Form 
+       $("#button-blue").click(function(){
+
+       			var u_name, u_email, u_comment;
+       			u_name=u_email=u_comment = "";
+
+                 u_name = $("#name").val();
+                 u_email= $("#email").val();
+                 u_comment = $("#comment").val();
+
+                if(u_name != "" && u_email != "" && u_comment){
+                	$.ajax({
+                            type : 'POST',
+                            url : 'api/complaintForm.php',
+                            data : {
+                            	name : u_name, 
+                            	email : u_email, 
+                            	issues : u_comment
+                            },
+                            dataType: 'json',
+                            success : function(response) {
+                            	//console.log(response);
+                            	if(response.data[0].error == "false"){
+                            		alert('Thank you! Your Complaint has been submitted successfully.') ? "" : location.reload();
+                            	}
+                            },
+                            error : function(response){
+                            	console.log(response);
+                            }
+                            
+                        })
+                }
+                else{
+                	alert("Please fill all the details!");
+                }
+
+              });
+
+    </script>
+    <script async="" defer="" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCmdG8C6ItElq5ipuFv6O9AE48wyZm_vqU&callback=initMap">
+    </script>
+</body>
+</html>

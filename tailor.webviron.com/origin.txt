@@ -1,0 +1,880 @@
+Uri: https://tailor.webviron.com/
+File Name: c:\Downloaded Web Sites\tailor.webviron.com\index.html
+Content Type: text/html
+
+Uri: https://tailor.webviron.com/images/slider/slmen.png
+File Name: c:\Downloaded Web Sites\tailor.webviron.com\images\slider\slmen.png
+Content Type: image/png
+
+Uri: https://tailor.webviron.com/images/slider/slwomen.png
+File Name: c:\Downloaded Web Sites\tailor.webviron.com\images\slider\slwomen.png
+Content Type: image/png
+
+Uri: https://tailor.webviron.com/images/slider/img-04.jpeg
+File Name: c:\Downloaded Web Sites\tailor.webviron.com\images\slider\img-04.jpeg
+Content Type: image/jpeg
+
+Uri: https://tailor.webviron.com/images/slider/im2.jpg
+File Name: c:\Downloaded Web Sites\tailor.webviron.com\images\slider\im2.jpeg
+Content Type: image/jpeg
+
+Uri: https://tailor.webviron.com/apple-touch-icon.png
+File Name: c:\Downloaded Web Sites\tailor.webviron.com\apple-touch-icon.png
+Content Type: image/png
+
+Uri: https://tailor.webviron.com/css/bootstrap.min.css
+File Name: c:\Downloaded Web Sites\tailor.webviron.com\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://tailor.webviron.com/css/normalize.css
+File Name: c:\Downloaded Web Sites\tailor.webviron.com\css\normalize.css
+Content Type: text/css
+
+Uri: https://tailor.webviron.com/css/font-awesome.min.css
+File Name: c:\Downloaded Web Sites\tailor.webviron.com\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://tailor.webviron.com/css/jquery.flipster.css
+File Name: c:\Downloaded Web Sites\tailor.webviron.com\css\jquery.flipster.css
+Content Type: text/css
+
+Uri: https://tailor.webviron.com/css/icomoon.css
+File Name: c:\Downloaded Web Sites\tailor.webviron.com\css\icomoon.css
+Content Type: text/css
+
+Uri: https://tailor.webviron.com/css/jquery-ui.css
+File Name: c:\Downloaded Web Sites\tailor.webviron.com\css\jquery-ui.css
+Content Type: text/css
+
+Uri: https://tailor.webviron.com/css/pogoslider.css
+File Name: c:\Downloaded Web Sites\tailor.webviron.com\css\pogoslider.css
+Content Type: text/css
+
+Uri: https://tailor.webviron.com/css/owl.carousel.css
+File Name: c:\Downloaded Web Sites\tailor.webviron.com\css\owl.carousel.css
+Content Type: text/css
+
+Uri: https://tailor.webviron.com/css/transitions.css
+File Name: c:\Downloaded Web Sites\tailor.webviron.com\css\transitions.css
+Content Type: text/css
+
+Uri: https://tailor.webviron.com/css/main.css
+File Name: c:\Downloaded Web Sites\tailor.webviron.com\css\main.css
+Content Type: text/css
+
+Uri: https://tailor.webviron.com/css/color.css
+File Name: c:\Downloaded Web Sites\tailor.webviron.com\css\color.css
+Content Type: text/css
+
+Uri: https://tailor.webviron.com/css/responsive.css
+File Name: c:\Downloaded Web Sites\tailor.webviron.com\css\responsive.css
+Content Type: text/css
+
+Uri: https://tailor.webviron.com/index.php
+File Name: c:\Downloaded Web Sites\tailor.webviron.com\index-1.html
+Content Type: text/html
+
+Uri: https://tailor.webviron.com/aboutus.php
+File Name: c:\Downloaded Web Sites\tailor.webviron.com\aboutus.html
+Content Type: text/html
+
+Uri: https://tailor.webviron.com/howitwork.php
+File Name: c:\Downloaded Web Sites\tailor.webviron.com\howitwork.html
+Content Type: text/html
+
+Uri: https://tailor.webviron.com/contactus.php
+File Name: c:\Downloaded Web Sites\tailor.webviron.com\contactus.html
+Content Type: text/html
+
+Uri: https://tailor.webviron.com/shopdetail.html
+File Name: c:\Downloaded Web Sites\tailor.webviron.com\shopdetail.html
+Content Type: text/html
+
+Uri: https://tailor.webviron.com/js/vendor/modernizr-2.8.3-respond-1.4.2.min.js
+File Name: c:\Downloaded Web Sites\tailor.webviron.com\js\vendor\modernizr-2.8.3-respond-1.4.2.min.js
+Content Type: application/javascript
+
+Uri: https://tailor.webviron.com/images/logo.png
+File Name: c:\Downloaded Web Sites\tailor.webviron.com\images\logo.png
+Content Type: image/png
+
+Uri: https://tailor.webviron.com/images/img-01.jpeg
+File Name: c:\Downloaded Web Sites\tailor.webviron.com\images\img-01.jpeg
+Content Type: image/jpeg
+
+Uri: https://tailor.webviron.com/images/img-02.jpeg
+File Name: c:\Downloaded Web Sites\tailor.webviron.com\images\img-02.jpeg
+Content Type: image/jpeg
+
+Uri: https://tailor.webviron.com/images/img-03.jpeg
+File Name: c:\Downloaded Web Sites\tailor.webviron.com\images\img-03.jpeg
+Content Type: image/jpeg
+
+Uri: https://tailor.webviron.com/images/products/blazer.jpg
+File Name: c:\Downloaded Web Sites\tailor.webviron.com\images\products\blazer.jpeg
+Content Type: image/jpeg
+
+Uri: https://tailor.webviron.com/images/products/img-10.png
+File Name: c:\Downloaded Web Sites\tailor.webviron.com\images\products\img-10.png
+Content Type: image/png
+
+Uri: https://tailor.webviron.com/images/products/3pc.jpg
+File Name: c:\Downloaded Web Sites\tailor.webviron.com\images\products\3pc.jpeg
+Content Type: image/jpeg
+
+Uri: https://tailor.webviron.com/images/products/nehru.jpg
+File Name: c:\Downloaded Web Sites\tailor.webviron.com\images\products\nehru.jpeg
+Content Type: image/jpeg
+
+Uri: https://tailor.webviron.com/images/products/shirts.jpg
+File Name: c:\Downloaded Web Sites\tailor.webviron.com\images\products\shirts.jpeg
+Content Type: image/jpeg
+
+Uri: https://tailor.webviron.com/images/products/sherwani.jpg
+File Name: c:\Downloaded Web Sites\tailor.webviron.com\images\products\sherwani.jpeg
+Content Type: image/jpeg
+
+Uri: https://tailor.webviron.com/images/products/nehrujacket.jpg
+File Name: c:\Downloaded Web Sites\tailor.webviron.com\images\products\nehrujacket.jpeg
+Content Type: image/jpeg
+
+Uri: https://tailor.webviron.com/images/products/kurtas.jpg
+File Name: c:\Downloaded Web Sites\tailor.webviron.com\images\products\kurtas.jpeg
+Content Type: image/jpeg
+
+Uri: https://tailor.webviron.com/images/products/pathani.jpg
+File Name: c:\Downloaded Web Sites\tailor.webviron.com\images\products\pathani.jpeg
+Content Type: image/jpeg
+
+Uri: https://tailor.webviron.com/images/products/w1.jpg
+File Name: c:\Downloaded Web Sites\tailor.webviron.com\images\products\w1.jpeg
+Content Type: image/jpeg
+
+Uri: https://tailor.webviron.com/images/products/w2.jpg
+File Name: c:\Downloaded Web Sites\tailor.webviron.com\images\products\w2.jpeg
+Content Type: image/jpeg
+
+Uri: https://tailor.webviron.com/images/products/w6.jpg
+File Name: c:\Downloaded Web Sites\tailor.webviron.com\images\products\w6.jpeg
+Content Type: image/jpeg
+
+Uri: https://tailor.webviron.com/images/products/w7.jpg
+File Name: c:\Downloaded Web Sites\tailor.webviron.com\images\products\w7.jpeg
+Content Type: image/jpeg
+
+Uri: https://tailor.webviron.com/images/products/w3.jpg
+File Name: c:\Downloaded Web Sites\tailor.webviron.com\images\products\w3.jpeg
+Content Type: image/jpeg
+
+Uri: https://tailor.webviron.com/images/products/w4.jpg
+File Name: c:\Downloaded Web Sites\tailor.webviron.com\images\products\w4.jpeg
+Content Type: image/jpeg
+
+Uri: https://tailor.webviron.com/images/products/w5.jpg
+File Name: c:\Downloaded Web Sites\tailor.webviron.com\images\products\w5.jpeg
+Content Type: image/jpeg
+
+Uri: https://tailor.webviron.com/images/products/w8.jpg
+File Name: c:\Downloaded Web Sites\tailor.webviron.com\images\products\w8.jpeg
+Content Type: image/jpeg
+
+Uri: https://tailor.webviron.com/images/img-09.png
+File Name: c:\Downloaded Web Sites\tailor.webviron.com\images\img-09.png
+Content Type: image/png
+
+Uri: https://tailor.webviron.com/js/vendor/jquery-library.js
+File Name: c:\Downloaded Web Sites\tailor.webviron.com\js\vendor\jquery-library.js
+Content Type: application/javascript
+
+Uri: https://tailor.webviron.com/js/vendor/bootstrap.min.js
+File Name: c:\Downloaded Web Sites\tailor.webviron.com\js\vendor\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://tailor.webviron.com/js/jquery.flipster.min.js
+File Name: c:\Downloaded Web Sites\tailor.webviron.com\js\jquery.flipster.min.js
+Content Type: application/javascript
+
+Uri: https://tailor.webviron.com/js/owl.carousel.min.js
+File Name: c:\Downloaded Web Sites\tailor.webviron.com\js\owl.carousel.min.js
+Content Type: application/javascript
+
+Uri: https://tailor.webviron.com/js/pogoslider.js
+File Name: c:\Downloaded Web Sites\tailor.webviron.com\js\pogoslider.js
+Content Type: application/javascript
+
+Uri: https://tailor.webviron.com/js/jquery-ui.js
+File Name: c:\Downloaded Web Sites\tailor.webviron.com\js\jquery-ui.js
+Content Type: application/javascript
+
+Uri: https://tailor.webviron.com/js/countTo.js
+File Name: c:\Downloaded Web Sites\tailor.webviron.com\js\countTo.js
+Content Type: application/javascript
+
+Uri: https://tailor.webviron.com/js/appear.js
+File Name: c:\Downloaded Web Sites\tailor.webviron.com\js\appear.js
+Content Type: application/javascript
+
+Uri: https://tailor.webviron.com/js/gmap3.js
+File Name: c:\Downloaded Web Sites\tailor.webviron.com\js\gmap3.js
+Content Type: application/javascript
+
+Uri: https://tailor.webviron.com/js/main.js
+File Name: c:\Downloaded Web Sites\tailor.webviron.com\js\main.js
+Content Type: application/javascript
+
+Uri: https://tailor.webviron.com/fonts/glyphicons-halflings-regular.eot
+File Name: c:\Downloaded Web Sites\tailor.webviron.com\fonts\glyphicons-halflings-regular.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://tailor.webviron.com/fonts/glyphicons-halflings-regular-1.eot
+File Name: c:\Downloaded Web Sites\tailor.webviron.com\fonts\glyphicons-halflings-regular-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://tailor.webviron.com/fonts/glyphicons-halflings-regular.txt
+File Name: c:\Downloaded Web Sites\tailor.webviron.com\fonts\glyphicons-halflings-regular.txt
+Content Type: text/plain
+
+Uri: https://tailor.webviron.com/fonts/glyphicons-halflings-regular.woff
+File Name: c:\Downloaded Web Sites\tailor.webviron.com\fonts\glyphicons-halflings-regular.woff
+Content Type: application/font-woff
+
+Uri: https://tailor.webviron.com/fonts/glyphicons-halflings-regular.ttf
+File Name: c:\Downloaded Web Sites\tailor.webviron.com\fonts\glyphicons-halflings-regular.ttf
+Content Type: application/font-sfnt
+
+Uri: https://tailor.webviron.com/fonts/glyphicons-halflings-regular.svg
+File Name: c:\Downloaded Web Sites\tailor.webviron.com\fonts\glyphicons-halflings-regular.svg
+Content Type: image/svg+xml
+
+Uri: https://tailor.webviron.com/fonts/fontawesome-webfont.eot
+File Name: c:\Downloaded Web Sites\tailor.webviron.com\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://tailor.webviron.com/fonts/fontawesome-webfont-1.eot
+File Name: c:\Downloaded Web Sites\tailor.webviron.com\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://tailor.webviron.com/fonts/fontawesome-webfont.txt
+File Name: c:\Downloaded Web Sites\tailor.webviron.com\fonts\fontawesome-webfont.txt
+Content Type: text/plain
+
+Uri: https://tailor.webviron.com/fonts/fontawesome-webfont.woff
+File Name: c:\Downloaded Web Sites\tailor.webviron.com\fonts\fontawesome-webfont.woff
+Content Type: application/font-woff
+
+Uri: https://tailor.webviron.com/fonts/fontawesome-webfont.ttf
+File Name: c:\Downloaded Web Sites\tailor.webviron.com\fonts\fontawesome-webfont.ttf
+Content Type: application/font-sfnt
+
+Uri: https://tailor.webviron.com/fonts/fontawesome-webfont.svg
+File Name: c:\Downloaded Web Sites\tailor.webviron.com\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://tailor.webviron.com/fonts/icomoon.eot
+File Name: c:\Downloaded Web Sites\tailor.webviron.com\fonts\icomoon.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://tailor.webviron.com/fonts/icomoon.ttf
+File Name: c:\Downloaded Web Sites\tailor.webviron.com\fonts\icomoon.ttf
+Content Type: application/font-sfnt
+
+Uri: https://tailor.webviron.com/fonts/icomoon.woff
+File Name: c:\Downloaded Web Sites\tailor.webviron.com\fonts\icomoon.woff
+Content Type: application/font-woff
+
+Uri: https://tailor.webviron.com/fonts/icomoon.svg
+File Name: c:\Downloaded Web Sites\tailor.webviron.com\fonts\icomoon.svg
+Content Type: image/svg+xml
+
+Uri: https://tailor.webviron.com/images/bgcomingsoon.jpeg
+File Name: c:\Downloaded Web Sites\tailor.webviron.com\images\bgcomingsoon.jpeg
+Content Type: image/jpeg
+
+Uri: https://tailor.webviron.com/images/team/img-01.jpeg
+File Name: c:\Downloaded Web Sites\tailor.webviron.com\images\team\img-01.jpeg
+Content Type: image/jpeg
+
+Uri: https://tailor.webviron.com/images/team/img-02.jpeg
+File Name: c:\Downloaded Web Sites\tailor.webviron.com\images\team\img-02.jpeg
+Content Type: image/jpeg
+
+Uri: https://tailor.webviron.com/images/team/img-03.jpeg
+File Name: c:\Downloaded Web Sites\tailor.webviron.com\images\team\img-03.jpeg
+Content Type: image/jpeg
+
+Uri: https://tailor.webviron.com/images/team/img-04.jpeg
+File Name: c:\Downloaded Web Sites\tailor.webviron.com\images\team\img-04.jpeg
+Content Type: image/jpeg
+
+Uri: https://tailor.webviron.com/images/hitw.jpg
+File Name: c:\Downloaded Web Sites\tailor.webviron.com\images\hitw.jpeg
+Content Type: image/jpeg
+
+Uri: https://tailor.webviron.com/images/f3.jpg
+File Name: c:\Downloaded Web Sites\tailor.webviron.com\images\f3.jpeg
+Content Type: image/jpeg
+
+Uri: https://tailor.webviron.com/images/pick2.png
+File Name: c:\Downloaded Web Sites\tailor.webviron.com\images\pick2.png
+Content Type: image/png
+
+Uri: https://tailor.webviron.com/images/stichm.png
+File Name: c:\Downloaded Web Sites\tailor.webviron.com\images\stichm.png
+Content Type: image/png
+
+Uri: https://tailor.webviron.com/images/deliver2.png
+File Name: c:\Downloaded Web Sites\tailor.webviron.com\images\deliver2.png
+Content Type: image/png
+
+Uri: https://tailor.webviron.com/images/brands/img-01.png
+File Name: c:\Downloaded Web Sites\tailor.webviron.com\images\brands\img-01.png
+Content Type: image/png
+
+Uri: https://tailor.webviron.com/images/brands/img-02.png
+File Name: c:\Downloaded Web Sites\tailor.webviron.com\images\brands\img-02.png
+Content Type: image/png
+
+Uri: https://tailor.webviron.com/images/brands/img-03.png
+File Name: c:\Downloaded Web Sites\tailor.webviron.com\images\brands\img-03.png
+Content Type: image/png
+
+Uri: https://tailor.webviron.com/images/brands/img-04.png
+File Name: c:\Downloaded Web Sites\tailor.webviron.com\images\brands\img-04.png
+Content Type: image/png
+
+Uri: https://tailor.webviron.com/images/brands/img-05.png
+File Name: c:\Downloaded Web Sites\tailor.webviron.com\images\brands\img-05.png
+Content Type: image/png
+
+Uri: https://tailor.webviron.com/images/brands/img-06.png
+File Name: c:\Downloaded Web Sites\tailor.webviron.com\images\brands\img-06.png
+Content Type: image/png
+
+Uri: https://tailor.webviron.com/images/brands/img-07.png
+File Name: c:\Downloaded Web Sites\tailor.webviron.com\images\brands\img-07.png
+Content Type: image/png
+
+Uri: https://tailor.webviron.com/images/brands/img-08.png
+File Name: c:\Downloaded Web Sites\tailor.webviron.com\images\brands\img-08.png
+Content Type: image/png
+
+Uri: https://tailor.webviron.com/indexv2.html
+File Name: c:\Downloaded Web Sites\tailor.webviron.com\indexv2.html
+Content Type: text/html
+
+Uri: https://tailor.webviron.com/shirt.html
+File Name: c:\Downloaded Web Sites\tailor.webviron.com\shirt.html
+Content Type: text/html
+
+Uri: https://tailor.webviron.com/blazers.html
+File Name: c:\Downloaded Web Sites\tailor.webviron.com\blazers.html
+Content Type: text/html
+
+Uri: https://tailor.webviron.com/pants.html
+File Name: c:\Downloaded Web Sites\tailor.webviron.com\pants.html
+Content Type: text/html
+
+Uri: https://tailor.webviron.com/shop.html
+File Name: c:\Downloaded Web Sites\tailor.webviron.com\shop.html
+Content Type: text/html
+
+Uri: https://tailor.webviron.com/newsgrid.html
+File Name: c:\Downloaded Web Sites\tailor.webviron.com\newsgrid.html
+Content Type: text/html
+
+Uri: https://tailor.webviron.com/newslist.html
+File Name: c:\Downloaded Web Sites\tailor.webviron.com\newslist.html
+Content Type: text/html
+
+Uri: https://tailor.webviron.com/newsdetail.html
+File Name: c:\Downloaded Web Sites\tailor.webviron.com\newsdetail.html
+Content Type: text/html
+
+Uri: https://tailor.webviron.com/404.html
+File Name: c:\Downloaded Web Sites\tailor.webviron.com\404.html
+Content Type: text/html
+
+Uri: https://tailor.webviron.com/comingsoon.html
+File Name: c:\Downloaded Web Sites\tailor.webviron.com\comingsoon.html
+Content Type: text/html
+
+Uri: https://tailor.webviron.com/images/products/img-11.png
+File Name: c:\Downloaded Web Sites\tailor.webviron.com\images\products\img-11.png
+Content Type: image/png
+
+Uri: https://tailor.webviron.com/images/products/img-12.png
+File Name: c:\Downloaded Web Sites\tailor.webviron.com\images\products\img-12.png
+Content Type: image/png
+
+Uri: https://tailor.webviron.com/images/products/img-13.png
+File Name: c:\Downloaded Web Sites\tailor.webviron.com\images\products\img-13.png
+Content Type: image/png
+
+Uri: https://tailor.webviron.com/images/products/img-14.png
+File Name: c:\Downloaded Web Sites\tailor.webviron.com\images\products\img-14.png
+Content Type: image/png
+
+Uri: https://tailor.webviron.com/images/products/img-15.png
+File Name: c:\Downloaded Web Sites\tailor.webviron.com\images\products\img-15.png
+Content Type: image/png
+
+Uri: https://tailor.webviron.com/images/products/img-16.jpeg
+File Name: c:\Downloaded Web Sites\tailor.webviron.com\images\products\img-16.jpeg
+Content Type: image/jpeg
+
+Uri: https://tailor.webviron.com/images/products/img-01.jpeg
+File Name: c:\Downloaded Web Sites\tailor.webviron.com\images\products\img-01.jpeg
+Content Type: image/jpeg
+
+Uri: https://tailor.webviron.com/images/products/img-02.jpeg
+File Name: c:\Downloaded Web Sites\tailor.webviron.com\images\products\img-02.jpeg
+Content Type: image/jpeg
+
+Uri: https://tailor.webviron.com/images/products/img-03.jpeg
+File Name: c:\Downloaded Web Sites\tailor.webviron.com\images\products\img-03.jpeg
+Content Type: image/jpeg
+
+Uri: https://tailor.webviron.com/images/products/img-04.jpeg
+File Name: c:\Downloaded Web Sites\tailor.webviron.com\images\products\img-04.jpeg
+Content Type: image/jpeg
+
+Uri: https://tailor.webviron.com/images/slider/img-01.jpeg
+File Name: c:\Downloaded Web Sites\tailor.webviron.com\images\slider\img-01.jpeg
+Content Type: image/jpeg
+
+Uri: https://tailor.webviron.com/images/process/img-01.jpeg
+File Name: c:\Downloaded Web Sites\tailor.webviron.com\images\process\img-01.jpeg
+Content Type: image/jpeg
+
+Uri: https://tailor.webviron.com/images/process/img-02.jpeg
+File Name: c:\Downloaded Web Sites\tailor.webviron.com\images\process\img-02.jpeg
+Content Type: image/jpeg
+
+Uri: https://tailor.webviron.com/images/process/img-03.jpeg
+File Name: c:\Downloaded Web Sites\tailor.webviron.com\images\process\img-03.jpeg
+Content Type: image/jpeg
+
+Uri: https://tailor.webviron.com/images/img-04.png
+File Name: c:\Downloaded Web Sites\tailor.webviron.com\images\img-04.png
+Content Type: image/png
+
+Uri: https://tailor.webviron.com/images/steps/img-01.jpeg
+File Name: c:\Downloaded Web Sites\tailor.webviron.com\images\steps\img-01.jpeg
+Content Type: image/jpeg
+
+Uri: https://tailor.webviron.com/images/steps/img-02.jpeg
+File Name: c:\Downloaded Web Sites\tailor.webviron.com\images\steps\img-02.jpeg
+Content Type: image/jpeg
+
+Uri: https://tailor.webviron.com/images/steps/img-03.jpeg
+File Name: c:\Downloaded Web Sites\tailor.webviron.com\images\steps\img-03.jpeg
+Content Type: image/jpeg
+
+Uri: https://tailor.webviron.com/images/steps/img-04.jpeg
+File Name: c:\Downloaded Web Sites\tailor.webviron.com\images\steps\img-04.jpeg
+Content Type: image/jpeg
+
+Uri: https://tailor.webviron.com/images/img-06.png
+File Name: c:\Downloaded Web Sites\tailor.webviron.com\images\img-06.png
+Content Type: image/png
+
+Uri: https://tailor.webviron.com/images/img-07.png
+File Name: c:\Downloaded Web Sites\tailor.webviron.com\images\img-07.png
+Content Type: image/png
+
+Uri: https://tailor.webviron.com/images/img-08.jpeg
+File Name: c:\Downloaded Web Sites\tailor.webviron.com\images\img-08.jpeg
+Content Type: image/jpeg
+
+Uri: https://tailor.webviron.com/images/admin/img-01.jpeg
+File Name: c:\Downloaded Web Sites\tailor.webviron.com\images\admin\img-01.jpeg
+Content Type: image/jpeg
+
+Uri: https://tailor.webviron.com/images/admin/img-02.jpeg
+File Name: c:\Downloaded Web Sites\tailor.webviron.com\images\admin\img-02.jpeg
+Content Type: image/jpeg
+
+Uri: https://tailor.webviron.com/images/admin/img-03.jpeg
+File Name: c:\Downloaded Web Sites\tailor.webviron.com\images\admin\img-03.jpeg
+Content Type: image/jpeg
+
+Uri: https://tailor.webviron.com/images/admin/img-04.jpeg
+File Name: c:\Downloaded Web Sites\tailor.webviron.com\images\admin\img-04.jpeg
+Content Type: image/jpeg
+
+Uri: https://tailor.webviron.com/images/img-10.jpeg
+File Name: c:\Downloaded Web Sites\tailor.webviron.com\images\img-10.jpeg
+Content Type: image/jpeg
+
+Uri: https://tailor.webviron.com/images/img-11.jpeg
+File Name: c:\Downloaded Web Sites\tailor.webviron.com\images\img-11.jpeg
+Content Type: image/jpeg
+
+Uri: https://tailor.webviron.com/images/img-12.jpeg
+File Name: c:\Downloaded Web Sites\tailor.webviron.com\images\img-12.jpeg
+Content Type: image/jpeg
+
+Uri: https://tailor.webviron.com/images/img-13.jpeg
+File Name: c:\Downloaded Web Sites\tailor.webviron.com\images\img-13.jpeg
+Content Type: image/jpeg
+
+Uri: https://tailor.webviron.com/images/logo2.png
+File Name: c:\Downloaded Web Sites\tailor.webviron.com\images\logo2.png
+Content Type: image/png
+
+Uri: https://tailor.webviron.com/images/shirts/img-01.jpeg
+File Name: c:\Downloaded Web Sites\tailor.webviron.com\images\shirts\img-01.jpeg
+Content Type: image/jpeg
+
+Uri: https://tailor.webviron.com/images/shirts/img-02.jpeg
+File Name: c:\Downloaded Web Sites\tailor.webviron.com\images\shirts\img-02.jpeg
+Content Type: image/jpeg
+
+Uri: https://tailor.webviron.com/images/shirts/img-03.jpeg
+File Name: c:\Downloaded Web Sites\tailor.webviron.com\images\shirts\img-03.jpeg
+Content Type: image/jpeg
+
+Uri: https://tailor.webviron.com/images/shirts/img-04.jpeg
+File Name: c:\Downloaded Web Sites\tailor.webviron.com\images\shirts\img-04.jpeg
+Content Type: image/jpeg
+
+Uri: https://tailor.webviron.com/images/shirts/img-05.jpeg
+File Name: c:\Downloaded Web Sites\tailor.webviron.com\images\shirts\img-05.jpeg
+Content Type: image/jpeg
+
+Uri: https://tailor.webviron.com/images/shirts/img-06.jpeg
+File Name: c:\Downloaded Web Sites\tailor.webviron.com\images\shirts\img-06.jpeg
+Content Type: image/jpeg
+
+Uri: https://tailor.webviron.com/images/shirts/img-07.jpeg
+File Name: c:\Downloaded Web Sites\tailor.webviron.com\images\shirts\img-07.jpeg
+Content Type: image/jpeg
+
+Uri: https://tailor.webviron.com/images/shirts/img-08.jpeg
+File Name: c:\Downloaded Web Sites\tailor.webviron.com\images\shirts\img-08.jpeg
+Content Type: image/jpeg
+
+Uri: https://tailor.webviron.com/images/shirts/img-09.jpeg
+File Name: c:\Downloaded Web Sites\tailor.webviron.com\images\shirts\img-09.jpeg
+Content Type: image/jpeg
+
+Uri: https://tailor.webviron.com/images/adds/img-01.jpeg
+File Name: c:\Downloaded Web Sites\tailor.webviron.com\images\adds\img-01.jpeg
+Content Type: image/jpeg
+
+Uri: https://tailor.webviron.com/images/blazers/img-01.jpeg
+File Name: c:\Downloaded Web Sites\tailor.webviron.com\images\blazers\img-01.jpeg
+Content Type: image/jpeg
+
+Uri: https://tailor.webviron.com/images/blazers/img-02.jpeg
+File Name: c:\Downloaded Web Sites\tailor.webviron.com\images\blazers\img-02.jpeg
+Content Type: image/jpeg
+
+Uri: https://tailor.webviron.com/images/blazers/img-03.jpeg
+File Name: c:\Downloaded Web Sites\tailor.webviron.com\images\blazers\img-03.jpeg
+Content Type: image/jpeg
+
+Uri: https://tailor.webviron.com/images/blazers/img-04.jpeg
+File Name: c:\Downloaded Web Sites\tailor.webviron.com\images\blazers\img-04.jpeg
+Content Type: image/jpeg
+
+Uri: https://tailor.webviron.com/images/blazers/img-05.jpeg
+File Name: c:\Downloaded Web Sites\tailor.webviron.com\images\blazers\img-05.jpeg
+Content Type: image/jpeg
+
+Uri: https://tailor.webviron.com/images/blazers/img-06.jpeg
+File Name: c:\Downloaded Web Sites\tailor.webviron.com\images\blazers\img-06.jpeg
+Content Type: image/jpeg
+
+Uri: https://tailor.webviron.com/images/blazers/img-07.jpeg
+File Name: c:\Downloaded Web Sites\tailor.webviron.com\images\blazers\img-07.jpeg
+Content Type: image/jpeg
+
+Uri: https://tailor.webviron.com/images/blazers/img-08.jpeg
+File Name: c:\Downloaded Web Sites\tailor.webviron.com\images\blazers\img-08.jpeg
+Content Type: image/jpeg
+
+Uri: https://tailor.webviron.com/images/blazers/img-09.jpeg
+File Name: c:\Downloaded Web Sites\tailor.webviron.com\images\blazers\img-09.jpeg
+Content Type: image/jpeg
+
+Uri: https://tailor.webviron.com/images/pents/img-01.jpeg
+File Name: c:\Downloaded Web Sites\tailor.webviron.com\images\pents\img-01.jpeg
+Content Type: image/jpeg
+
+Uri: https://tailor.webviron.com/images/pents/img-02.jpeg
+File Name: c:\Downloaded Web Sites\tailor.webviron.com\images\pents\img-02.jpeg
+Content Type: image/jpeg
+
+Uri: https://tailor.webviron.com/images/pents/img-03.jpeg
+File Name: c:\Downloaded Web Sites\tailor.webviron.com\images\pents\img-03.jpeg
+Content Type: image/jpeg
+
+Uri: https://tailor.webviron.com/images/pents/img-04.jpeg
+File Name: c:\Downloaded Web Sites\tailor.webviron.com\images\pents\img-04.jpeg
+Content Type: image/jpeg
+
+Uri: https://tailor.webviron.com/images/pents/img-05.jpeg
+File Name: c:\Downloaded Web Sites\tailor.webviron.com\images\pents\img-05.jpeg
+Content Type: image/jpeg
+
+Uri: https://tailor.webviron.com/images/pents/img-06.jpeg
+File Name: c:\Downloaded Web Sites\tailor.webviron.com\images\pents\img-06.jpeg
+Content Type: image/jpeg
+
+Uri: https://tailor.webviron.com/images/pents/img-07.jpeg
+File Name: c:\Downloaded Web Sites\tailor.webviron.com\images\pents\img-07.jpeg
+Content Type: image/jpeg
+
+Uri: https://tailor.webviron.com/images/pents/img-08.jpeg
+File Name: c:\Downloaded Web Sites\tailor.webviron.com\images\pents\img-08.jpeg
+Content Type: image/jpeg
+
+Uri: https://tailor.webviron.com/images/pents/img-09.jpeg
+File Name: c:\Downloaded Web Sites\tailor.webviron.com\images\pents\img-09.jpeg
+Content Type: image/jpeg
+
+Uri: https://tailor.webviron.com/images/products/img-05.jpeg
+File Name: c:\Downloaded Web Sites\tailor.webviron.com\images\products\img-05.jpeg
+Content Type: image/jpeg
+
+Uri: https://tailor.webviron.com/images/products/img-06.jpeg
+File Name: c:\Downloaded Web Sites\tailor.webviron.com\images\products\img-06.jpeg
+Content Type: image/jpeg
+
+Uri: https://tailor.webviron.com/images/products/img-07.jpeg
+File Name: c:\Downloaded Web Sites\tailor.webviron.com\images\products\img-07.jpeg
+Content Type: image/jpeg
+
+Uri: https://tailor.webviron.com/images/products/img-08.jpeg
+File Name: c:\Downloaded Web Sites\tailor.webviron.com\images\products\img-08.jpeg
+Content Type: image/jpeg
+
+Uri: https://tailor.webviron.com/images/products/img-09.jpeg
+File Name: c:\Downloaded Web Sites\tailor.webviron.com\images\products\img-09.jpeg
+Content Type: image/jpeg
+
+Uri: https://tailor.webviron.com/images/news/img-04.jpeg
+File Name: c:\Downloaded Web Sites\tailor.webviron.com\images\news\img-04.jpeg
+Content Type: image/jpeg
+
+Uri: https://tailor.webviron.com/images/author/img-04.jpeg
+File Name: c:\Downloaded Web Sites\tailor.webviron.com\images\author\img-04.jpeg
+Content Type: image/jpeg
+
+Uri: https://tailor.webviron.com/images/news/img-05.jpeg
+File Name: c:\Downloaded Web Sites\tailor.webviron.com\images\news\img-05.jpeg
+Content Type: image/jpeg
+
+Uri: https://tailor.webviron.com/images/author/img-05.jpeg
+File Name: c:\Downloaded Web Sites\tailor.webviron.com\images\author\img-05.jpeg
+Content Type: image/jpeg
+
+Uri: https://tailor.webviron.com/images/news/img-06.jpeg
+File Name: c:\Downloaded Web Sites\tailor.webviron.com\images\news\img-06.jpeg
+Content Type: image/jpeg
+
+Uri: https://tailor.webviron.com/images/author/img-06.jpeg
+File Name: c:\Downloaded Web Sites\tailor.webviron.com\images\author\img-06.jpeg
+Content Type: image/jpeg
+
+Uri: https://tailor.webviron.com/images/news/img-07.jpeg
+File Name: c:\Downloaded Web Sites\tailor.webviron.com\images\news\img-07.jpeg
+Content Type: image/jpeg
+
+Uri: https://tailor.webviron.com/images/author/img-07.jpeg
+File Name: c:\Downloaded Web Sites\tailor.webviron.com\images\author\img-07.jpeg
+Content Type: image/jpeg
+
+Uri: https://tailor.webviron.com/images/news/img-08.jpeg
+File Name: c:\Downloaded Web Sites\tailor.webviron.com\images\news\img-08.jpeg
+Content Type: image/jpeg
+
+Uri: https://tailor.webviron.com/images/author/img-08.jpeg
+File Name: c:\Downloaded Web Sites\tailor.webviron.com\images\author\img-08.jpeg
+Content Type: image/jpeg
+
+Uri: https://tailor.webviron.com/images/news/img-09.jpeg
+File Name: c:\Downloaded Web Sites\tailor.webviron.com\images\news\img-09.jpeg
+Content Type: image/jpeg
+
+Uri: https://tailor.webviron.com/images/author/img-09.jpeg
+File Name: c:\Downloaded Web Sites\tailor.webviron.com\images\author\img-09.jpeg
+Content Type: image/jpeg
+
+Uri: https://tailor.webviron.com/images/author/img-10.jpeg
+File Name: c:\Downloaded Web Sites\tailor.webviron.com\images\author\img-10.jpeg
+Content Type: image/jpeg
+
+Uri: https://tailor.webviron.com/images/author/img-11.jpeg
+File Name: c:\Downloaded Web Sites\tailor.webviron.com\images\author\img-11.jpeg
+Content Type: image/jpeg
+
+Uri: https://tailor.webviron.com/images/author/img-12.jpeg
+File Name: c:\Downloaded Web Sites\tailor.webviron.com\images\author\img-12.jpeg
+Content Type: image/jpeg
+
+Uri: https://tailor.webviron.com/images/author/img-13.jpeg
+File Name: c:\Downloaded Web Sites\tailor.webviron.com\images\author\img-13.jpeg
+Content Type: image/jpeg
+
+Uri: https://tailor.webviron.com/images/author/img-14.jpeg
+File Name: c:\Downloaded Web Sites\tailor.webviron.com\images\author\img-14.jpeg
+Content Type: image/jpeg
+
+Uri: https://tailor.webviron.com/images/author/img-01.jpeg
+File Name: c:\Downloaded Web Sites\tailor.webviron.com\images\author\img-01.jpeg
+Content Type: image/jpeg
+
+Uri: https://tailor.webviron.com/images/author/img-02.jpeg
+File Name: c:\Downloaded Web Sites\tailor.webviron.com\images\author\img-02.jpeg
+Content Type: image/jpeg
+
+Uri: https://tailor.webviron.com/images/author/img-03.jpeg
+File Name: c:\Downloaded Web Sites\tailor.webviron.com\images\author\img-03.jpeg
+Content Type: image/jpeg
+
+Uri: https://tailor.webviron.com/images/news/img-10.jpeg
+File Name: c:\Downloaded Web Sites\tailor.webviron.com\images\news\img-10.jpeg
+Content Type: image/jpeg
+
+Uri: https://tailor.webviron.com/images/author/img-15.jpeg
+File Name: c:\Downloaded Web Sites\tailor.webviron.com\images\author\img-15.jpeg
+Content Type: image/jpeg
+
+Uri: https://tailor.webviron.com/images/404.png
+File Name: c:\Downloaded Web Sites\tailor.webviron.com\images\404.png
+Content Type: image/png
+
+Uri: https://tailor.webviron.com/css/prettyPhoto.css
+File Name: c:\Downloaded Web Sites\tailor.webviron.com\css\prettyPhoto.css
+Content Type: text/css
+
+Uri: https://tailor.webviron.com/images/prettyPhoto/default/sprite.png
+File Name: c:\Downloaded Web Sites\tailor.webviron.com\images\prettyPhoto\default\sprite.png
+Content Type: image/png
+
+Uri: https://tailor.webviron.com/images/prettyPhoto/default/sprite_x.png
+File Name: c:\Downloaded Web Sites\tailor.webviron.com\images\prettyPhoto\default\sprite_x.png
+Content Type: image/png
+
+Uri: https://tailor.webviron.com/images/prettyPhoto/default/sprite_y.png
+File Name: c:\Downloaded Web Sites\tailor.webviron.com\images\prettyPhoto\default\sprite_y.png
+Content Type: image/png
+
+Uri: https://tailor.webviron.com/images/prettyPhoto/default/sprite_next.png
+File Name: c:\Downloaded Web Sites\tailor.webviron.com\images\prettyPhoto\default\sprite_next.png
+Content Type: image/png
+
+Uri: https://tailor.webviron.com/images/prettyPhoto/default/sprite_prev.png
+File Name: c:\Downloaded Web Sites\tailor.webviron.com\images\prettyPhoto\default\sprite_prev.png
+Content Type: image/png
+
+Uri: https://tailor.webviron.com/images/prettyPhoto/default/default_thumb.png
+File Name: c:\Downloaded Web Sites\tailor.webviron.com\images\prettyPhoto\default\default_thumb.png
+Content Type: image/png
+
+Uri: https://tailor.webviron.com/images/prettyPhoto/default/loader.gif
+File Name: c:\Downloaded Web Sites\tailor.webviron.com\images\prettyPhoto\default\loader.gif
+Content Type: image/gif
+
+Uri: https://tailor.webviron.com/images/prettyPhoto/light_rounded/sprite.png
+File Name: c:\Downloaded Web Sites\tailor.webviron.com\images\prettyPhoto\light_rounded\sprite.png
+Content Type: image/png
+
+Uri: https://tailor.webviron.com/images/prettyPhoto/light_rounded/btnNext.png
+File Name: c:\Downloaded Web Sites\tailor.webviron.com\images\prettyPhoto\light_rounded\btnNext.png
+Content Type: image/png
+
+Uri: https://tailor.webviron.com/images/prettyPhoto/light_rounded/btnPrevious.png
+File Name: c:\Downloaded Web Sites\tailor.webviron.com\images\prettyPhoto\light_rounded\btnPrevious.png
+Content Type: image/png
+
+Uri: https://tailor.webviron.com/images/prettyPhoto/dark_rounded/sprite.png
+File Name: c:\Downloaded Web Sites\tailor.webviron.com\images\prettyPhoto\dark_rounded\sprite.png
+Content Type: image/png
+
+Uri: https://tailor.webviron.com/images/prettyPhoto/dark_rounded/contentPattern.png
+File Name: c:\Downloaded Web Sites\tailor.webviron.com\images\prettyPhoto\dark_rounded\contentPattern.png
+Content Type: image/png
+
+Uri: https://tailor.webviron.com/images/prettyPhoto/dark_rounded/btnNext.png
+File Name: c:\Downloaded Web Sites\tailor.webviron.com\images\prettyPhoto\dark_rounded\btnNext.png
+Content Type: image/png
+
+Uri: https://tailor.webviron.com/images/prettyPhoto/dark_rounded/btnPrevious.png
+File Name: c:\Downloaded Web Sites\tailor.webviron.com\images\prettyPhoto\dark_rounded\btnPrevious.png
+Content Type: image/png
+
+Uri: https://tailor.webviron.com/images/prettyPhoto/dark_rounded/loader.gif
+File Name: c:\Downloaded Web Sites\tailor.webviron.com\images\prettyPhoto\dark_rounded\loader.gif
+Content Type: image/gif
+
+Uri: https://tailor.webviron.com/images/prettyPhoto/dark_square/loader.gif
+File Name: c:\Downloaded Web Sites\tailor.webviron.com\images\prettyPhoto\dark_square\loader.gif
+Content Type: image/gif
+
+Uri: https://tailor.webviron.com/images/prettyPhoto/dark_square/sprite.png
+File Name: c:\Downloaded Web Sites\tailor.webviron.com\images\prettyPhoto\dark_square\sprite.png
+Content Type: image/png
+
+Uri: https://tailor.webviron.com/images/prettyPhoto/dark_square/btnNext.png
+File Name: c:\Downloaded Web Sites\tailor.webviron.com\images\prettyPhoto\dark_square\btnNext.png
+Content Type: image/png
+
+Uri: https://tailor.webviron.com/images/prettyPhoto/dark_square/btnPrevious.png
+File Name: c:\Downloaded Web Sites\tailor.webviron.com\images\prettyPhoto\dark_square\btnPrevious.png
+Content Type: image/png
+
+Uri: https://tailor.webviron.com/images/prettyPhoto/light_square/sprite.png
+File Name: c:\Downloaded Web Sites\tailor.webviron.com\images\prettyPhoto\light_square\sprite.png
+Content Type: image/png
+
+Uri: https://tailor.webviron.com/images/prettyPhoto/light_square/btnNext.png
+File Name: c:\Downloaded Web Sites\tailor.webviron.com\images\prettyPhoto\light_square\btnNext.png
+Content Type: image/png
+
+Uri: https://tailor.webviron.com/images/prettyPhoto/light_square/btnPrevious.png
+File Name: c:\Downloaded Web Sites\tailor.webviron.com\images\prettyPhoto\light_square\btnPrevious.png
+Content Type: image/png
+
+Uri: https://tailor.webviron.com/images/prettyPhoto/facebook/sprite.png
+File Name: c:\Downloaded Web Sites\tailor.webviron.com\images\prettyPhoto\facebook\sprite.png
+Content Type: image/png
+
+Uri: https://tailor.webviron.com/images/prettyPhoto/facebook/contentPatternTop.png
+File Name: c:\Downloaded Web Sites\tailor.webviron.com\images\prettyPhoto\facebook\contentPatternTop.png
+Content Type: image/png
+
+Uri: https://tailor.webviron.com/images/prettyPhoto/facebook/contentPatternLeft.png
+File Name: c:\Downloaded Web Sites\tailor.webviron.com\images\prettyPhoto\facebook\contentPatternLeft.png
+Content Type: image/png
+
+Uri: https://tailor.webviron.com/images/prettyPhoto/facebook/contentPatternRight.png
+File Name: c:\Downloaded Web Sites\tailor.webviron.com\images\prettyPhoto\facebook\contentPatternRight.png
+Content Type: image/png
+
+Uri: https://tailor.webviron.com/images/prettyPhoto/facebook/loader.gif
+File Name: c:\Downloaded Web Sites\tailor.webviron.com\images\prettyPhoto\facebook\loader.gif
+Content Type: image/gif
+
+Uri: https://tailor.webviron.com/images/prettyPhoto/facebook/btnNext.png
+File Name: c:\Downloaded Web Sites\tailor.webviron.com\images\prettyPhoto\facebook\btnNext.png
+Content Type: image/png
+
+Uri: https://tailor.webviron.com/images/prettyPhoto/facebook/btnPrevious.png
+File Name: c:\Downloaded Web Sites\tailor.webviron.com\images\prettyPhoto\facebook\btnPrevious.png
+Content Type: image/png
+
+Uri: https://tailor.webviron.com/images/prettyPhoto/facebook/contentPatternBottom.png
+File Name: c:\Downloaded Web Sites\tailor.webviron.com\images\prettyPhoto\facebook\contentPatternBottom.png
+Content Type: image/png
+
+Uri: https://tailor.webviron.com/images/prettyPhoto/facebook/default_thumbnail.gif
+File Name: c:\Downloaded Web Sites\tailor.webviron.com\images\prettyPhoto\facebook\default_thumbnail.gif
+Content Type: image/gif
+
+Uri: https://tailor.webviron.com/images/prettyPhoto/light_rounded/loader.gif
+File Name: c:\Downloaded Web Sites\tailor.webviron.com\images\prettyPhoto\light_rounded\loader.gif
+Content Type: image/gif
+

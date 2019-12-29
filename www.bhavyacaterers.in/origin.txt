@@ -1,0 +1,424 @@
+Uri: https://www.bhavyacaterers.in/
+File Name: c:\Downloaded Web Sites\www.bhavyacaterers.in\index.html
+Content Type: text/html
+
+Uri: https://www.bhavyacaterers.in/css/animate.css
+File Name: c:\Downloaded Web Sites\www.bhavyacaterers.in\css\animate.css
+Content Type: text/css
+
+Uri: https://www.bhavyacaterers.in/css/bootstrap.css
+File Name: c:\Downloaded Web Sites\www.bhavyacaterers.in\css\bootstrap.css
+Content Type: text/css
+
+Uri: https://www.bhavyacaterers.in/css/font-awesome.css
+File Name: c:\Downloaded Web Sites\www.bhavyacaterers.in\css\font-awesome.css
+Content Type: text/css
+
+Uri: https://www.bhavyacaterers.in/css/fonts.css
+File Name: c:\Downloaded Web Sites\www.bhavyacaterers.in\css\fonts.css
+Content Type: text/css
+
+Uri: https://www.bhavyacaterers.in/css/flaticon.css
+File Name: c:\Downloaded Web Sites\www.bhavyacaterers.in\css\flaticon.css
+Content Type: text/css
+
+Uri: https://www.bhavyacaterers.in/css/owl.carousel.css
+File Name: c:\Downloaded Web Sites\www.bhavyacaterers.in\css\owl.carousel.css
+Content Type: text/css
+
+Uri: https://www.bhavyacaterers.in/css/owl.theme.default.css
+File Name: c:\Downloaded Web Sites\www.bhavyacaterers.in\css\owl.theme.default.css
+Content Type: text/css
+
+Uri: https://www.bhavyacaterers.in/css/magnific-popup.css
+File Name: c:\Downloaded Web Sites\www.bhavyacaterers.in\css\magnific-popup.css
+Content Type: text/css
+
+Uri: https://www.bhavyacaterers.in/css/venobox.css
+File Name: c:\Downloaded Web Sites\www.bhavyacaterers.in\css\venobox.css
+Content Type: text/css
+
+Uri: https://www.bhavyacaterers.in/css/style.css
+File Name: c:\Downloaded Web Sites\www.bhavyacaterers.in\css\style.css
+Content Type: text/css
+
+Uri: https://www.bhavyacaterers.in/css/responsive.css
+File Name: c:\Downloaded Web Sites\www.bhavyacaterers.in\css\responsive.css
+Content Type: text/css
+
+Uri: https://www.bhavyacaterers.in/images/header/logo_30x30.jpeg
+File Name: c:\Downloaded Web Sites\www.bhavyacaterers.in\images\header\logo_30x30.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.bhavyacaterers.in/index.php
+File Name: c:\Downloaded Web Sites\www.bhavyacaterers.in\index-1.html
+Content Type: text/html
+
+Uri: https://www.bhavyacaterers.in/about.php
+File Name: c:\Downloaded Web Sites\www.bhavyacaterers.in\about.html
+Content Type: text/html
+
+Uri: https://www.bhavyacaterers.in/complaint.php
+File Name: c:\Downloaded Web Sites\www.bhavyacaterers.in\complaint.html
+Content Type: text/html
+
+Uri: https://www.bhavyacaterers.in/feedback.php
+File Name: c:\Downloaded Web Sites\www.bhavyacaterers.in\feedback.html
+Content Type: text/html
+
+Uri: https://www.bhavyacaterers.in/contact.php
+File Name: c:\Downloaded Web Sites\www.bhavyacaterers.in\contact.html
+Content Type: text/html
+
+Uri: https://www.bhavyacaterers.in/menu.php
+File Name: c:\Downloaded Web Sites\www.bhavyacaterers.in\menu.html
+Content Type: text/html
+
+Uri: https://www.bhavyacaterers.in/images/header/loader.gif
+File Name: c:\Downloaded Web Sites\www.bhavyacaterers.in\images\header\loader.gif
+Content Type: image/gif
+
+Uri: https://www.bhavyacaterers.in/images/header/logo_3_162x70.jpeg
+File Name: c:\Downloaded Web Sites\www.bhavyacaterers.in\images\header\logo_3_162x70.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.bhavyacaterers.in/images/about/0.69110700_1494847639_container-depot_570x440.jpg
+File Name: c:\Downloaded Web Sites\www.bhavyacaterers.in\images\about\0.69110700_1494847639_container-depot_570x440.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.bhavyacaterers.in/images/home/FILE_59eedcd233ace4842880361_21c18bd7e6_b_670x440.jpg
+File Name: c:\Downloaded Web Sites\www.bhavyacaterers.in\images\home\FILE_59eedcd233ace4842880361_21c18bd7e6_b_670x440.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.bhavyacaterers.in/images/home/IRCTC-Railway-5_670x440.jpg
+File Name: c:\Downloaded Web Sites\www.bhavyacaterers.in\images\home\IRCTC-Railway-5_670x440.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.bhavyacaterers.in/images/home/201705021633510105_Railway-Catering-scam-Food-products-purchased-at-ten-times_SECVPF_670x440.jpg
+File Name: c:\Downloaded Web Sites\www.bhavyacaterers.in\images\home\201705021633510105_Railway-Catering-scam-Food-products-purchased-at-ten-times_SECVPF_670x440.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.bhavyacaterers.in/images/home/CISF.jpg
+File Name: c:\Downloaded Web Sites\www.bhavyacaterers.in\images\home\CISF.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.bhavyacaterers.in/images/home/Industrial2 - Copy.jpg
+File Name: c:\Downloaded Web Sites\www.bhavyacaterers.in\images\home\Industrial2 - Copy.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.bhavyacaterers.in/images/home/CISF2.jpg
+File Name: c:\Downloaded Web Sites\www.bhavyacaterers.in\images\home\CISF2.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.bhavyacaterers.in/images/content/testi_img.jpeg
+File Name: c:\Downloaded Web Sites\www.bhavyacaterers.in\images\content\testi_img.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.bhavyacaterers.in/images/content/ev1.jpeg
+File Name: c:\Downloaded Web Sites\www.bhavyacaterers.in\images\content\ev1.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.bhavyacaterers.in/images/home/11124611_940859749268703_7980311382624158070_o_570x326.jpg
+File Name: c:\Downloaded Web Sites\www.bhavyacaterers.in\images\home\11124611_940859749268703_7980311382624158070_o_570x326.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.bhavyacaterers.in/js/jquery_min.js
+File Name: c:\Downloaded Web Sites\www.bhavyacaterers.in\js\jquery_min.js
+Content Type: application/javascript
+
+Uri: https://www.bhavyacaterers.in/js/modernizr.js
+File Name: c:\Downloaded Web Sites\www.bhavyacaterers.in\js\modernizr.js
+Content Type: application/javascript
+
+Uri: https://www.bhavyacaterers.in/js/bootstrap.js
+File Name: c:\Downloaded Web Sites\www.bhavyacaterers.in\js\bootstrap.js
+Content Type: application/javascript
+
+Uri: https://www.bhavyacaterers.in/js/owl.carousel.js
+File Name: c:\Downloaded Web Sites\www.bhavyacaterers.in\js\owl.carousel.js
+Content Type: application/javascript
+
+Uri: https://www.bhavyacaterers.in/js/parallax.min.js
+File Name: c:\Downloaded Web Sites\www.bhavyacaterers.in\js\parallax.min.js
+Content Type: application/javascript
+
+Uri: https://www.bhavyacaterers.in/js/bubble-app.js
+File Name: c:\Downloaded Web Sites\www.bhavyacaterers.in\js\bubble-app.js
+Content Type: application/javascript
+
+Uri: https://www.bhavyacaterers.in/js/tilt.jquery.js
+File Name: c:\Downloaded Web Sites\www.bhavyacaterers.in\js\tilt.jquery.js
+Content Type: application/javascript
+
+Uri: https://www.bhavyacaterers.in/js/jquery.countTo.js
+File Name: c:\Downloaded Web Sites\www.bhavyacaterers.in\js\jquery.countTo.js
+Content Type: application/javascript
+
+Uri: https://www.bhavyacaterers.in/js/jquery.inview.min.js
+File Name: c:\Downloaded Web Sites\www.bhavyacaterers.in\js\jquery.inview.min.js
+Content Type: application/javascript
+
+Uri: https://www.bhavyacaterers.in/js/jarallax.js
+File Name: c:\Downloaded Web Sites\www.bhavyacaterers.in\js\jarallax.js
+Content Type: application/javascript
+
+Uri: https://www.bhavyacaterers.in/js/jquery.magnific-popup.js
+File Name: c:\Downloaded Web Sites\www.bhavyacaterers.in\js\jquery.magnific-popup.js
+Content Type: application/javascript
+
+Uri: https://www.bhavyacaterers.in/js/jquery.counterup.min.js
+File Name: c:\Downloaded Web Sites\www.bhavyacaterers.in\js\jquery.counterup.min.js
+Content Type: application/javascript
+
+Uri: https://www.bhavyacaterers.in/js/jquery.downCount.js
+File Name: c:\Downloaded Web Sites\www.bhavyacaterers.in\js\jquery.downCount.js
+Content Type: application/javascript
+
+Uri: https://www.bhavyacaterers.in/js/waypoints.min.js
+File Name: c:\Downloaded Web Sites\www.bhavyacaterers.in\js\waypoints.min.js
+Content Type: application/javascript
+
+Uri: https://www.bhavyacaterers.in/js/venobox.min.js
+File Name: c:\Downloaded Web Sites\www.bhavyacaterers.in\js\venobox.min.js
+Content Type: application/javascript
+
+Uri: https://www.bhavyacaterers.in/js/custom.js
+File Name: c:\Downloaded Web Sites\www.bhavyacaterers.in\js\custom.js
+Content Type: application/javascript
+
+Uri: https://www.bhavyacaterers.in/fonts/glyphicons-halflings-regular.eot
+File Name: c:\Downloaded Web Sites\www.bhavyacaterers.in\fonts\glyphicons-halflings-regular.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.bhavyacaterers.in/fonts/glyphicons-halflings-regular-1.eot
+File Name: c:\Downloaded Web Sites\www.bhavyacaterers.in\fonts\glyphicons-halflings-regular-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.bhavyacaterers.in/fonts/glyphicons-halflings-regular.woff2
+File Name: c:\Downloaded Web Sites\www.bhavyacaterers.in\fonts\glyphicons-halflings-regular.woff2
+Content Type: 
+
+Uri: https://www.bhavyacaterers.in/fonts/glyphicons-halflings-regular.woff
+File Name: c:\Downloaded Web Sites\www.bhavyacaterers.in\fonts\glyphicons-halflings-regular.woff
+Content Type: application/font-woff
+
+Uri: https://www.bhavyacaterers.in/fonts/glyphicons-halflings-regular.ttf
+File Name: c:\Downloaded Web Sites\www.bhavyacaterers.in\fonts\glyphicons-halflings-regular.ttf
+Content Type: application/font-sfnt
+
+Uri: https://www.bhavyacaterers.in/fonts/glyphicons-halflings-regular.svg
+File Name: c:\Downloaded Web Sites\www.bhavyacaterers.in\fonts\glyphicons-halflings-regular.svg
+Content Type: image/svg+xml
+
+Uri: https://www.bhavyacaterers.in/fonts/fontawesome-webfont.eot
+File Name: c:\Downloaded Web Sites\www.bhavyacaterers.in\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.bhavyacaterers.in/fonts/fontawesome-webfont-1.eot
+File Name: c:\Downloaded Web Sites\www.bhavyacaterers.in\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.bhavyacaterers.in/fonts/fontawesome-webfont.woff2
+File Name: c:\Downloaded Web Sites\www.bhavyacaterers.in\fonts\fontawesome-webfont.woff2
+Content Type: 
+
+Uri: https://www.bhavyacaterers.in/fonts/fontawesome-webfont.woff
+File Name: c:\Downloaded Web Sites\www.bhavyacaterers.in\fonts\fontawesome-webfont.woff
+Content Type: application/font-woff
+
+Uri: https://www.bhavyacaterers.in/fonts/fontawesome-webfont.ttf
+File Name: c:\Downloaded Web Sites\www.bhavyacaterers.in\fonts\fontawesome-webfont.ttf
+Content Type: application/font-sfnt
+
+Uri: https://www.bhavyacaterers.in/fonts/fontawesome-webfont.svg
+File Name: c:\Downloaded Web Sites\www.bhavyacaterers.in\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://www.bhavyacaterers.in/fonts/Flaticon.eot
+File Name: c:\Downloaded Web Sites\www.bhavyacaterers.in\fonts\Flaticon.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.bhavyacaterers.in/fonts/Flaticon-1.eot
+File Name: c:\Downloaded Web Sites\www.bhavyacaterers.in\fonts\Flaticon-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.bhavyacaterers.in/fonts/Flaticon.woff
+File Name: c:\Downloaded Web Sites\www.bhavyacaterers.in\fonts\Flaticon.woff
+Content Type: application/font-woff
+
+Uri: https://www.bhavyacaterers.in/fonts/Flaticon.ttf
+File Name: c:\Downloaded Web Sites\www.bhavyacaterers.in\fonts\Flaticon.ttf
+Content Type: application/font-sfnt
+
+Uri: https://www.bhavyacaterers.in/images/content/menu_bg.jpeg
+File Name: c:\Downloaded Web Sites\www.bhavyacaterers.in\images\content\menu_bg.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.bhavyacaterers.in/images/content/element_bg.jpeg
+File Name: c:\Downloaded Web Sites\www.bhavyacaterers.in\images\content\element_bg.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.bhavyacaterers.in/images/content/fresh_bg.jpeg
+File Name: c:\Downloaded Web Sites\www.bhavyacaterers.in\images\content\fresh_bg.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.bhavyacaterers.in/images/content/testi_bg.jpeg
+File Name: c:\Downloaded Web Sites\www.bhavyacaterers.in\images\content\testi_bg.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.bhavyacaterers.in/images/content/event_bg.png
+File Name: c:\Downloaded Web Sites\www.bhavyacaterers.in\images\content\event_bg.png
+Content Type: image/png
+
+Uri: https://www.bhavyacaterers.in/images/content/counter_bg.jpeg
+File Name: c:\Downloaded Web Sites\www.bhavyacaterers.in\images\content\counter_bg.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.bhavyacaterers.in/images/content/blog_bg.jpeg
+File Name: c:\Downloaded Web Sites\www.bhavyacaterers.in\images\content\blog_bg.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.bhavyacaterers.in/images/content/team_bg.jpeg
+File Name: c:\Downloaded Web Sites\www.bhavyacaterers.in\images\content\team_bg.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.bhavyacaterers.in/images/content/footer_bg.jpeg
+File Name: c:\Downloaded Web Sites\www.bhavyacaterers.in\images\content\footer_bg.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.bhavyacaterers.in/images/header/inner_heading_bg.jpeg
+File Name: c:\Downloaded Web Sites\www.bhavyacaterers.in\images\header\inner_heading_bg.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.bhavyacaterers.in/images/content/om1.jpeg
+File Name: c:\Downloaded Web Sites\www.bhavyacaterers.in\images\content\om1.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.bhavyacaterers.in/images/content/reservation_bg.png
+File Name: c:\Downloaded Web Sites\www.bhavyacaterers.in\images\content\reservation_bg.png
+Content Type: image/png
+
+Uri: https://www.bhavyacaterers.in/images/content/contact/t1_bg.jpeg
+File Name: c:\Downloaded Web Sites\www.bhavyacaterers.in\images\content\contact\t1_bg.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.bhavyacaterers.in/images/content/event/e1.jpeg
+File Name: c:\Downloaded Web Sites\www.bhavyacaterers.in\images\content\event\e1.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.bhavyacaterers.in/images/content/event/e2.jpeg
+File Name: c:\Downloaded Web Sites\www.bhavyacaterers.in\images\content\event\e2.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.bhavyacaterers.in/images/content/event/timer_event_img.jpeg
+File Name: c:\Downloaded Web Sites\www.bhavyacaterers.in\images\content\event\timer_event_img.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.bhavyacaterers.in/images/content/event/ea_bg.jpeg
+File Name: c:\Downloaded Web Sites\www.bhavyacaterers.in\images\content\event\ea_bg.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.bhavyacaterers.in/images/about/68_big_570x440.jpg
+File Name: c:\Downloaded Web Sites\www.bhavyacaterers.in\images\about\68_big_570x440.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.bhavyacaterers.in/images/about/http_2F2Fcdn.cnn.com2Fcnnnext2Fdam2Fassets2F160217175234-street-art-delhi-11_570x440.jpg
+File Name: c:\Downloaded Web Sites\www.bhavyacaterers.in\images\about\http_2F2Fcdn.cnn.com2Fcnnnext2Fdam2Fassets2F160217175234-street-art-delhi-11_570x440.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.bhavyacaterers.in/images/about/workshop5_570x440.jpg
+File Name: c:\Downloaded Web Sites\www.bhavyacaterers.in\images\about\workshop5_570x440.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.bhavyacaterers.in/images/about/Tughlakabad_570x440.jpg
+File Name: c:\Downloaded Web Sites\www.bhavyacaterers.in\images\about\Tughlakabad_570x440.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.bhavyacaterers.in/images/about/services/Indian_Railway-logo-D33F1889EB-seeklogo.com.png
+File Name: c:\Downloaded Web Sites\www.bhavyacaterers.in\images\about\services\Indian_Railway-logo-D33F1889EB-seeklogo.com.png
+Content Type: image/png
+
+Uri: https://www.bhavyacaterers.in/images/about/services/CISF-logo.jpg
+File Name: c:\Downloaded Web Sites\www.bhavyacaterers.in\images\about\services\CISF-logo.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.bhavyacaterers.in/images/about/services/1200px-Container_Corporation_of_India_logo.png
+File Name: c:\Downloaded Web Sites\www.bhavyacaterers.in\images\about\services\1200px-Container_Corporation_of_India_logo.png
+Content Type: image/png
+
+Uri: https://www.bhavyacaterers.in/images/about/services/industrial-catering-dubai.jpg
+File Name: c:\Downloaded Web Sites\www.bhavyacaterers.in\images\about\services\industrial-catering-dubai.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.bhavyacaterers.in/images/about/services/ic-large-img1.jpg
+File Name: c:\Downloaded Web Sites\www.bhavyacaterers.in\images\about\services\ic-large-img1.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.bhavyacaterers.in/images/about/services/1484210087Chhole-Bhature.jpg
+File Name: c:\Downloaded Web Sites\www.bhavyacaterers.in\images\about\services\1484210087Chhole-Bhature.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.bhavyacaterers.in/images/about/services/Laundry-43-Catering-Line-18988-P1242864-1752011216.jpeg
+File Name: c:\Downloaded Web Sites\www.bhavyacaterers.in\images\about\services\Laundry-43-Catering-Line-18988-P1242864-1752011216.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.bhavyacaterers.in/images/about/services/CAMP-CATERING.jpg
+File Name: c:\Downloaded Web Sites\www.bhavyacaterers.in\images\about\services\CAMP-CATERING.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.bhavyacaterers.in/images/about/services/cooking2.jpg
+File Name: c:\Downloaded Web Sites\www.bhavyacaterers.in\images\about\services\cooking2.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.bhavyacaterers.in/images/about/services/plating-up-dual-salads-for-180-wedding-guests-at-orchid-garden.jpg
+File Name: c:\Downloaded Web Sites\www.bhavyacaterers.in\images\about\services\plating-up-dual-salads-for-180-wedding-guests-at-orchid-garden.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.bhavyacaterers.in/images/icons/name.svg
+File Name: c:\Downloaded Web Sites\www.bhavyacaterers.in\images\icons\name.svg
+Content Type: image/svg+xml
+
+Uri: https://www.bhavyacaterers.in/images/icons/email.svg
+File Name: c:\Downloaded Web Sites\www.bhavyacaterers.in\images\icons\email.svg
+Content Type: image/svg+xml
+
+Uri: https://www.bhavyacaterers.in/images/icons/comment.svg
+File Name: c:\Downloaded Web Sites\www.bhavyacaterers.in\images\icons\comment.svg
+Content Type: image/svg+xml
+
+Uri: https://www.bhavyacaterers.in/images/content/contact/chef.png
+File Name: c:\Downloaded Web Sites\www.bhavyacaterers.in\images\content\contact\chef.png
+Content Type: image/png
+
+Uri: https://www.bhavyacaterers.in/images/content/contact/bur.png
+File Name: c:\Downloaded Web Sites\www.bhavyacaterers.in\images\content\contact\bur.png
+Content Type: image/png
+
+Uri: https://www.bhavyacaterers.in/images/menu/menu.jpg
+File Name: c:\Downloaded Web Sites\www.bhavyacaterers.in\images\menu\menu.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.bhavyacaterers.in/images/menu/roomali.png
+File Name: c:\Downloaded Web Sites\www.bhavyacaterers.in\images\menu\roomali.png
+Content Type: image/png
+
+Uri: https://www.bhavyacaterers.in/images/menu/sambreeeee.png
+File Name: c:\Downloaded Web Sites\www.bhavyacaterers.in\images\menu\sambreeeee.png
+Content Type: image/png
+
+Uri: https://www.bhavyacaterers.in/images/menu/tandoori-paneer-tikka.jpg
+File Name: c:\Downloaded Web Sites\www.bhavyacaterers.in\images\menu\tandoori-paneer-tikka.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.bhavyacaterers.in/images/menu/paneer kulcha.png
+File Name: c:\Downloaded Web Sites\www.bhavyacaterers.in\images\menu\paneer kulcha.png
+Content Type: image/png
+
+Uri: https://www.bhavyacaterers.in/images/menu/hydrabadi biryani.png
+File Name: c:\Downloaded Web Sites\www.bhavyacaterers.in\images\menu\hydrabadi biryani.png
+Content Type: image/png
+
+Uri: https://www.bhavyacaterers.in/images/menu/bhalla papdi.png
+File Name: c:\Downloaded Web Sites\www.bhavyacaterers.in\images\menu\bhalla papdi.png
+Content Type: image/png
+

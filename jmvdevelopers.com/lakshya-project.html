@@ -1,0 +1,1098 @@
+﻿<!DOCTYPE html>
+<!--[if lt IE 10]> 
+<html  lang="en" class="iex">
+   <![endif]-->
+   <!--[if (gt IE 10)|!(IE)]><!-->
+   <html lang="en">
+      <!--<![endif]-->
+      <head>
+         <!-- Global site tag (gtag.js) - Google Analytics -->
+         <script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-118261268-2"></script>
+         <script>
+           window.dataLayer = window.dataLayer || [];
+           function gtag(){dataLayer.push(arguments);}
+           gtag('js', new Date());
+
+           gtag('config', 'UA-118261268-2');
+         </script>
+         <meta charset="utf-8">
+         <meta http-equiv="X-UA-Compatible" content="IE=edge">
+         <meta name="viewport" content="width=device-width, initial-scale=1">
+         <title>Lakshya Aquapolis | JMV Developers </title>
+         <meta name="description" content="">
+         <meta name="keywords" content="JMV Developers,real estate jmvdevelopers, Real Estate delhi NCR, Real Estate in Ghaziabad,JMV DEVELOPERS in Ghaziabad, Jewar Airport Property,real estate dealer in delhi ncr,jmvdevelopers in ghaziabad, ghaziabad property dealer, Propert dealer in Ghaziabad">
+         <script src="scripts\jquery.min.js"></script>
+         <link rel="stylesheet" href="css\bootstrap\css\bootstrap.css">
+         <script src="scripts\script.js"></script>
+         <link rel="stylesheet" href="css\style.css">
+         <link rel="stylesheet" href="css\content-box.css">
+         <link rel="stylesheet" href="css\components.css">
+         <link rel="stylesheet" href="css\animations.css">
+         <link rel="stylesheet" href="css\image-box.css">
+         <link rel="stylesheet" href='css\flexslider\flexslider.css'>
+         <link rel="icon" href="images\jmv developers-logo.png">
+         <link rel="stylesheet" href="css\skin.css">
+         <link rel="stylesheet" href='css\magnific-popup.css'>
+         <link rel="stylesheet" href='css\jquery.flipster.min.css'>
+         <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
+         <link rel="stylesheet" href="css\custom.css">
+         <link rel="stylesheet" href="scripts\font-awesome\css\font-awesome.min.css">
+         <link href="https://fonts.googleapis.com/css?family=Dosis:400,600,700|Lobster|Open+Sans" rel="stylesheet">
+         <link href="https://fonts.googleapis.com/css?family=Dosis:400,600,700|Lobster|Open+Sans:400,500,600,700" rel="stylesheet">
+         <style>
+            .font-light{
+            font-weight:lighter;
+            }
+            .letter-space-2 {
+            letter-spacing:2px;
+            }
+            .lower-case{
+            text-transform: none;
+            }
+            .section-bg-image{
+            background-attachment:fixed ;
+            min-height:450px;
+            background-size: cover !important;
+            background-repeat: no-repeat !important;
+            background-attachment: fixed !important;
+            overflow: hidden;
+            }
+            .font-size-42{
+            font-size:42px  !important;
+            }
+            .font-size-16{
+            font-size:16px  !important;
+            font-family: 'Open Sans', sans-serif;
+            }
+            .letter-space-1{
+            letter-spacing:1px;
+            }
+            .font-color{
+            color: #EAAB00;
+            }
+            /*-----Float form------------*/
+            .float-msg{
+            position:absolute;
+            z-index:9;
+            }
+            .float .fa {
+            color:white;
+            font-size:14px;
+            text-align:center;
+            }
+            .float p {
+            color:white;
+            padding:6px;
+            text-align:center;
+            }
+            .float a:active{
+            background:#EAAB00;
+            }
+            .float{
+            position:fixed;
+            width:80px;
+            height:80px;
+            bottom:30%;
+            right:0px;
+            background-color:#EAAB00;
+            color:#FFF;
+            border-rdius:0px;
+            text-align:center;
+            box-shadow: 0px 0px 60px 0px rgba(0,0,0,0.4);
+            }
+            .my-float{
+            margin-top:22px;
+            }
+            .float-form {
+            position:fixed;
+            z-index:9;
+            }
+            #form
+            {
+            position: fixed;
+            bottom: 0px;
+            float:right;
+            right:140px;
+            width:320px;
+            bottom:30px;
+            border:2px solid #EAAB00;
+            padding:0px;
+            background:#fff;
+            box-shadow:0 130px 160px 140px rgba(0,0,0,0.04); 
+            visibility: visible;
+            /*-webkit-animation: slide 0.5s forwards;
+            -webkit-animation-delay: 2s;
+            animation: slide 0.5s forwards;
+            animation-delay: 2s;*/
+            }
+            /*
+            @-webkit-keyframes slide {
+            100% { left: 0; }
+            }
+            @keyframes slide {
+            100% { left: 0; }
+            }
+            */
+            .nav-tabs a{
+            background-color:#EAAB00;
+            }
+            #form::after
+            {
+            content: "";
+            position: absolute;
+            top: 50%;
+            right:-50px;
+            margin-left: 78px;
+            border-width: 25px;
+            border-style: solid;
+            border-color: transparent transparent transparent #EAAB00;
+            }
+            #form p
+            {
+            margin:0px;
+            margi-bottom:10px;
+            background-color:#EAAB00;
+            text-align:center;
+            color:#fff;
+            padding:20px;
+            font-size:20px;
+            letter-spacing:2px;
+            mrgin-left:20px;
+            mrgin-right:20px;
+            cursor:pointer;
+            }
+            form
+            {
+            padding:1rem 1rem;
+            display:none;
+            }
+            input[type="text"]
+            {
+            font-family: "Roboto", sans-serif;
+            outline: 0;
+            background: #f2f2f2;
+            width: 100%;
+            height:28px;
+            border: 0;
+            margin: 0 0 15px;
+            padding: 15px;
+            box-sizing: border-box;
+            font-size: 14px;
+            letter-spacing:1px;
+            }
+            .form-control{
+            background: #f2f2f2 !important;
+            border-bottom: 1px solid #f2f2f2;
+            color:#EAAB00 !important;
+            }
+            .form-control:focus{
+            border-color:#EAAB00;
+            color:#EAAB00 !important;
+            }
+            select {
+            font-family: "Roboto", sans-serif;
+            outline: 0;
+            background: #f2f2f2 !important;
+            width: 100%;
+            height:28px;
+            border: 0;
+            margin: 0 0 15px;
+            padding: 15px;
+            box-sizing: border-box;
+            font-size: 14px;
+            letter-spacing:1px;
+            }
+            input:focus, textarea:focus {
+            border:1px solid #EAAB00;
+            outline:none;
+            color:#EAAB00;
+            }
+            text_field:focus {
+            outline: none !important;
+            border-color: #fd784f;
+            }
+            textarea
+            {
+            width:100%;
+            margin-left:15px;
+            border: 0;
+            margin: 0 0 15px;
+            padding: 15px;
+            box-sizing: border-box;
+            background: #f2f2f2;
+            font-size: 14px;
+            font-family:helvetica;
+            }
+            #submit_feedback
+            {
+            width:120px;
+            text-align:center;
+            margin-left:75px;
+            background-color:#EAAB00;
+            border:none;
+            color:white;
+            height:35px;
+            font-size:18px;
+            margin-top:10px;
+            margin-bottom:0px;
+            border-radius:5px;
+            }   
+            .orm-inner{
+            padding:0px;
+            } 
+            .mfp-container{
+            cursor: default !important;
+            }   
+            .mfp-container.active .mfp-close{
+            cursor: pointer !important;
+            } 
+         </style>
+      </head>
+      <body>
+         <!--header---------------->
+         <header>
+            <nav class="navbar navbar-default navbar-fixed-top over">
+              
+               <div class="navbar-mini scroll-hide scroll-show-mobile">
+                  <div class="container">
+                     <div class="nav navbar-nav navbar-left">
+                        <span><i class="fa fa-phone"></i>012-02841500</span>
+                        <hr>
+                        <span><i class="fa fa-envelope-o"></i>info@jmvdevelopers.com</span>
+                     </div>
+                     <div class="nav navbar-nav navbar-right">
+                        <div class="minisocial-group">
+                           <a target="_blank" href="https://www.facebook.com/Jmv-Developers-400467110434254/?modal=admin_todo_tour"><i class="fa fa-facebook first"></i></a>
+                           <a target="_blank" href="https://twitter.com/DevelopersJmv"><i class="fa fa-twitter"></i></a>
+                           <a target="_blank" href="https://www.instagram.com/jmvdevelopers/"><i class="fa fa-instagram"></i></a>
+                        </div>
+                        <a href="https://accounts.zoho.com/signin" style="padding:10px 10px;"><span><i class="fa fa-sign-in"></i><span style="color:#000; ">Login</span></span></a>
+                     </div>
+                  </div>
+               </div>
+               <div class="navbar navbar-main middle-box-menu scroll-change mega-menu-fullwidth">
+                  <div class="container">
+                     <div class="navbar-header">
+                        <button type="button" class="navbar-toggle">
+                        <i class="fa fa-bars"></i>
+                        </button>
+                        <a class="navbar-brand" style="padding:0;margin:0;" href="index-1.html"><img src="images\jmv developers-logo.png" width="100" alt="logo"></a>
+                        <a class="navbar-brand">
+                           <div style="color:#EAAB00; font-size:24px; padding-top:15px; font-family: 'Dosis', sans-serif; letter-spacing:2px; text-align:left; font-weight:900;">
+                              JMV 
+                              <div style="font-size:16px;">DEVELOPERS</div>
+                           </div>
+                        </a>
+                     </div>
+                     <div class="collapse navbar-collapse" data-menu-anima="fade-in">
+                        <ul class="nav navbar-nav navbar-right">
+                           <li><a href="index-1.html">Home</a></li>
+                           <li><a href="about.html">About </a></li>
+                           <li class="dropdown">
+                              <a class="dropdown-toggle" data-toggle="dropdown" href="#">Projects <i class="caret"></i></a>
+                              <ul class="dropdown-menu multi-level">
+                                 <li><a href="harit-homes.html">Harit Homes</a></li>
+                                 <li><a href="green-view-farm.html">Green view Farm</a></li>
+                                 <li><a href="lakshya-project.html">Lakshya Aquapolis</a></li>
+                                 <li><a href="agricultural.html">Agricultural</a></li>
+                                 <li><a href="javascript:void(0);">Jan Awas Yojna</a></li>
+                              </ul>
+                           </li>
+                           <li><a href="career.html">Career</a></li>
+                           <li><a href="contact.html">Contact</a></li>
+                           <li><a href="news-and-feed.html">News and Feeds</a></li>
+                        </ul>
+                        <div class="nav navbar-nav  navbar-right">
+                        </div>
+                     </div>
+                  </div>
+               </div>
+            </nav>
+         </header>
+         <!--header End----------------->
+         <!---Main ------------>
+         <div class="footer-parallax-container">
+         <div class="header-title white ken-burn" data-parallax="scroll" data-position="top" data-image-src="images/title-10.jpg" data-natural-width="1366" data-natural-height="530">
+            <div class="container">
+               <div class="title-base padt-2">
+                  <h1 class="letter-space-2">LAKSHYA REALINFRA <span class="font-light lower-case">Private Limited</span></h1>
+                  <hr class="anima">
+                  <p>JMV Developers Project</p>
+               </div>
+            </div>
+         </div>
+         <div class="section-empty">
+            <!-- about section start -->
+            <div class="container content">
+               <div class="row">
+                  <div class="col-md-8">
+                     <div class="title-base title-small text-left" data-anima="show-scale" data-trigger="hover">
+                        <h2><span class="lower-case">About </span><span class="letter-space-2">LAKSHYA </span><span class="lower-case">Group</span></h2>
+                        <hr class="anima">
+                     </div>
+                     <p>
+                        Lakshya realinfra Pvt.Ltd. Which was formed in the year 2008 aims to set and surpass new benchmarks through consistent and concerted display of dynamism, unwavering commitment to customer satifaction and excel in all its purposeful pursuits through quality, intergrity and efficiency. to identity
+                        and develop properties that inspire and integrate value creation, impeccable quality, modernity and exellence aimed at fostering an ever-lasting bond of
+                        customer relationship builtonn trust, confidence and customer delight while adhering to principles of ethics and professionalism.
+                        <br>
+                        <br>
+                        Right from its inception, Lakshya Realinfra Pvt. Ltd. has been working with an objective of enhancing the life style of people and providing them with better living and investment options. Carrying a philanthropic approach under the supervision of great visionaries, the company aims at its fast paced development and of the society as a whole. Lakshya has evolved into one of the fastest growing real estate development the companies in india. with the primary business being the development of properties inn  residential, commercial and retail sectors, the company's operations' span across various aspects of real estate development, such as Land Identification and Acquistion, Project Planning, Designing, Marketing & Sales, and Project Execution. 
+                     </p>
+                  </div>
+                  <div class="col-md-4">
+                     <div class="box-img">
+                        <img src="images\lakshya\ak_804_150278162-1518067941_700x700.png">
+                     </div>
+                  </div>
+               </div>
+               <div class="icon-list">
+                  <div class="list-item">
+                     <span><b class="font-color">Client:</b>Lakshya Group</span>
+                  </div>
+                  <div class="list-item">
+                     <span><b class="font-color">Location:</b>New Delhi</span>
+                  </div>
+                  <div class="list-item">
+                     <span><b class="font-color">Value:</b>20,000,000</span>
+                  </div>
+                  <div class="list-item">
+                     <span><b class="font-color">Year Completed:</b>2022</span>
+                  </div>
+               </div>
+               <div class="text-center">
+                  <br>
+                  <b style="font-size:22px;">Lakshya realinfra Pvt.Ltd Brochures</b><br><br><a class="btn btn-sm btn-default" href="download-file\Lakshya Aquapolis PPT.pdf" download="Lakshya Aquapolis.pdf"><i class="fa fa-file-pdf-o"></i> Download PDF <span class="space"></span><span class="space"></span><i class="fa fa-download"></i></a>
+               </div>
+            </div>
+            <!-- about section end -->
+            <!-- township section start -->
+            <div class="section-bg-image box-middle-container overlay-container" style="background: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url(images/lakshya/real-estate-portal.jpeg);">
+               <div class="bg-overlay"></div>
+               <div class="container content overlay-content box-middle white text-center">
+                  <hr class="space">
+                  <h1 class="text-l font-size-42 pt-0">The most celebrated Township</h1>
+                  <h4>A world where the forces of nature come together.</h4>
+                  <hr class="e">
+                  <br><br>
+                  <p class="font-size-16 letter-space-1">
+                     At Sushant Aquapolis, we give you the latest in world-class designs.<br>
+                     A new millenium township, designed by International Architect fromChelsea West,<br>
+                     New York and inspired by the best of International architectural tradition of reflecting<br>
+                     pools, gardens, lots of greenery and soaring towers.
+                  </p>
+                  <hr class="space">
+                  <hr class="space">
+               </div>
+            </div>
+            <!-- township section end-->
+            <!-- Shushant section start-->
+            <div class="container content">
+               <div class="text-center">
+                  <h2>SUSHANT AQUAPOLIS</h2>
+               </div>
+               <br>
+               <div class="flexslider slider nav-middle-mobile" id="slider-demo-5" data-options="controlNav:false,animationLoop:false,slideshow:false,sync:#slider-demo-5-nav-thumb">
+                  <ul class="slides">
+                     <li>
+                        <img src="images\lakshya\shushant_aquapolis\large\1410718052_Site_Plan_Aquapolis.jpeg" alt="">
+                     </li>
+                     <li>
+                        <img src="images\lakshya\shushant_aquapolis\large\ansal-api-aquapolis-layout-plan-662685.jpeg" alt="">
+                     </li>
+                     <li>
+                        <img src="images\lakshya\shushant_aquapolis\large\pic.jpeg" alt="">
+                     </li>
+                     <li>
+                        <img src="images\lakshya\shushant_aquapolis\large\s.jpeg" alt="">
+                     </li>
+                     <li>
+                        <img src="images\lakshya\shushant_aquapolis\large\3.jpeg" alt="">
+                     </li>
+                     <li>
+                        <img src="images\lakshya\shushant_aquapolis\large\southcity-residence_banner3.jpeg" alt="">
+                     </li>
+                     <li>
+                        <img src="images\lakshya\shushant_aquapolis\large\Sushant-Golf-City-Lucknow.jpeg" alt="">
+                     </li>
+                  </ul>
+               </div>
+               <div id="slider-demo-5-nav-thumb" class="flexslider carousel nav-thumb nav-middle-mobile" data-options="controlNav:false,animationLoop:false,slideshow:false,asNavFor:#slider-demo-5,minWidth:50,numItems:5">
+                  <ul class="slides">
+                     <li>
+                        <img src="images\lakshya\shushant_aquapolis\thumbs\1410718052_Site_Plan_Aquapolis.jpeg" alt="">
+                     </li>
+                     <li>
+                        <img src="images\lakshya\shushant_aquapolis\thumbs\ansal-api-aquapolis-layout-plan-662685.jpeg" alt="">
+                     </li>
+                     <li>
+                        <img src="images\lakshya\shushant_aquapolis\thumbs\pic.jpeg" alt="">
+                     </li>
+                     <li>
+                        <img src="images\lakshya\shushant_aquapolis\thumbs\s.jpeg" alt="">
+                     </li>
+                     <li>
+                        <img src="images\lakshya\shushant_aquapolis\thumbs\3.jpeg" alt="">
+                     </li>
+                     <li>
+                        <img src="images\lakshya\shushant_aquapolis\thumbs\southcity-residence_banner3.jpeg" alt="">
+                     </li>
+                     <li>
+                        <img src="images\lakshya\shushant_aquapolis\thumbs\Sushant-Golf-City-Lucknow.jpeg" alt="">
+                     </li>
+                  </ul>
+               </div>
+            </div>
+            <!-- Shushant section end-->
+            <!-- loan section start -->
+            <div class="container content">
+               <div class="row">
+                  <div class="col-md-8">
+                     <div class="title-base title-small text-left" data-anima="show-scale" data-trigger="hover">
+                        <h2><span class="lower-case">Easy </span><span class="letter-space-2">LOAN </span><span class="lower-case">Approved</span></h2>
+                        <hr class="anima">
+                     </div>
+                     <p>
+                        A dream come true! An ALL PURPOSE LOAN for many thing that life throws up at you!! Do you need funds meeting expenditure on education, marriage, healthcare etc. A simple undertaking in the application itself and no documentary evidence for end use of the fund to be insisted upon. Employees, professionals and Self employed individuals who are IT assesses and NRIs who own residential property or commercial property in his/her own name or in the name of spouse/children/parent/sibling.
+                     </p>
+                     <br>
+                     <br>
+                     <h4>Enjoy the SBI Advantage</h4>
+                     <ul>
+                        <li>Complete transparency in operations</li>
+                        <li>Personal loan to individual owners of residential home/flat and select commercial properties</li>
+                        <li>Access this loan from our wide network of branches</li>
+                        <li>Interest rates are levied on a daily reducing balance method</li>
+                        <li>Lowest processing charges.</li>
+                        <li>Rental income in select cases also considered for loan eligibility.</li>
+                        <li>No prepayment penalties. You can have surplus funds at any time thereby conveniently reducing your loan liability and interest burden.</li>
+                     </ul>
+                  </div>
+                  <div class="col-md-4">
+                     <div class="box-img">
+                        <img src="images\lakshya\retail_loan.jpeg">
+                     </div>
+                  </div>
+               </div>
+            </div>
+            <!-- loan section end -->
+            <!-- floor section start -->
+            <div class="container content">
+               <div class="text-center">
+                  <h2>FLOOR PLANS</h2>
+               </div>
+               <br>
+               <div class="container-fluid grid-list gallery thumb-xs">
+                  <div class="grid-box row" style="margin:0px;" data-lightbox-anima="show-scale">
+                     <div class="grid-item col-md-4">
+                        <a class="img-box thumbnail " href="images\lakshya\floor_plans\plane1.png">
+                        <span><img alt="" src="images\lakshya\floor_plans\plane1.png"></span>
+                        </a>
+                     </div>
+                     <div class="grid-item col-md-4">
+                        <a class="img-box thumbnail " href="images\lakshya\floor_plans\plane2.png">
+                        <span><img alt="" src="images\lakshya\floor_plans\plane2.png"></span>
+                        </a>
+                     </div>
+                     <div class="grid-item col-md-4">
+                        <a class="img-box thumbnail " href="images\lakshya\floor_plans\plane3.png">
+                        <span><img alt="" src="images\lakshya\floor_plans\plane3.png"></span>
+                        </a>
+                     </div>
+                  </div>
+                  <div class="grid-box row" style="margin:0px; " data-lightbox-anima="show-scale">
+                     <div class="grid-item col-md-4">
+                        <a class="img-box thumbnail " href="images\lakshya\floor_plans\plane4.png">
+                        <span><img alt="" src="images\lakshya\floor_plans\plane4.png"></span>
+                        </a>
+                     </div>
+                     <div class="grid-item col-md-4">
+                        <a class="img-box thumbnail " href="images\lakshya\floor_plans\plane5.png">
+                        <span><img alt="" src="images\lakshya\floor_plans\plane5.png"></span>
+                        </a>
+                     </div>
+                     <div class="grid-item col-md-4">
+                        <a class="img-box thumbnail " href="images\lakshya\floor_plans\plane6.png">
+                        <span><img alt="" src="images\lakshya\floor_plans\plane6.png"></span>
+                        </a>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+         <!-- floor section end -->
+         <!-- specification section start -->
+         <div class="section-bg-color">
+            <div class="container content">
+               <div class="text-center">
+                  <h2>SPECIFICATIONS</h2>
+               </div>
+               <br>
+               <div class="grid-list columns-list">
+                  <div class="grid-box row">
+                     <div class="grid-item col-md-4">
+                        <div class="advs-box advs-box-side-icon boxed-inverse" data-anima="scale-up" data-trigger="hover">
+                           <div class="icon-box">
+                              <i class="anima icon onlycover text-l" style="background-image:url(images/lakshya/icons/9780415537636.jpeg)"></i>
+                           </div>
+                           <div class="caption-box">
+                              <h3>Structure</h3>
+                              <p>
+                                 Earth-quake resistant<br>
+                                 Structure according to latest<br>
+                                 Seismic code, RCC framed<br>
+                                 Structure with walls of bricks
+                              </p>
+                           </div>
+                        </div>
+                     </div>
+                     <div class="grid-item col-md-4">
+                        <div class="advs-box advs-box-side-icon boxed-inverse" data-anima="scale-up" data-trigger="hover">
+                           <div class="icon-box">
+                              <i class="anima icon onlycover text-l" style="background-image:url(images/lakshya/icons/8ad62c0aebf2246fc847d33148f5e8ed226951df.jfif)"></i>
+                           </div>
+                           <div class="caption-box">
+                              <h3>Living Room</h3>
+                              <p>
+                                 <b>Floors</b><br>
+                                 Imported/Premium Marble/Tiles<br>
+                                 <b>Walls</b><br>
+                                 Premium Plastic emulsion paint
+                              </p>
+                           </div>
+                        </div>
+                     </div>
+                     <div class="grid-item col-md-4">
+                        <div class="advs-box advs-box-side-icon boxed-inverse" data-anima="scale-up" data-trigger="hover">
+                           <div class="icon-box">
+                              <i class="anima icon onlycover text-l" style="background-image:url(images/lakshya/icons/f54da88317785a269bb4ea124d8c7095.jpeg)"></i>
+                           </div>
+                           <div class="caption-box">
+                              <h3>Dining Room</h3>
+                              <p>
+                                 <b>Floors</b><br>
+                                 Imported/Premium Marble/Tiles<br>
+                                 <b>Walls</b><br>
+                                 Premium Plastic emulsion paint
+                              </p>
+                           </div>
+                        </div>
+                     </div>
+                     <div class="grid-item col-md-4">
+                        <div class="advs-box advs-box-side-icon boxed-inverse" data-anima="scale-up" data-trigger="hover">
+                           <div class="icon-box">
+                              <i class="anima icon onlycover text-l" style="background-image:url(images/lakshya/icons/wall-art-for-kids-bedroom-interior-designing-ideas-kids-room-wall-colors-l-98ae82aa42c493b2.jpeg)"></i>
+                           </div>
+                           <div class="caption-box">
+                              <h3>Master Bedroom</h3>
+                              <p>
+                                 <b>Floors</b><br>
+                                 Wooden Texture Tiles/Flooring in<br> 
+                                 Master Bedroom<br>
+                                 <b>Walls</b><br>
+                                 Premium Plastic Emulsion Paint
+                              </p>
+                           </div>
+                        </div>
+                     </div>
+                     <div class="grid-item col-md-4">
+                        <div class="advs-box advs-box-side-icon boxed-inverse" data-anima="scale-up" data-trigger="hover">
+                           <div class="icon-box">
+                              <i class="anima icon onlycover text-l" style="background-image:url(images/lakshya/icons/floral-bedroom-wallpaper-ideas.jpeg)"></i>
+                           </div>
+                           <div class="caption-box">
+                              <h3>Bedroom</h3>
+                              <p>
+                                 <b>Floors</b><br>
+                                 Natural Wooden/Engineered/laminated floor<br>
+                                 <b>Walls</b><br>
+                                 Premium Plastic emulsion paint
+                              </p>
+                           </div>
+                        </div>
+                     </div>
+                     <div class="grid-item col-md-4">
+                        <div class="advs-box advs-box-side-icon boxed-inverse" data-anima="scale-up" data-trigger="hover">
+                           <div class="icon-box">
+                              <i class="anima icon onlycover text-l" style="background-image:url(images/lakshya/icons/electrical-services-buildings-property-management-companies-400x300-3.jpeg)"></i>
+                           </div>
+                           <div class="caption-box">
+                              <h3>Electrical</h3>
+                              <p>
+                                 Modular switches, copper electrical<br>
+                                 wiring throughout in concealed<br>
+                                 conduit with provision for light<br>
+                                 points, power points, TV and<br>
+                                 telephone sockets.
+                              </p>
+                           </div>
+                        </div>
+                     </div>
+                     <div class="grid-item col-md-4">
+                        <div class="advs-box advs-box-side-icon boxed-inverse" data-anima="scale-up" data-trigger="hover">
+                           <div class="icon-box">
+                              <i class="anima icon onlycover text-l" style="background-image:url(images/lakshya/icons/dc340b149b429d9b227278ef6d78d6e3.jpeg)"></i>
+                           </div>
+                           <div class="caption-box">
+                              <h3>Lift Lobbies/Corridors</h3>
+                              <p>
+                                 <b>Floors</b><br>
+                                 Imported marble/granite flooring<br>
+                                 <b>Walls</b><br>
+                                 Combination of one or more of granite
+                                 marble/terrazzo/ oil bound distemper<br>
+                                 <b>Cellings</b><br>
+                                 Premium Plastic emulsion paint
+                              </p>
+                           </div>
+                        </div>
+                     </div>
+                     <div class="grid-item col-md-4">
+                        <div class="advs-box advs-box-side-icon boxed-inverse" data-anima="scale-up" data-trigger="hover">
+                           <div class="icon-box">
+                              <i class="anima icon onlycover text-l" style="background-image:url(images/lakshya/icons/21-Yellow-Kitchen.jpeg)"></i>
+                           </div>
+                           <div class="caption-box">
+                              <h3>Kitchen</h3>
+                              <p>
+                                 <b>Floors</b><br>
+                                 Combination of one or more of<br>
+                                 designer tiles/granite/marble<br>
+                                 <b>Fittings & Fixtures</b><br>
+                                 Modular Kitchen with Granite<br>
+                                 Counter, SS sink and CP fittings
+                                 <b>Walls</b><br>
+                                 2'high glazed tiles above counter<br>
+                                 and premium plastic emulsion<br>
+                                 paint on remaining area
+                              </p>
+                           </div>
+                        </div>
+                     </div>
+                     <div class="grid-item col-md-4">
+                        <div class="advs-box advs-box-side-icon boxed-inverse" data-anima="scale-up" data-trigger="hover">
+                           <div class="icon-box">
+                              <i class="anima icon onlycover text-l" style="background-image:url(images/lakshya/icons/576_350_1_ffffff_lorient-ss2.jpg)"></i>
+                           </div>
+                           <div class="caption-box">
+                              <h3>Balconies</h3>
+                              <p>
+                                 <b>Floors</b><br>
+                                 Anti skid/vitrified/stone tiles<br>
+                                 <b>Fittings & Fixtures</b><br>
+                                 Glass railing, integrated<br>
+                                 ceilings lights<br>
+                                 <b>Walls</b><br>
+                                 Weather coat emulsion<br>
+                                 <b>Cellings</b><br>
+                                 Weather coat emulsion/Oil<br>
+                                 Bound Distemper
+                              </p>
+                           </div>
+                        </div>
+                     </div>
+                     <div class="grid-item col-md-4">
+                        <div class="advs-box advs-box-side-icon boxed-inverse" data-anima="scale-up" data-trigger="hover">
+                           <div class="icon-box">
+                              <i class="anima icon onlycover text-l" style="background-image:url(images/lakshya/icons/6.1_NAB_2231_08312015.jpeg)"></i>
+                           </div>
+                           <div class="caption-box">
+                              <h3>Elevator</h3>
+                              <p>
+                                 Branded high speed lift
+                              </p>
+                           </div>
+                        </div>
+                     </div>
+                     <div class="grid-item col-md-4">
+                        <div class="advs-box advs-box-side-icon boxed-inverse" data-anima="scale-up" data-trigger="hover">
+                           <div class="icon-box">
+                              <i class="anima icon onlycover text-l" style="background-image:url(images/lakshya/icons/images.jfif)"></i>
+                           </div>
+                           <div class="caption-box">
+                              <h3>Security System</h3>
+                              <p>
+                                 CCTV monitoring
+                              </p>
+                           </div>
+                        </div>
+                     </div>
+                     <div class="grid-item col-md-4">
+                        <div class="advs-box advs-box-side-icon boxed-inverse" data-anima="scale-up" data-trigger="hover">
+                           <div class="icon-box">
+                              <i class="anima icon onlycover text-l" style="background-image:url(images/lakshya/icons/74f52498f1e96aeaf1eaf0976d94c9e6.jpeg)"></i>
+                           </div>
+                           <div class="caption-box">
+                              <h3>External Finish</h3>
+                              <p>
+                                 Combination of one or more<br>
+                                 of all weather paint/stone/<br>
+                                 Alco/grit work.
+                              </p>
+                           </div>
+                        </div>
+                     </div>
+                     <div class="grid-item col-md-4">
+                        <div class="advs-box advs-box-side-icon boxed-inverse" data-anima="scale-up" data-trigger="hover">
+                           <div class="icon-box">
+                              <i class="anima icon onlycover text-l" style="background-image:url(images/lakshya/icons/5b18b9a4b458fb6e76aefb117b05298e--blue-colors-blue-yellow.jpeg)"></i>
+                           </div>
+                           <div class="caption-box">
+                              <h3>Floors</h3>
+                              <p>
+                                 <b>Floors</b><br>
+                                 Combination of Granite/Imported Marble/Premium Tiles Fittings & Fixtures Jaguar /Cera/equivalent bath fittings Single
+                                 lever CP Fittings, wall hung WC, shower panels in all toilets,<br>
+                                 <b>Walls</b><br>
+                                 Combination of one or more<br>
+                                 of designer tiles/granite/<br>
+                                 imported marble<br>
+                                 <b>Cellings</b><br>
+                                 Gypboard/calcium silicate/<br>
+                                 pop false ceiling with<br>
+                                 integrated CFL light fittings
+                              </p>
+                           </div>
+                        </div>
+                     </div>
+                     <div class="grid-item col-md-4">
+                        <div class="advs-box advs-box-side-icon boxed-inverse" data-anima="scale-up" data-trigger="hover">
+                           <div class="icon-box">
+                              <i class="anima icon onlycover text-l" style="background-image:url(images/lakshya/icons/aeebed76dcfea090090faee4e9d05242--orange-colour-orange-yellow.jpeg)"></i>
+                           </div>
+                           <div class="caption-box">
+                              <h3>Staircase</h3>
+                              <p>
+                                 <b>Floors</b><br>
+                                 Anti skid virtrified/granite/stone slabs Fittings & Fixtures Enarnel painted MS railing, light saver ceiling lights<br>
+                                 <b>Walls</b><br>
+                                 Weather coat emulsion<br>
+                                 <b>Cellings</b><br>
+                                 Oil bound Distemper
+                              </p>
+                           </div>
+                        </div>
+                     </div>
+                     <div class="grid-item col-md-4">
+                        <div class="advs-box advs-box-side-icon boxed-inverse" data-anima="scale-up" data-trigger="hover">
+                           <div class="icon-box">
+                              <i class="anima icon onlycover text-l" style="background-image:url(images/lakshya/icons/my_view-03_lr1.jpeg)"></i>
+                           </div>
+                           <div class="caption-box">
+                              <h3>Entrance Lobby</h3>
+                              <p>
+                                 <b>Floors</b><br>
+                                 Imported/Premium marble/granite<br>
+                                 <b>Walls</b><br>
+                                 Premium Plastic emulsion paint<br>
+                                 <b>Cellings</b><br>
+                                 Oil bound distemper with designer
+                                 engineered cornice
+                              </p>
+                           </div>
+                        </div>
+                     </div>
+                     <div class="clear"></div>
+                  </div>
+               </div>
+            </div>
+         </div>
+         <!-- specification section end -->
+         <!-- children section start -->
+         <hr>
+         <hr class="space m">
+         <div class="row" style="margin-left: 10px; margin-right: 10px;">
+            <div class="col-md-6">
+               <div class="flexslider slider white always-visible-nav">
+                  <ul class="slides">
+                     <li>
+                        <span class="img-box lightbox">
+                        <img src="images\lakshya\amnities\Usk Park 3.jpeg" alt="">
+                        </span>
+                     </li>
+                     <li>
+                        <span class="img-box lightbox">
+                        <img src="images\lakshya\amnities\1280px-HK_Ap_Lei_Chau_Wind_Tower_Park.jpeg" alt="">
+                        </span>
+                     </li>
+                     <li>
+                        <span class="img-box lightbox">
+                        <img src="images\lakshya\amnities\brandon_amphitheater_rendering_2.jpeg" alt="">
+                        </span>
+                     </li>
+                  </ul>
+               </div>
+            </div>
+            <div class="col-md-6">
+               <div class="row">
+                  <div class="col-md-3"></div>
+                  <div class="col-md-6">
+                     <ul style="line-height: 2">
+                        <li>Children's Play Area</li>
+                        <li>Jogging Track</li>
+                        <li>Amphitheater</li>
+                        <li>Double Basement Car Parking</li>
+                        <li>Walk Way</li>
+                        <li>Theme Parks</li>
+                        <li>School</li>
+                        <li>Commercial</li>
+                        <li>Mall's & Multiplex</li>
+                        <li>Power Stations</li>
+                        <li>Rain Water Harversting System</li>
+                        <li>Sewerage Treatment System</li>
+                        <li>High Speed Elevvators</li>
+                     </ul>
+                  </div>
+                  <div class="col-md-3"></div>
+               </div>
+            </div>
+         </div>
+         <hr class="space m">
+         <hr>
+         <!-- children section end -->
+         <!-- expressway section start -->
+         <div class="container content">
+            <div class="text-center">
+               <h2>Bang ON UPCOMING 14 LANE EXPRESSWAY & METRO</h2>
+            </div>
+            <br>
+            <div class="container-fluid grid-list gallery thumb-xs">
+               <div class="grid-box row" data-lightbox-anima="show-scale">
+                  <div class="grid-item col-md-4">
+                     <a class="img-box thumbnail " href="images\lakshya\meerut_highway\maxresdefault.jpeg">
+                     <span><img alt="" src="images\lakshya\meerut_highway\maxresdefault.jpeg"></span>
+                     </a>
+                  </div>
+                  <div class="grid-item col-md-4">
+                     <a class="img-box thumbnail " href="images\lakshya\meerut_highway\shutterstock_703200160.jpeg">
+                     <span><img alt="" src="images\lakshya\meerut_highway\shutterstock_703200160.jpeg"></span>
+                     </a>
+                  </div>
+                  <div class="grid-item col-md-4">
+                     <a class="img-box thumbnail " href="images\lakshya\meerut_highway\map.jpeg">
+                     <span><img alt="" src="images\lakshya\meerut_highway\map.jpeg"></span>
+                     </a>
+                  </div>
+               </div>
+            </div>
+         </div>
+         <!-- expressway section end -->
+         <!-- Township section start-->
+         <!-- specification section start -->
+         <div class="section-bg-color">
+            <div class="container content">
+               <div class="text-center">
+                  <h5>Township based on international architecture and designed by Chelsea West, USA. It is located near an
+                     upscale and developed community on main NH-24(work started for conversion into a 14 lane expressway)
+                     adjacent to Greater Noida (W).
+                  </h5>
+               </div>
+               <br>
+               <div class="row">
+                  <h4>Township at a glance</h4>
+                  <div class="col-lg-8">
+                     <ul>
+                        <li>Part of the Integrated Township developed by Ansal API- Aquapolis</li>
+                        <li>Public school, Vishwa Bharti School within the township currently</li>
+                        <li>Project Entrance from NH-24.</li>
+                        <li>60% open landscape area utilized by parks</li>
+                        <li>Intercom facility in all flats connected with 24*7 security room and administration office</li>
+                        <li>High speed elevators & multi level basement car parking space.</li>
+                        <li>Separate Jogging track and Kids play area</li>
+                        <li>Mall with 10 screen Multiplex in township</li>
+                        <li>Local Shopping Centre, School</li>
+                        <li>33/11 Kv Live Power Sub Station</li>
+                        <li>24*7 security system & water supply</li>
+                        <li>othi’s & Villas – Families already moved in</li>
+                        <li>Underground L.T. Distribution network ( No overhead wires)</li>
+                        <li>Rain Water Harvesting</li>
+                        <li>Sewerage Treatment Plant</li>
+                        <li>Theme Parks : Well developed horticulture, Jogging Tracks & Cycle lanes, Children’s Play areas</li>
+                        <li>Community facilities: Club with swimming pool, spa, sauna, library and restaurants</li>
+                        <li>Neighborhood shopping areas, Educational Institutions and Hospital within the township.</li>
+                        <li>Police Station in Township</li>
+                        <li>Wide Roads & lush green Boulevards</li>
+                     </ul>
+                  </div>
+                  <div class="col-md-4">
+                     <div class="box-img">
+                        <img src="images\lakshya\Mahindra-Kandivali.jpeg">
+                     </div>
+                  </div>
+               </div>
+               <br>
+               <div class="row">
+                  <div class="col-md-4">
+                     <h4>Luxury Amenities</h4>
+                     <ul>
+                        <li>10000 Sq Mts of club exclusively for the township, with all modern amenities.</li>
+                        <li>10 screen cineplex and mall within the township.</li>
+                        <li>Proposed metro station within 3 kms</li>
+                        <li>4 high speed elevators</li>
+                        <li>Ample open parking for your guests</li>
+                     </ul>
+                  </div>
+                  <div class="col-md-4">
+                     <h4>Project Salient Features</h4>
+                     <ul>
+                        <li>East Facing Direction of Towers</li>
+                        <li>
+                           Two Towers
+                           <ul>
+                              <li>B1A - G+12</li>
+                              <li>B1B - G+13</li>
+                           </ul>
+                        </li>
+                        <li>127 flats in 5022 Sq mtr area with low density of development per unit area</li>
+                        <li>Double basement parking</li>
+                        <li>Possession to be started from June’18 onwards</li>
+                     </ul>
+                  </div>
+                  <div class="col-md-4">
+                     <h4>Additional Facilities</h4>
+                     <ul>
+                        <li>vPower back-up</li>
+                        <li>UPVC Windows</li>
+                        <li>CCTV security around the complex,</li>
+                        <li>Provision for Gas pipeline</li>
+                        <li>Water Treatment Plant (Individual R.O. System per house)</li>
+                     </ul>
+                  </div>
+               </div>
+            </div>
+         </div>
+         <!-- Township section end -->
+         <!-- map section start-->
+         <div class="container-fluid" style="background:#fff;">
+            <div class="container content">
+               <img src="images\lakshya\ansal-api-ansal-aquapolis-location-plan-267710.jpeg">
+               <hr class="space">
+            </div>
+         </div>
+         <!-- map section end-->
+         <!-- Gallery section start -->
+         <!-- Gallery section end -->
+         <!-- footer section start -->
+         <script src='scripts\parallax.min.js'></script>
+         <link property="" rel="stylesheet" href="scripts\font-awesome\css\font-awesome.min.css">
+         <script async="" src="scripts\bootstrap\js\bootstrap.min.js"></script>
+         <script src="scripts\imagesloaded.min.js"></script>
+         <script src='scripts\flexslider\jquery.flexslider-min.js'></script>
+         <script src='scripts\jquery.tab-accordion.js'></script>
+         <script src='scripts\smooth.scroll.min.js'></script>
+         <script src='scripts\jquery.magnific-popup.min.js'></script>
+         <script src='scripts\parallax.min.js'></script>
+         <script src='scripts\jquery.flipster.min.js'></script>
+         <div id="footer"></div>
+         <!-- footer section end -->
+         <!--- Float button=-->
+         <div class="float-msg">
+            <a href="#" id="show-form" class="float">
+               <!--<i class="fa fa-envelope my-float"></i>-->
+               <p>Enquire Now / Book sites</p>
+            </a>
+         </div>
+         <!----float button-->
+         <!---Float-----form----->
+         <div class="float-form">
+            <div id="form">
+               <p id="feedback_button">Feedback</p>
+               <div class="tab-box" data-tab-anima="show-scale">
+                  <ul class="nav nav-tabs nav-justified">
+                     <li class="active"><a href="#">Enquire Now</a></li>
+                     <li><a href="#">Book site</a></li>
+                  </ul>
+                  <div class="panel active">
+                     <form action="">
+                        <div class="form-inner">
+                           <div class="form-group">
+                              <label for="usr">Name:</label>
+                              <input type="text" class="form-control" id="usr">
+                           </div>
+                           <div class="form-group">
+                              <label>Select Location:</label>
+                              <select class="form-control">
+                                 <option>Gurugram</option>
+                                 <option>Noida</option>
+                                 <option>Ghaziabad</option>
+                                 <option>Jaipur</option>
+                              </select>
+                           </div>
+                           <div class="form-group">
+                              <label for="usr">Email:</label>
+                              <input type="email" class="form-control">
+                           </div>
+                           <!-- <textarea id="feedback"  class="text_field" placeholder="Feedback"></textarea>
+                              -->
+                           <div class="form-group">
+                              <label for="usr">Phone:</label>
+                              <input type="text" class="form-control">
+                           </div>
+                           <input type="submit" id="submit_feedback" values="Submit">
+                        </div>
+                     </form>
+                  </div>
+                  <div class="panel">
+                     <form action="">
+                        <div class="form-inner">
+                           <div class="form-group">
+                              <label for="usr">Name:</label>
+                              <input type="text" class="form-control" id="usr">
+                           </div>
+                           <div class="form-group">
+                              <label>Select Location:</label>
+                              <select class="form-control">
+                                 <option>Gurugram</option>
+                                 <option>Noida</option>
+                                 <option>Ghaziabad</option>
+                                 <option>Jaipur</option>
+                              </select>
+                           </div>
+                           <div class="form-group">
+                              <label for="usr">Email:</label>
+                              <input type="email" class="form-control">
+                           </div>
+                           <!-- <textarea id="feedback"  class="text_field" placeholder="Feedback"></textarea>
+                              -->
+                           <div class="form-group">
+                              <label for="usr">Phone:</label>
+                              <input type="text" class="form-control">
+                           </div>
+                           <input type="submit" id="submit_feedback" values="Submit">
+                        </div>
+                     </form>
+                  </div>
+               </div>
+            </div>
+         </div>
+         <script type="text/javascript">
+            $(document).ready(function(){
+            $('#form').css('display','none');
+            $('#show-form').click(function(){
+             $("#form, form").animate({
+                            width: "toggle"
+                        });
+            
+            });
+            });
+         </script>
+         <!--image gallery--------->
+         <script>
+            jQuery(document).ready(function( $ ) {
+            $(window).scroll(function() {
+               if ($(this).scrollTop() > 50) {
+                 $('.scroll-change').addClass('sh');
+               } else {
+                 $('.scroll-change').removeClass('sh');
+               }
+             });
+             });
+             $(function(){
+             $("#header").load("header.html"); 
+             $("#footer").load("footer.html"); 
+             //pop on load
+            $("#pop_out").trigger('click');
+            
+            });
+         </script>  
+      </div></body>
+   </html>

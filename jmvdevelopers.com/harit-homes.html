@@ -1,0 +1,1225 @@
+﻿<!DOCTYPE html>
+<!--[if lt IE 10]> 
+<html  lang="en" class="iex">
+   <![endif]-->
+   <!--[if (gt IE 10)|!(IE)]><!-->
+   <html lang="en">
+      <!--<![endif]-->
+      <head>
+         <!-- Global site tag (gtag.js) - Google Analytics -->
+         <script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-118261268-2"></script>
+         <script>
+           window.dataLayer = window.dataLayer || [];
+           function gtag(){dataLayer.push(arguments);}
+           gtag('js', new Date());
+
+           gtag('config', 'UA-118261268-2');
+         </script>
+         <meta charset="utf-8">
+         <meta http-equiv="X-UA-Compatible" content="IE=edge">
+         <meta name="viewport" content="width=device-width, initial-scale=1">
+         <title>Harit Homes Project | JMV Developers</title>
+         <meta name="description" content="">
+         <meta name="keywords" content="JMV Developers,real estate jmvdevelopers, Real Estate delhi NCR, Real Estate in Ghaziabad,JMV DEVELOPERS in Ghaziabad, Jewar Airport Property,real estate dealer in delhi ncr,jmvdevelopers in ghaziabad, ghaziabad property dealer, Propert dealer in Ghaziabad">
+         <script src="scripts\jquery.min.js"></script>
+         <link rel="stylesheet" href="css\bootstrap\css\bootstrap.css">
+         <script src="scripts\script.js"></script>
+         <link rel="stylesheet" href="css\style.css">
+         <link rel="stylesheet" href="css\content-box.css">
+         <link rel="stylesheet" href="css\components.css">
+         <link rel="stylesheet" href="css\animations.css">
+         <link rel="stylesheet" href="css\image-box.css">
+         <link rel="stylesheet" href='css\flexslider\flexslider.css'>
+         <link rel="icon" href="images\jmv developers-logo.png">
+         <link rel="stylesheet" href="css\skin.css">
+         <link rel="stylesheet" href="css\custom.css">
+         <link rel="stylesheet" href='css\magnific-popup.css'>
+         <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
+         <link href="https://fonts.googleapis.com/css?family=Dancing+Script" rel="stylesheet">
+         <link href="https://fonts.googleapis.com/css?family=Arimo" rel="stylesheet">
+         <link rel="stylesheet" href="scripts\font-awesome\css\font-awesome.min.css">
+         <link href="https://fonts.googleapis.com/css?family=Dosis:400,600,700|Lobster|Open+Sans" rel="stylesheet">
+         <link href="https://fonts.googleapis.com/css?family=Dosis:400,600,700|Lobster|Open+Sans:400,500,600,700" rel="stylesheet">
+         <style>
+            .font-light{
+            font-weight:lighter;
+            }
+            .letter-space-2 {
+            letter-spacing:2px;
+            }
+            .lower-case{
+            text-transform:none;
+            }
+            .section-bg-image{
+            background-attachment:fixed ;
+            min-height:450px;
+            }
+            .font-size-42{
+            font-size:42px  !important;
+            }
+            .font-size-16{
+            font-size:16px  !important;
+            font-family: 'Open Sans', sans-serif;
+            }
+            .letter-space-1{
+            letter-spacing:1px;
+            }
+            /*-----Float form------------*/
+            .float-msg{
+            position:absolute;
+            z-index:9;
+            }
+            .float .fa {
+            color:white;
+            font-size:14px;
+            text-align:center;
+            }
+            .float p {
+            color:white;
+            padding:6px;
+            text-align:center;
+            }
+            .float a:active{
+            background:#EAAB00;
+            }
+            .float{
+            position:fixed;
+            width:80px;
+            height:80px;
+            bottom:30%;
+            right:0px;
+            background-color:#EAAB00;
+            color:#FFF;
+            border-rdius:0px;
+            text-align:center;
+            box-shadow: 0px 0px 60px 0px rgba(0,0,0,0.4);
+            }
+            .my-float{
+            margin-top:22px;
+            }
+            .float-form {
+            position:fixed;
+            z-index:9;
+            }
+            #form
+            {
+            position: fixed;
+            bottom: 0px;
+            float:right;
+            right:140px;
+            width:320px;
+            bottom:30px;
+            border:2px solid #EAAB00;
+            padding:0px;
+            background:#fff;
+            box-shadow:0 130px 160px 140px rgba(0,0,0,0.04); 
+            visibility: visible;
+            /*-webkit-animation: slide 0.5s forwards;
+            -webkit-animation-delay: 2s;
+            animation: slide 0.5s forwards;
+            animation-delay: 2s;*/
+            }
+            /*
+            @-webkit-keyframes slide {
+            100% { left: 0; }
+            }
+            @keyframes slide {
+            100% { left: 0; }
+            }
+            */
+            .nav-tabs a{
+            background-color:#EAAB00;
+            }
+            #form::after
+            {
+            content: "";
+            position: absolute;
+            top: 50%;
+            right:-50px;
+            margin-left: 78px;
+            border-width: 25px;
+            border-style: solid;
+            border-color: transparent transparent transparent #EAAB00;
+            }
+            #form p
+            {
+            margin:0px;
+            margi-bottom:10px;
+            background-color:#EAAB00;
+            text-align:center;
+            color:#fff;
+            padding:20px;
+            font-size:20px;
+            letter-spacing:2px;
+            mrgin-left:20px;
+            mrgin-right:20px;
+            cursor:pointer;
+            }
+            form
+            {
+            padding:1rem 1rem;
+            }
+            .form-inner input
+            {
+            font-family: "Roboto", sans-serif;
+            outline: 0;
+            background: #f2f2f2;
+            width: 100%;
+            height:28px;
+            border: 0;
+            margin: 0 0 15px;
+            padding: 15px;
+            box-sizing: border-box;
+            font-size: 14px;
+            letter-spacing:1px;
+            }
+            .form-inner .form-control{
+            background: #f2f2f2 !important;
+            border-bottom: 1px solid #f2f2f2;
+            color:#EAAB00 !important;
+            }
+            .form-control:focus{
+            border-color:#EAAB00;
+            color:#EAAB00 !important;
+            }
+            select {
+            font-family: "Roboto", sans-serif;
+            outline: 0;
+            background: #f2f2f2 !important;
+            width: 100%;
+            height:28px;
+            border: 0;
+            margin: 0 0 15px;
+            padding: 15px;
+            box-sizing: border-box;
+            font-size: 14px;
+            letter-spacing:1px;
+            }
+            input:focus, textarea:focus {
+            border:1px solid #EAAB00;
+            outline:none;
+            color:#EAAB00;
+            }
+            text_field:focus {
+            outline: none !important;
+            border-color: #fd784f;
+            }
+            textarea
+            {
+            width:100%;
+            margin-left:15px;
+            border: 0;
+            margin: 0 0 15px;
+            padding: 15px;
+            box-sizing: border-box;
+            background: #f2f2f2;
+            font-size: 14px;
+            font-family:helvetica;
+            }
+            #submit_feedback
+            {
+            width:120px;
+            text-align:center;
+            margin-left:75px;
+            background-color:#EAAB00;
+            border:none;
+            color:white;
+            height:35px;
+            font-size:18px;
+            margin-top:10px;
+            margin-bottom:0px;
+            border-radius:5px;
+            padding-bottom:35px;
+            }   
+            .dot-form p span{
+            line-height:33px;
+            color:#000;
+            }
+            .form-head {
+            color:#000 !important;
+            }
+            input{
+            font-size: 13px;
+            line-height: 1.42857143;
+            color: #555;
+            height:24px;
+            background-color: #F7F7F7;
+            border: none;
+            margin:0px 10px;
+            border-bottom: 1px solid #DADADA;
+            }
+            input:focus{
+            border:1px solid #EAAB00 !important;
+            -webkit-box-shadow:none ; 
+            box-shadow:none; 
+            }
+            .form-group{
+            margin-bottom:0px;
+            border:0px;
+            font-family:'Open Sans', sans-serif;
+            font-weight:300;
+            }
+            label{
+            padding-left:20px;
+            font-family:'Open Sans', sans-serif;
+            letter-spacing:0.3;
+            color:#000;
+            }
+            .form-control{
+            font-size: 13px;
+            line-height: 1.42857143;
+            color: #555;
+            background-color: #F7F7F7;
+            border: none;
+            border-bottom: 1px solid #DADADA;
+            }
+            .form-control:focus{
+            border:1px solid #EAAB00 !important;
+            -webkit-box-shadow:none ; 
+            box-shadow:none; 
+            border-bottom: 1px solid #DADADA;
+            }
+            .modal-dialog{
+            overflow-y: initial !important
+            }
+            .modal-body{
+            height: 75%;
+            overflow-y: auto;
+            } 
+            /* For Firefox */
+            input[type='number'] {
+            -moz-appearance:textfield;
+            }
+            /* Webkit browsers like Safari and Chrome */
+            input[type=number]::-webkit-inner-spin-button,
+            input[type=number]::-webkit-outer-spin-button {
+            -webkit-appearance: none;
+            margin: 0;
+            }  
+            .ap-form{
+            max-height:100% !important;
+            max-width:75% !important;
+            padding:0 ;"
+            margin-top:-20px;
+            }
+            @media (max-width : 992px ){
+            .ap-form{
+            max-height:100% !important;
+            max-width:97% !important;
+            padding:0;"
+            }
+            }
+            .mfp-container{
+            cursor: default !important;
+            }   
+            .mfp-container.active .mfp-close{
+            cursor: pointer !important;
+            }
+         </style>
+      </head>
+      <body>
+         <div id="preloader"></div>
+         <!--header---------------->
+         <header>
+            <nav class="navbar navbar-default navbar-fixed-top over">
+               <div class="navbar-mini scroll-hide scroll-show-mobile">
+                  <div class="container">
+                     <div class="nav navbar-nav navbar-left">
+                        <span><i class="fa fa-phone"></i>012-02841500</span>
+                        <hr>
+                        <span><i class="fa fa-envelope-o"></i>info@jmvdevelopers.com</span>
+                     </div>
+                     <div class="nav navbar-nav navbar-right">
+                        <!--<ul class="nav navbar-nav over lan-menu">
+                           <li class="dropdown">
+                               <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button">
+                                   <img src="images\en.png" alt="flag"><span style="color:black;">EN</span> <span class="caret"></span>
+                               </a>
+                               <ul class="dropdown-menu">
+                                   <li><a href="#"><img src="images\it.png" alt="flag"><span style="color:black;">IT</span></a></li>
+                               </ul>
+                           </li>
+                           </ul>-->
+                        <div class="minisocial-group">
+                           <a target="_blank" href="https://www.facebook.com/Jmv-Developers-400467110434254/?modal=admin_todo_tour"><i class="fa fa-facebook first"></i></a>
+                           <a target="_blank" href="https://twitter.com/DevelopersJmv"><i class="fa fa-twitter"></i></a>
+                           <a target="_blank" href="https://www.instagram.com/jmvdevelopers/"><i class="fa fa-instagram"></i></a>
+                           <!--  <a target="_blank" href="#"><i class="fa fa-youtube"></i></a>
+                              <a target="_blank" href="#"><i class="fa fa-linkedin"></i></a>
+                              <a target="_blank" href="#"><i class="fa fa-pinterest"></i></a>
+                              <a target="_blank" href="#"><i class="fa fa-google-plus"></i></a>-->
+                        </div>
+                        <a href="https://accounts.zoho.com/signin" style="padding:10px 10px;"><span><i class="fa fa-sign-in"></i><span style="color:#000; ">Login</span></span></a>
+                     </div>
+                  </div>
+               </div>
+               <div class="navbar navbar-main middle-box-menu scroll-change mega-menu-fullwidth">
+                  <div class="container">
+                     <div class="navbar-header">
+                        <button type="button" class="navbar-toggle">
+                        <i class="fa fa-bars"></i>
+                        </button>
+                        <a class="navbar-brand" style="padding:0;margin:0;" href="index-1.html"><img src="images\jmv developers-logo.png" width="100" alt="logo"></a>
+                        <a class="navbar-brand">
+                           <div style="color:#EAAB00; font-size:24px; padding-top:15px; font-family: 'Dosis', sans-serif; letter-spacing:2px; text-align:left; font-weight:900;">
+                              JMV 
+                              <div style="font-size:16px;">DEVELOPERS</div>
+                           </div>
+                        </a>
+                     </div>
+                     <div class="collapse navbar-collapse" data-menu-anima="fade-in">
+                        <ul class="nav navbar-nav navbar-right">
+                           <li><a href="index-1.html">Home </a></li>
+                           <li><a href="about.html">About </a></li>
+                           <li class="dropdown">
+                              <a class="dropdown-toggle" data-toggle="dropdown" href="#">Projects <i class="caret"></i></a>
+                              <ul class="dropdown-menu multi-level">
+                                 <li><a href="harit-homes.html">Harit Homes</a></li>
+                                 <li><a href="green-view-farm.html">Green view Farm</a></li>
+                                 <li><a href="lakshya-project.html">Lakshya Aquapolis</a></li>
+                                 <li><a href="agricultural.html">Agricultural</a></li>
+                                 <li><a href="javascript:void(0);">Jan Awas Yojna</a></li>
+                              </ul>
+                           </li>
+                           <li><a href="career.html">Career</a></li>
+                           <li><a href="contact.html">Contact</a></li>
+                           <li><a href="news-and-feed.html">News and Feeds</a></li>
+                        </ul>
+                        <div class="nav navbar-nav  navbar-right">
+                        </div>
+                     </div>
+                  </div>
+               </div>
+            </nav>
+         </header>
+         <!--header End----------------->
+         <!---Main ------------>
+         <div class="footer-parallax-container">
+            <div class="header-title white ken-burn" data-parallax="scroll" data-position="top" data-image-src="images/title-10.jpg" data-natural-width="1366" data-natural-height="530">
+               <div class="container">
+                  <div class="title-base padt-2">
+                     <h1 class="letter-space-2">HARIT HOMES <span class="font-light lower-case">Residental Plots</span></h1>
+                     <hr class="anima">
+                     <p>JMV Developers Project</p>
+                  </div>
+               </div>
+            </div>
+            <div class="section-empty">
+               <div class="container content">
+                  <div class="row">
+                     <div class="col-md-8">
+                        <div class="title-base title-small text-left" data-anima="show-scale" data-trigger="hover">
+                           <h2 class="letter-space-2" style="max-width:100%;"><span class="lower-case">About</span> HARIT HOMES</h2>
+                           <hr class="anima">
+                        </div>
+                        <p>
+                           Harit Homes provides the opportunity to be the part of an already developing township with an existing customer base from various domains of society consisting of Government/Public Sector and MNC employees, Serving & Retired employees of central, state governments, Doctors, Teachers, Engineers, Chartered Accountants, Bank Employees, Armed forces, Self Employed etc.
+                           <br>
+                           <br>
+                           A combination of premium features and a “Great place to live” are the statements come true with Harit Homes Plots, the residential plots are bang on Yamuna Expressway with close proximity to racing track, upcoming cricket stadium and night safari. This is a life time opportunity comprised of idyllic and luxurious features in the plot sizes of 100, 150, 200 & 300 sq. yards. Harit Homes plots would form a gated community with 24x7 security and maintenance services that ensures no compromise either on luxury or on the peace of mind. Combining the best of old-world charm with new-age facilities, Harit Homes promises togetherness of like-minded individuals of the society. A great neighbourhood, easy accessibility, open spaces, round-the-clock maintenance and the freedom to build your dream-house is the essence of this development.
+                        </p>
+                     </div>
+                     <div class="col-md-4">
+                        <div class="title-base title-small text-left" data-anima="show-scale" data-trigger="hover">
+                           <h2>PROJECT DETAILS</h2>
+                           <hr class="anima">
+                        </div>
+                        <ul class="list-texts">
+                           <li><b>Location:</b> Near Yamuna Expressway </li>
+                           <li><b>Surface Area:</b> 133780 meter Sq</li>
+                           <li><b>Year Completed:</b>   march 2019</li>
+                           <li><b>Value:</b><i class="fa fa-inr" style="color:#000;" aria-hidden="true"></i> 826500000</li>
+                           <li><b>Architect:</b>   Jason & Perry</li>
+                           <br>
+                           <li>
+                              <b style="font-size:18px;">Harit Homes Brochures</b>
+                              <br><br><a class="btn btn-sm btn-default" href="download-file\HARITAAWASIYAYOJNA.pdf" download="Harit-Homes.pdf">
+                              <i class="fa fa-file-pdf-o"></i> Download PDF <span class="space"></span>
+                              <span class="space"></span>
+                              <i class="fa fa-download"></i></a>
+                           </li>
+                           <li><b style="font-size:18px;">Purchase Property Form</b>
+                              <br><br>
+                              <a class="lightbox btn btn-sm btn-default" href="#lb3" data-lightbox-anima="show-scale">
+                              Purchase Property
+                              </a>
+                           </li>
+                        </ul>
+                     </div>
+                  </div>
+               </div>
+            </div>
+            <div id="lb3" class="box-lightbox bg-color m white padding-25 ap-form">
+               <div class="slimScrollDiv" style="position: relative;overflow: hidden;width: auto;height: 75%;">
+                  <div class="scroll-content" data-height=".box-lightbox" style="overflow: hidden; width: auto; padding:0px; height:75%;">
+                     <div class="subtitle g text-center" style="background:#EAAB00; padding:30px;">
+                        <h3>Application Form</h3>
+                     </div>
+                     <div class="container-fluid" style="height:500px; overflow-y:scroll; background:#fcfcfc;">
+                        <form>
+                           <div class="form-group row ">
+                              <div class="col-md-2" style="padding:13px 0px;">
+                                 <label for="">Application Number</label>
+                              </div>
+                              <div class="col-md-4" style="padding:10px 10px 10px 10px;">
+                                 <input type="text" class="form-control" id="" placeholder="Application Number" required="">
+                              </div>
+                              <div class="col-md-6" style="padding:13px 0px;">
+                              </div>
+                           </div>
+                           <!---Sole /First Applicant------------->
+                           <h3 class="form-head">Sole/First Applicant </h3>
+                           <div class="form-group row ">
+                              <div class="col-md-2" style="padding:13px 0px;">
+                                 <label for="">Name(Mr./Ms./Mrs.) </label>
+                              </div>
+                              <div class="col-md-4" style="padding:10px 10px 10px 10px;">
+                                 <input type="text" class="form-control" id="" placeholder="First Name" required="">
+                              </div>
+                              <div class="col-md-4" style="padding:10px 10px 10px 10px;">
+                                 <input type="text" class="form-control" id="" placeholder="Last Name" required="">
+                              </div>
+                              <div class="col-md-2" style="padding:13px 0px;">
+                              </div>
+                           </div>
+                           <div class="form-group row ">
+                              <div class="col-md-2" style="padding:13px 0px;">
+                                 <label for="">Father's/Husband Name</label>
+                              </div>
+                              <div class="col-md-4" style="padding:10px 10px 10px 10px;">
+                                 <input type="text" class="form-control" id="" placeholder="First Name" required="">
+                              </div>
+                              <div class="col-md-4" style="padding:10px 10px 10px 10px;">
+                                 <input type="text" class="form-control" id="" placeholder="Last Name" required="">
+                              </div>
+                              <div class="col-md-2" style="padding:13px 0px;">
+                              </div>
+                           </div>
+                           <div class="form-group row ">
+                              <div class="col-md-2" style="padding:13px 0px;">
+                                 <label for="">Email Address</label>
+                              </div>
+                              <div class="col-md-4" style="padding:10px 10px 10px 10px;">
+                                 <input type="email" class="form-control" id="" placeholder="Enter Email Id" required="">
+                              </div>
+                              <div class="col-md-2" style="padding:13px 15px;">
+                                 <label for="">Phone Number</label>
+                              </div>
+                              <div class="col-md-4" style="padding:10px 10px 10px 10px;">
+                                 <input type="number" class="form-control" id="" placeholder="Enter Phone No" required="">
+                              </div>
+                           </div>
+                           <!---Sole/First Applicant End------------->
+                           <!---Sole /Second Applicant------------->
+                           <h3 class="form-head">Sole/Second Applicant</h3>
+                           <div class="form-group row ">
+                              <div class="col-md-2" style="padding:13px 0px;">
+                                 <label for="">Name(Mr./Ms./Mrs.)</label>
+                              </div>
+                              <div class="col-md-4" style="padding:10px 10px 10px 10px;">
+                                 <input type="text" class="form-control" id="" placeholder="First Name">
+                              </div>
+                              <div class="col-md-4" style="padding:10px 10px 10px 10px;">
+                                 <input type="text" class="form-control" id="" placeholder="Last Name">
+                              </div>
+                              <div class="col-md-2" style="padding:13px 0px;">
+                              </div>
+                           </div>
+                           <div class="form-group row ">
+                              <div class="col-md-2" style="padding:13px 0px;">
+                                 <label for="">Father's/Husband Name</label>
+                              </div>
+                              <div class="col-md-4" style="padding:10px 10px 10px 10px;">
+                                 <input type="text" class="form-control" id="" placeholder="First Name">
+                              </div>
+                              <div class="col-md-4" style="padding:10px 10px 10px 10px;">
+                                 <input type="text" class="form-control" id="" placeholder="Last Name">
+                              </div>
+                              <div class="col-md-2" style="padding:13px 0px;">
+                              </div>
+                           </div>
+                           <div class="form-group row ">
+                              <div class="col-md-2" style="padding:13px 0px;">
+                                 <label for="">Email Address</label>
+                              </div>
+                              <div class="col-md-4" style="padding:10px 10px 10px 10px;">
+                                 <input type="email" class="form-control" id="" placeholder="Enter Email Id">
+                              </div>
+                              <div class="col-md-2" style="padding:13px 15px;">
+                                 <label for="">Phone Number</label>
+                              </div>
+                              <div class="col-md-4" style="padding:10px 10px 10px 10px;">
+                                 <input type="number" class="form-control" id="" placeholder="Enter Phone No.">
+                              </div>
+                           </div>
+                           <!---Sole/second Applicant End------------->
+                           <style>
+                              /*.dot-form input{
+                              border:0px;
+                              width:40px;
+                              border-bottom:2px dotted #EAAB00;
+                              }
+                              .dot-form input:focus {
+                              border:0;
+                              border-bottom:2px dotted #EAAB00;
+                              }
+                           </style>
+                           <!----Acknowledge ment----------->
+                           <h3 class="form-head">Acknowledgement</h3>
+                           <br>
+                           <div class="form-group form-inline dot-form">
+                              <p><span>Sole/First Applicant's Name</span><span>
+                                 <input type="text" class="" id="" placeholder="Enter" required="">
+                                 </span>
+                                 <span>for the registration of the plot</span><span>
+                                 <input type="text" class="" id="" placeholder="Enter" required="">
+                                 </span>
+                                 <span>along with the earnest money of</span><span>
+                                 <input type="text" class="" id="" placeholder="Enter" required="">
+                                 </span>
+                                 <span>by</span>
+                                 <span>
+                                 <input type="text" class="" id="" placeholder="Enter" required="">
+                                 </span>
+                                 <span>datedin favour of</span>
+                                 <span>
+                                 <input type="text" class="" id="" placeholder="Enter" required="">
+                                 </span>
+                                 <span>payable at Delhi NCR.</span>
+                              </p>
+                           </div>
+                           <br>
+                           <h3 class="form-head">Nominee Detail</h3>
+                           <br>
+                           <div class="form-group row ">
+                              <div class="col-md-2" style="padding:13px 0px;">
+                                 <label for="">Name(Mr./Ms./Mrs.)</label>
+                              </div>
+                              <div class="col-md-4" style="padding:10px 10px 10px 10px;">
+                                 <input type="text" class="form-control" id="" placeholder="First Name" required="">
+                              </div>
+                              <div class="col-md-4" style="padding:10px 10px 10px 10px;">
+                                 <input type="text" class="form-control" id="" placeholder="Last Name" required="">
+                              </div>
+                              <div class="col-md-2" style="padding:13px 0px;">
+                              </div>
+                           </div>
+                           <div class="form-group row ">
+                              <div class="col-md-2" style="padding:13px 0px;">
+                                 <label for="">Age</label>
+                              </div>
+                              <div class="col-md-2" style="padding:10px 10px 10px 10px;">
+                                 <input type="text" class="form-control" id="" placeholder="Enter Age" required="">
+                              </div>
+                              <div class="col-md-2 " style="padding:24px 30px;">
+                                 <label for="">Relation</label>
+                              </div>
+                              <div class="col-md-4" style="padding:10px 10px 10px 10px;">
+                                 <input type="text" class="form-control" id="" placeholder="Enter Relation" required="">
+                              </div>
+                           </div>
+                           <center>
+                              <button class="btn btn-primary" type="submit">Submit form</button>
+                           </center>
+                        </form>
+                     </div>
+                  </div>
+               </div>
+            </div>
+            <!---Modal Form End------> 
+            <!---JEWAR AIRPORT START--------->      
+            <div class="section-bg-image box-middle-container overlay-container" style="background-image:linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4)), url(images/harit/JMV-harit-homes-jewar-air.jpeg);">
+               <div class="bg-overlay dotted"></div>
+               <div class="container content overlay-content box-middle white text-center">
+                  <hr class="space">
+                  <h1 class="text-l font-size-42 pt-0">Jewar Airport</h1>
+                  <hr class="e">
+                  <br><br>
+                  <p class="font-size-16 letter-space-1">
+                     The Jewar International Airport is a upcoming international airport to be constructed in Jewar
+                     (55 minutes from South Delhi) in Gautam Budh Nagar district of Uttar Pradesh. It is well
+                     connected with cities Delhi, Agra, Bulandshahr, Greater Noida, Aligarh and Palwal. In May
+                     2017, the airport was granted approval by the union government cabinet as the second airport
+                     for the NCR. The construction of Airport will start from October 2017 and the first 2 runways
+                     will be ready by year 2022.
+                  </p>
+                  <hr class="space">
+                  <hr class="space">
+               </div>
+            </div>
+            <div class="container content">
+               <div class="text-center">
+                  <h2>Media Report of Jewar Airport</h2>
+                  <p>Media report from some of the
+                     leading national news papers of the country. 
+                  </p>
+               </div>
+               <br>
+               <div class="container-fluid grid-list gallery thumb-xs">
+                  <div class="grid-box row" data-lightbox-anima="show-scale">
+                     <div class="grid-item col-md-4">
+                        <a class="img-box thumbnail " href="images\harit\jewar-airport-news1.png">
+                        <span><img alt="" src="images\harit\jewar-airport-news1.png"></span>
+                        </a>
+                     </div>
+                     <div class="grid-item col-md-4">
+                        <a class="img-box thumbnail mfp-iframe" href="images\harit\jewar-airport-news2.png">
+                        <span><img alt="" src="images\harit\jewar-airport-news2.png"></span>
+                        </a>
+                     </div>
+                     <div class="grid-item col-md-4">
+                        <a class="img-box thumbnail" href="images\harit\jewar-airport-news3.png">
+                        <span><img alt="" src="images\harit\jewar-airport-news3.png"></span>
+                        </a>
+                     </div>
+                  </div>
+               </div>
+            </div>
+            <!--Jewar Airport END------------------->
+            <!--Yamuna Expressway Start---------->
+            <div class="container-fluid " style="background:#f9fdff">
+               <div class="container content">
+                  <div class="letter-space-2">
+                     <h1 class="float-left">YAMUNA EXPRESSWAY</h1>
+                  </div>
+                  <p class=" float-left ">
+                     “With world-class infrastructural projects lined up along the developing zones of Yamuna Expressway, realty projects here are looking good for long-term assured returns.”
+                     <br>
+                     <b>TIMES OF INDIA </b>
+                  </p>
+                  <div class="row mt-5">
+                     <div class="col-md-4">
+                        <br>
+                        <br>
+                        <br>
+                        <img src="images\harit\yumna-exp.jpeg">
+                     </div>
+                     <div class="col-md-8">
+                        <h3 style="padding-left:22px;">Entertainment and Tourist attractions</h3>
+                        <ul style="line-height:23px;">
+                           <li>F1 Racing Track spread across 874 acres with 1,000 crore investment.
+                           </li>
+                           <li>Jaypee Sports City with cricket stadium, tennis-court complex, swimming pools and multiple purpose indoor stadium.</li>
+                           <li> Greater Noida International Cricket Stadium with seating capacity of 1,00,000 spectators.</li>
+                           <li> Indian Exposition Centre designed for hosting world class exhibitions and events. 5000 guest capacity. Recently hosted 12th International Auto Expo 2014.</li>
+                           <li>Great Adventure Mall with entertainment avenues like Helicopter joyride, Artificial beach, Reverse bungee jumping, Wax Museum, 5D theatre etc.</li>
+                           <li>Heliport at strategically located Knowledge Park II.</li>
+                           <li>Special Economic Zones IT Tech Zone spread across 650 acres with 15 divided plots among Wipro ( 100 acres), NIIT (25 acres), Stellar (10 acres), Unitech (50 acres), Ansals (75 acres) HCL, Globus Business Park, Great Adventure Mall, World Trade Park, Infosys etc.</li>
+                        </ul>
+                     </div>
+                  </div>
+                  <hr class="space">
+                  <div class="row ">
+                     <div class="col-md-8">
+                        <h3 style="padding-left:22px;">Government Developments</h3>
+                        <ul style="line-height:23px;">
+                           <li>
+                              5 townships planned by YEA (Yamuna Expressway Industrial Development Authority) along Expressway.
+                           </li>
+                           <li>
+                              YEIDA developing 1,300 MLD of water plant over 50,000 hectares.
+                           </li>
+                           <li>
+                              Yamuna Power Corporation Ltd. to generate 2,000 MW units of electricity. In addition 765 KVA has been planned on 75 acres at Village Jahangirpur.
+                           </li>
+                           <li>
+                              Gas based power plant in works to improve the electricity availability to Residential, Commercial, Industrial, Institutional and Entertainment Zones.
+                           </li>
+                           <li>
+                              YEA developing four water treatment plants & six sewerage treatment plants along Expressway.
+                           </li>
+                           <li>
+                              According to YEA the urban city across the Yamuna Expressway will be 10 times bigger than Noida.
+                           </li>
+                           <li>
+                              YEIDA allots 455 acres to Yog Guru Ramdev’s Patanjali Ayurved to setup mega herbal & food park near F1 Race track. Patanjali Ayurved is planning to invest more then `1600 crore in the area and would proivde direct employment to at least 10,000, while indirect employment to about 75,000.
+                           </li>
+                        </ul>
+                     </div>
+                     <div class="col-md-4">
+                        <br>
+                        <br>
+                        <br>
+                        <img src="images\harit\yumna-exp.jpeg">
+                     </div>
+                  </div>
+                  <hr class="space">
+                  <div class="row">
+                     <div class="col-md-4">
+                        <h4 style="padding-left:22px;">REAL ESTATE BRAND PRESENCE</h4>
+                        <ul>
+                           <li>
+                              Jaypee Group
+                           </li>
+                           <li>
+                              Gaursons
+                           </li>
+                           <li>
+                              SDS NRI City
+                           </li>
+                           <li>
+                              Supertech
+                           </li>
+                           <li>
+                              Ajnara India
+                           </li>
+                           <li>
+                              Shubhkamna
+                           </li>
+                           <li>
+                              ATS
+                           </li>
+                           <li>
+                              AMR
+                           </li>
+                        </ul>
+                     </div>
+                     <div class="col-md-4">
+                        <h4 style="padding-left:22px;">INSITUTIONS</h4>
+                        <ul>
+                           <li>
+                              Gautam Buddha University
+                           </li>
+                           <li>
+                              Noida International University
+                           </li>
+                           <li>
+                              Galgotia University
+                           </li>
+                           <li>
+                              Sharda University
+                           </li>
+                           <li>
+                              Six International Universities
+                           </li>
+                           <li>
+                              Ten Engineering Colleges proposed by YEA.
+                           </li>
+                        </ul>
+                     </div>
+                     <div class="col-md-4">
+                        <h4 style="padding-left:22px;">INSITUTIONS</h4>
+                        <ul>
+                           <li>
+                              Taj Special Economic Zone.
+                           </li>
+                           <li>
+                              Yamuna Expressway Industrial Development Zone.
+                           </li>
+                        </ul>
+                     </div>
+                  </div>
+               </div>
+            </div>
+            <!--Yamuna Expressway End---------->
+            <!--<div class="container-fluid">
+               <div class=" container content">
+                  <h2 class="letter-space-2 text-center">FACILITES AND AMENTIES</h2>
+                  <p class="text-center font-size-16">Pursuit of excellence provide successful solutions</p>
+                  </div>
+                  </div>-->
+            <!-------------FACILITES and Amenties start-------------->
+            <div class="section-empty">
+               <div class="container content">
+                  <h2 class="letter-space-2 text-center">FACILITES AND AMENTIES</h2>
+                  <p class="text-center font-size-16">Pursuit of excellence provide successful solutions</p>
+                  <hr class="space">
+                  <div class="row" data-anima="fade-bottom" data-timeline="asc">
+                     <div class="col-md-4 anima">
+                        <div class="advs-box advs-box-side-icon" data-anima="scale-up" data-trigger="hover">
+                           <div class="icon-box">
+                              <i class="anima icon onlycover text-l" style="background-image:url(images/harit/facilities-1.png)"></i>
+                           </div>
+                           <div class="caption-box">
+                              <h3>STREET LIGHT</h3>
+                              <p>
+                                 Energy efficient white bright LED street light is installed everywhere in all socities with all new elegant style. 
+                              </p>
+                           </div>
+                        </div>
+                     </div>
+                     <div class="col-md-4 anima">
+                        <div class="advs-box advs-box-side-icon" data-anima="scale-up" data-trigger="hover">
+                           <div class="icon-box">
+                              <i class="anima icon onlycover text-l" style="background-image:url(images/harit/facilities-2.png)"></i>
+                           </div>
+                           <div class="caption-box">
+                              <h3>WIDES ROADS</h3>
+                              <p>
+                                 The Road Transport and Highways department is building the Delhi-Meerut Expressway,
+                                 which will include a six-lane stretch joining Meerut bypass.           
+                              </p>
+                           </div>
+                        </div>
+                     </div>
+                     <div class="col-md-4 anima">
+                        <div class="advs-box advs-box-side-icon" data-anima="scale-up" data-trigger="hover">
+                           <div class="icon-box">
+                              <i class="anima icon onlycover text-l" style="background-image:url(images/harit/facilities-3.png)"></i>
+                           </div>
+                           <div class="caption-box">
+                              <h3>24 x 7 SECURITY</h3>
+                              <p>
+                                 The latest and most high-end residential projects with advanced technologies to ensure the safety of residents.
+                              </p>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+                  <hr class="space">
+                  <div class="row" data-anima="fade-bottom" data-timeline="asc">
+                     <div class="col-md-4 anima">
+                        <div class="advs-box advs-box-side-icon" data-anima="scale-up" data-trigger="hover">
+                           <div class="icon-box">
+                              <i class="anima icon onlycover text-l" style="background-image:url(images/harit/facilities-4.png)"></i>
+                           </div>
+                           <div class="caption-box">
+                              <h3>PARKS</h3>
+                              <p>
+                                 Many equipments includes in the playground such as the seesaw, slide, spring rider, 
+                                 which help children develop physical coordination, strength, and flexibility,
+                              </p>
+                           </div>
+                        </div>
+                     </div>
+                     <div class="col-md-4 anima">
+                        <div class="advs-box advs-box-side-icon" data-anima="scale-up" data-trigger="hover">
+                           <div class="icon-box">
+                              <i class="anima icon onlycover text-l" style="background-image:url(images/harit/facilities-5.png)"></i>
+                           </div>
+                           <div class="caption-box">
+                              <h3>WATER SUPPLY</h3>
+                              <p>
+                                 Water scarcity is becoming more prevalent in metropolitan cities. 
+                                 You can avoid future hassles by checking if there is 24/7 water supply in the apartment block.
+                              </p>
+                           </div>
+                        </div>
+                     </div>
+                     <div class="col-md-4 anima">
+                        <div class="advs-box advs-box-side-icon" data-anima="scale-up" data-trigger="hover">
+                           <div class="icon-box">
+                              <i class="anima icon onlycover text-l" style="background-image:url(images/harit/facilities-6.png)"></i>
+                           </div>
+                           <div class="caption-box">
+                              <h3>GATED AND WALLED SOCIETY</h3>
+                              <p>
+                                 The flat is located in a gated society and offers good security. 
+                                 It offers a number of important facilities like park, visitor parking, water storage,etc.
+                              </p>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+                  <hr class="space">
+                  <div class="row" data-anima="fade-bottom" data-timeline="asc">
+                     <div class="col-md-4 anima">
+                        <div class="advs-box advs-box-side-icon" data-anima="scale-up" data-trigger="hover">
+                           <div class="icon-box">
+                              <i class="anima icon onlycover text-l" style="background-image:url(images/harit/facilities-7.png)"></i>
+                           </div>
+                           <div class="caption-box">
+                              <h3>COMERCIAL COMPLEX</h3>
+                              <p>
+                                 We have developed the product Loan for Commercial Property Purchase with an objective of 
+                                 facilitating the purchase of readily built/ re-sold building units for commercial purpose.
+                              </p>
+                           </div>
+                        </div>
+                     </div>
+                     <div class="col-md-4 anima">
+                        <div class="advs-box advs-box-side-icon" data-anima="scale-up" data-trigger="hover">
+                           <div class="icon-box">
+                              <i class="anima icon onlycover text-l" style="background-image:url(images/harit/facilities-8.png)"></i>
+                           </div>
+                           <div class="caption-box">
+                              <h3>DRAINAGE SYSTEM</h3>
+                              <p>
+                                 We provide drainage inspections for home buyers for fee of $350.00.
+                                 Our Real Estate Drainage Inspections will let you know the exact condition of the ground water drainage 
+                                 system in the property you wish to purchase.
+                              </p>
+                           </div>
+                        </div>
+                     </div>
+                     <div class="col-md-4 anima">
+                        <div class="advs-box advs-box-side-icon" data-anima="scale-up" data-trigger="hover">
+                           <div class="icon-box">
+                              <i class="anima icon onlycover text-l" style="background-image:url(images/harit/facilities-9.png)"></i>
+                           </div>
+                           <div class="caption-box">
+                              <h3>COMMUNITY CENTER</h3>
+                              <p>
+                                 Our top-rated real estate agents in Community Center are local experts and are ready to answer your questions 
+                                 about properties, neighborhoods, schools, and the newest listings for sale in Community Center.
+                              </p>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+            </div>
+            <!--------------facilities and amenties End---------->
+            <!--------------unit plot start---------->
+            <div class="container-fluid content" style="background:#f7f7f7;">
+               <div class="container">
+                  <h2 class="letter-space-2 text-center">
+                     <br><br>
+                     UNITS
+                     <hr class="e">
+                  </h2>
+                  <p class="text-center font-size-16">Plots Size</p>
+                  <hr class="space">
+                  <div class="flexslider carousel white">
+                     <ul class="slides">
+                        <li>
+                           <a class="img-box  lightbox" href="images\harit\unit-1.png" data-lightbox-anima="show-scale">
+                           <img alt="" src="images\harit\unit-1.png">
+                           </a>
+                        </li>
+                        <li>
+                           <a class="img-box  lightbox" href="images\harit\unit-2.png" data-lightbox-anima="show-scale">
+                           <img alt="" src="images\harit\unit-2.png">
+                           </a>
+                        </li>
+                        <li>
+                           <a class="img-box lightbox" href="images\harit\unit-3.png" data-lightbox-anima="show-scale">
+                           <img alt="" src="images\harit\unit-3.png">
+                           </a>
+                        </li>
+                        <li>
+                           <a class="img-box  lightbox" href="images\harit\unit-4.png" data-lightbox-anima="show-scale">
+                           <img alt="" src="images\harit\unit-4.png">
+                           </a>
+                        </li>
+                        <li>
+                           <a class="img-box  lightbox" href="images\harit\unit-5.png" data-lightbox-anima="show-scale">
+                           <img alt="" src="images\harit\unit-5.png">
+                           </a>
+                        </li>
+                        <li>
+                           <a class="img-box  lightbox" href="images\harit\unit-6.png" data-lightbox-anima="show-scale">
+                           <img alt="" src="images\harit\unit-6.png">
+                           </a>
+                        </li>
+                     </ul>
+                  </div>
+                  <hr class="space">
+               </div>
+            </div>
+            <!----UNIT PLOT END------------------->
+            <!---Actual Images Start--------------->
+            <!-----Gallery Start-------------->
+            <div class="container content">
+               <h2 class="text-center">Actual Sites Image</h2>
+               <p class="text-center">Some of the actual site photographs</p>
+               <hr class="space m">
+               <div class="maso-list maso-layout gallery">
+                  <div class="maso-box row" data-lightbox-anima="show-scale">
+                     <div class="maso-item col-md-4 filter-1">
+                        <a class="img-box i-center" href="images\harit\JMV-harit-homes.jpeg" data-anima="show-scale" data-trigger="hover" data-anima-out="hide">
+                        <i class="fa fa-camera anima"></i>
+                        <img alt="" src="images\harit\JMV-harit-homes.jpeg">
+                        </a>
+                     </div>
+                     <div class="maso-item col-md-4 filter-2">
+                        <a class="img-box  i-center" href="images\harit\actual\harit-actual1.jpeg" data-anima="show-scale" data-trigger="hover" data-anima-out="hide">
+                        <i class="fa fa-camera anima"></i>
+                        <img alt="" src="images\harit\actual\harit-actual1.jpeg">
+                        </a>
+                     </div>
+                     <div class="maso-item col-md-4 filter-1 filter-2">
+                        <a class="img-box i-center" href="images\harit\actual\actual2.jpeg" data-anima="show-scale" data-trigger="hover" data-anima-out="hide">
+                        <i class="fa fa-camera anima"></i>
+                        <img alt="" src="images\harit\actual\actual2.jpeg">
+                        </a>
+                     </div>
+                     <div class="maso-item col-md-4 filter-2">
+                        <a class="img-box i-center" href="images\harit\actual\actual3.jpeg" data-anima="show-scale" data-trigger="hover" data-anima-out="hide">
+                        <i class="fa fa-camera anima"></i>
+                        <img alt="" src="images\harit\actual\actual3.jpeg">
+                        </a>
+                     </div>
+                     <div class="maso-item col-md-4 filter-1 filter-2">
+                        <a class="img-box i-center" href="images\harit\actual\actual4.jpeg" data-anima="show-scale" data-trigger="hover" data-anima-out="hide">
+                        <i class="fa fa-camera anima"></i>
+                        <img alt="" src="images\harit\actual\actual4.jpeg">
+                        </a>
+                     </div>
+                     <div class="maso-item col-md-4 filter-2">
+                        <a class="img-box i-center" href="images\harit\actual\actual5.jpeg" data-anima="show-scale" data-trigger="hover" data-anima-out="hide">
+                        <i class="fa fa-camera anima"></i>
+                        <img alt="" src="images\harit\actual\actual5.jpeg">
+                        </a>
+                     </div>
+                     <div class="maso-item col-md-4 filter-2">
+                        <a class="img-box mfp-iframe i-center" href="images\harit\actual\actual6.jpeg" data-anima="show-scale" data-trigger="hover" data-anima-out="hide">
+                        <i class="fa fa-film anima"></i>
+                        <img alt="" src="images\harit\actual\actual6.jpeg">
+                        </a>
+                     </div>
+                     <div class="maso-item col-md-4 filter-1 filter-2">
+                        <a class="img-box i-center" href="images\harit\actual\actual7.jpeg" data-anima="show-scale" data-trigger="hover" data-anima-out="hide">
+                        <i class="fa fa-camera anima"></i>
+                        <img alt="" src="images\harit\actual\actual7.jpeg">
+                        </a>
+                     </div>
+                     <div class="maso-item col-md-4 filter-1">
+                        <a class="img-box i-center" href="images/harit/actual/actual8.jpg" data-anima="show-scale" data-trigger="hover" data-anima-out="hide">
+                        <i class="fa fa-camera anima"></i>
+                        <img alt="" src="images/harit/actual/actual8.jpg">
+                        </a>
+                     </div>
+                     <div class="maso-item col-md-4 filter-1">
+                        <a class="img-box i-center" href="images\harit\actual\actual9.jpeg" data-anima="show-scale" data-trigger="hover" data-anima-out="hide">
+                        <i class="fa fa-camera anima"></i>
+                        <img alt="" src="imagesharit/actual/actual9.jpg">
+                        </a>
+                     </div>
+                  </div>
+                  <div class="list-nav">
+                     <a href="#" class="circle-button btn btn-sm load-more-maso" data-pagination-anima="fade-bottom" data-page-items="7">
+                     Load More
+                     <i class="fa fa-arrow-down"></i>
+                     </a>
+                  </div>
+               </div>
+            </div>
+            <!---------Actual images End---------->
+            <!---Location------------------>
+            <div class="container-fluid" style="background-size:cover; background:#fff; ">
+               <div class="container content">
+                  <h1 class="letter-space-2">LOCATION MAP</h1>
+                  <hr class="space">
+                  <img src='images\harit\location.png' width="100%">
+                  <hr class="space">
+               </div>
+            </div>
+            <!--Location------------------>
+         </div>
+         <!--Location------------------>
+         <script src='scripts\parallax.min.js'></script>
+         <link property="" rel="stylesheet" href="scripts\font-awesome\css\font-awesome.min.css">
+         <script async="" src="scripts\bootstrap\js\bootstrap.min.js"></script>
+         <script src="scripts\imagesloaded.min.js"></script>
+         <script src='scripts\flexslider\jquery.flexslider-min.js'></script>
+         <script src='scripts\jquery.tab-accordion.js'></script>
+         <script src='scripts\smooth.scroll.min.js'></script>
+         <script src='scripts\jquery.magnific-popup.min.js'></script>
+         <script src='scripts\isotope.min.js'></script>
+         <script src='scripts\parallax.min.js'></script>
+         <div id="footer"></div>
+         <!--- Float button=-->
+         <div class="float-msg">
+            <a href="#" id="show-form" class="float">
+               <!--<i class="fa fa-envelope my-float"></i>-->
+               <p>Enquire Now / Book sites</p>
+            </a>
+         </div>
+         <!----float button-->
+         <!---Float-----form----->
+         <div class="float-form">
+            <div id="form">
+               <p id="feedback_button">Feedback</p>
+               <div class="tab-box" data-tab-anima="show-scale">
+                  <ul class="nav nav-tabs nav-justified">
+                     <li class="active"><a href="#">Enquire Now</a></li>
+                     <li><a href="#">Book site</a></li>
+                  </ul>
+                  <div class="panel active">
+                     <form action="" class="myform">
+                        <div class="form-inner">
+                           <div class="form-group">
+                              <label for="usr">Name:</label>
+                              <input type="text" class="form-control" id="usr">
+                           </div>
+                           <div class="form-group">
+                              <label>Select Location:</label>
+                              <select class="form-control">
+                                 <option>Gurugram</option>
+                                 <option>Noida</option>
+                                 <option>Ghaziabad</option>
+                                 <option>Jaipur</option>
+                              </select>
+                           </div>
+                           <div class="form-group">
+                              <label for="usr">Email:</label>
+                              <input type="email" class="form-control">
+                           </div>
+                           <!-- <textarea id="feedback"  class="text_field" placeholder="Feedback"></textarea>
+                              -->
+                           <div class="form-group">
+                              <label for="usr">Phone:</label>
+                              <input type="text" class="form-control">
+                           </div>
+                           <input type="submit" id="submit_feedback" values="Submit">
+                        </div>
+                     </form>
+                  </div>
+                  <div class="panel">
+                     <form action="">
+                        <div class="form-inner">
+                           <div class="form-group">
+                              <label for="usr">Name:</label>
+                              <input type="text" class="form-control" id="usr">
+                           </div>
+                           <div class="form-group">
+                              <label>Select Location:</label>
+                              <select class="form-control">
+                                 <option>Gurugram</option>
+                                 <option>Noida</option>
+                                 <option>Ghaziabad</option>
+                                 <option>Jaipur</option>
+                              </select>
+                           </div>
+                           <div class="form-group">
+                              <label for="usr">Email:</label>
+                              <input type="email" class="form-control">
+                           </div>
+                           <!-- <textarea id="feedback"  class="text_field" placeholder="Feedback"></textarea>
+                              -->
+                           <div class="form-group">
+                              <label for="usr">Phone:</label>
+                              <input type="text" class="form-control">
+                           </div>
+                           <input type="submit" id="submit_feedback" values="Submit">
+                        </div>
+                     </form>
+                  </div>
+               </div>
+            </div>
+         </div>
+         <script type="text/javascript">
+            $(document).ready(function(){
+            $('#form,.myform').css('display','none');
+            
+            $('#show-form').click(function(){
+            
+             $("#form,.myform").animate({
+                    
+                            width: "toggle"
+                        });
+            
+            });
+            });
+         </script>
+         <script>
+            jQuery(document).ready(function( $ ) {
+            $(window).scroll(function() {
+               if ($(this).scrollTop() > 40) {
+                 $('.scroll-change').addClass('sh');
+               } else {
+                 $('.scroll-change').removeClass('sh');
+               }
+             });
+             });
+             $(function(){
+             $("#header").load("header.html"); 
+             $("#footer").load("footer.html"); 
+             //pop on load
+            $("#pop_out").trigger('click');
+            
+            });
+         </script>
+      </body>
+   </html>

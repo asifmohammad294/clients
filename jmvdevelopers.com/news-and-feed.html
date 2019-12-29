@@ -1,0 +1,565 @@
+﻿<!DOCTYPE html>
+<!--[if lt IE 10]> 
+<html  lang="en" class="iex">
+   <![endif]-->
+   <!--[if (gt IE 10)|!(IE)]><!-->
+   <html lang="en">
+      <!--<![endif]-->
+      <head>
+         <!-- Global site tag (gtag.js) - Google Analytics -->
+         <script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-118261268-2"></script>
+         <script>
+           window.dataLayer = window.dataLayer || [];
+           function gtag(){dataLayer.push(arguments);}
+           gtag('js', new Date());
+
+           gtag('config', 'UA-118261268-2');
+         </script>
+         <meta charset="utf-8">
+         <meta http-equiv="X-UA-Compatible" content="IE=edge">
+         <meta name="viewport" content="width=device-width, initial-scale=1">
+         <title>News and Feeds | JMV Developers </title>
+         <meta name="description" content="">
+         <meta name="keywords" content="JMV Developers,real estate jmvdevelopers, Real Estate delhi NCR, Real Estate in Ghaziabad,JMV DEVELOPERS in Ghaziabad, Jewar Airport Property,real estate dealer in delhi ncr,jmvdevelopers in ghaziabad, ghaziabad property dealer, Propert dealer in Ghaziabad">
+         <script src="scripts\jquery.min.js"></script>
+         <link rel="stylesheet" href="css\bootstrap\css\bootstrap.css">
+         <script src="scripts\script.js"></script>
+         <link rel="stylesheet" href="css\style.css">
+         <link rel="stylesheet" href="css\content-box.css">
+         <link rel="stylesheet" href="css\components.css">
+         <link rel="stylesheet" href="css\animations.css">
+         <link rel="stylesheet" href="css\image-box.css">
+         <link rel="stylesheet" href='css\flexslider\flexslider.css'>
+         <link rel="icon" href="images\jmv developers-logo.png">
+         <link rel="stylesheet" href="css\skin.css">
+         <link rel="stylesheet" href='css\magnific-popup.css'>
+         <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
+         <link rel="stylesheet" href="css\custom.css">
+         <link href="https://fonts.googleapis.com/css?family=Arimo" rel="stylesheet">
+         <link rel="stylesheet" href="scripts\font-awesome\css\font-awesome.min.css">
+         <link href="https://fonts.googleapis.com/css?family=Dosis:400,600,700|Lobster|Open+Sans" rel="stylesheet">
+         <link href="https://fonts.googleapis.com/css?family=Dosis:400,600,700|Lobster|Open+Sans:400,500,600,700" rel="stylesheet">
+         <style>
+            .font-light{
+            font-weight:lighter;
+            }
+            .letter-space-2 {
+            letter-spacing:2px;
+            }
+            .lower-case{
+            text-transform:none;
+            }
+            .section-bg-image{
+            background-attachment:fixed ;
+            min-height:450px;
+            }
+            .font-size-42{
+            font-size:42px  !important;
+            }
+            .font-size-16{
+            font-size:16px  !important;
+            font-family: 'Open Sans', sans-serif;
+            }
+            .letter-space-1{
+            letter-spacing:1px;
+            }
+            /*-----Float form------------*/
+            .float-msg{
+            position:absolute;
+            z-index:9;
+            }
+            .float .fa {
+            color:white;
+            font-size:14px;
+            text-align:center;
+            }
+            .float p {
+            color:white;
+            padding:6px;
+            text-align:center;
+            }
+            .float a:active{
+            background:#EAAB00;
+            }
+            .float{
+            position:fixed;
+            width:80px;
+            height:80px;
+            bottom:30%;
+            right:0px;
+            background-color:#EAAB00;
+            color:#FFF;
+            border-rdius:0px;
+            text-align:center;
+            box-shadow: 0px 0px 60px 0px rgba(0,0,0,0.4);
+            }
+            .my-float{
+            margin-top:22px;
+            }
+            .float-form {
+            position:fixed;
+            z-index:9;
+            }
+            #form
+            {
+            position: fixed;
+            bottom: 0px;
+            float:right;
+            right:140px;
+            width:320px;
+            bottom:30px;
+            border:2px solid #EAAB00;
+            padding:0px;
+            background:#fff;
+            box-shadow:0 130px 160px 140px rgba(0,0,0,0.04); 
+            visibility: visible;
+            /*-webkit-animation: slide 0.5s forwards;
+            -webkit-animation-delay: 2s;
+            animation: slide 0.5s forwards;
+            animation-delay: 2s;*/
+            }
+            /*
+            @-webkit-keyframes slide {
+            100% { left: 0; }
+            }
+            @keyframes slide {
+            100% { left: 0; }
+            }
+            */
+            .nav-tabs a{
+            background-color:#EAAB00;
+            }
+            #form::after
+            {
+            content: "";
+            position: absolute;
+            top: 50%;
+            right:-50px;
+            margin-left: 78px;
+            border-width: 25px;
+            border-style: solid;
+            border-color: transparent transparent transparent #EAAB00;
+            }
+            #form p
+            {
+            margin:0px;
+            margi-bottom:10px;
+            background-color:#EAAB00;
+            text-align:center;
+            color:#fff;
+            padding:20px;
+            font-size:20px;
+            letter-spacing:2px;
+            mrgin-left:20px;
+            mrgin-right:20px;
+            cursor:pointer;
+            }
+            form
+            {
+            padding:1rem 1rem;
+            display:none;
+            }
+            input[type="text"]
+            {
+            font-family: "Roboto", sans-serif;
+            outline: 0;
+            background: #f2f2f2;
+            width: 100%;
+            height:28px;
+            border: 0;
+            margin: 0 0 15px;
+            padding: 15px;
+            box-sizing: border-box;
+            font-size: 14px;
+            letter-spacing:1px;
+            }
+            .form-control{
+            background: #f2f2f2 !important;
+            border-bottom: 1px solid #f2f2f2;
+            color:#EAAB00 !important;
+            }
+            .form-control:focus{
+            border-color:#EAAB00;
+            color:#EAAB00 !important;
+            }
+            select {
+            font-family: "Roboto", sans-serif;
+            outline: 0;
+            background: #f2f2f2 !important;
+            width: 100%;
+            height:28px;
+            border: 0;
+            margin: 0 0 15px;
+            padding: 15px;
+            box-sizing: border-box;
+            font-size: 14px;
+            letter-spacing:1px;
+            }
+            input:focus, textarea:focus {
+            border:1px solid #EAAB00;
+            outline:none;
+            color:#EAAB00;
+            }
+            text_field:focus {
+            outline: none !important;
+            border-color: #fd784f;
+            }
+            textarea
+            {
+            width:100%;
+            margin-left:15px;
+            border: 0;
+            margin: 0 0 15px;
+            padding: 15px;
+            box-sizing: border-box;
+            background: #f2f2f2;
+            font-size: 14px;
+            font-family:helvetica;
+            }
+            #submit_feedback
+            {
+            width:120px;
+            text-align:center;
+            margin-left:75px;
+            background-color:#EAAB00;
+            border:none;
+            color:white;
+            height:35px;
+            font-size:18px;
+            margin-top:10px;
+            margin-bottom:0px;
+            border-radius:5px;
+            }       
+            .orm-inner{
+            padding:0px;
+            }       
+            .mfp-container{
+            cursor: default !important;
+            }       
+            .mfp-container.active .mfp-close{
+            cursor: pointer !important;
+            }   
+            .news_link a{
+            	font-weight: bold;
+            }
+            .news_link a:hover{
+            	color: #EAAB03;
+            }
+         </style>
+      </head>
+      <body>
+         <div id="preloader"></div>
+         <div class="outer-box">
+         <!--header---------------->
+         <header>
+            <nav class="navbar navbar-default navbar-fixed-top over">
+              
+               <div class="navbar-mini scroll-hide scroll-show-mobile">
+                  <div class="container">
+                     <div class="nav navbar-nav navbar-left">
+                        <span><i class="fa fa-phone"></i>012-02841500</span>
+                        <hr>
+                        <span><i class="fa fa-envelope-o"></i>info@jmvdevelopers.com</span>
+                     </div>
+                     <div class="nav navbar-nav navbar-right">
+                        <div class="minisocial-group">
+                           <a target="_blank" href="https://www.facebook.com/Jmv-Developers-400467110434254/?modal=admin_todo_tour"><i class="fa fa-facebook first"></i></a>
+                           <a target="_blank" href="https://twitter.com/DevelopersJmv"><i class="fa fa-twitter"></i></a>
+                           <a target="_blank" href="https://www.instagram.com/jmvdevelopers/"><i class="fa fa-instagram"></i></a>
+                        </div>
+                        <a href="https://accounts.zoho.com/signin" style="padding:10px 10px;"><span><i class="fa fa-sign-in"></i><span style="color:#000; ">Login</span></span></a>
+                     </div>
+                  </div>
+               </div>
+               <div class="navbar navbar-main middle-box-menu scroll-change mega-menu-fullwidth">
+                  <div class="container">
+                     <div class="navbar-header">
+                        <button type="button" class="navbar-toggle">
+                        <i class="fa fa-bars"></i>
+                        </button>
+                        <a class="navbar-brand" style="padding:0;margin:0;" href="index-1.html"><img src="images\jmv developers-logo.png" width="100" alt="logo"></a>
+                        <a class="navbar-brand" href="index-1.html">
+                           <div style="color:#EAAB00; font-size:24px; padding-top:15px; font-family: 'Dosis', sans-serif; letter-spacing:2px; text-align:left; font-weight:900;">
+                              JMV 
+                              <div style="font-size:16px;">DEVELOPERS</div>
+                           </div>
+                        </a>
+                     </div>
+                     <div class="collapse navbar-collapse" data-menu-anima="fade-in">
+                        <ul class="nav navbar-nav navbar-right">
+                           <li><a href="index-1.html">Home </a></li>
+                           <li><a href="about.html">About </a></li>
+                           <li class="dropdown">
+                              <a class="dropdown-toggle" data-toggle="dropdown" href="#">Projects <i class="caret"></i></a>
+                              <ul class="dropdown-menu multi-level">
+                                 <li><a href="harit-homes.html">Harit Homes</a></li>
+                                 <li><a href="green-view-farm.html">Green view Farm</a></li>
+                                 <li><a href="lakshya-project.html">Lakshya Aquapolis</a></li>
+                                 <li><a href="agricultural.html">Agricultural</a></li>
+                                 <li><a href="javascript:void(0);">Jan Awas Yojna</a></li>
+                              </ul>
+                           </li>
+                           <li><a href="career.html">Career</a></li>
+                           <li><a href="contact.html">Contact</a></li>
+                           <li><a href="news-and-feed.html">News and Feeds</a></li>
+                        </ul>
+                        <div class="nav navbar-nav  navbar-right">
+                        </div>
+                     </div>
+                  </div>
+               </div>
+            </nav>
+         </header>
+         <!--header End----------------->
+         <!---Main ------------>
+         <div class="footer-parallax-container">
+            <div class="header-title white ken-burn" data-parallax="scroll" data-position="top" data-image-src="images/title-10.jpg" data-natural-width="1366" data-natural-height="530">
+               <div class="container">
+                  <div class="title-base padt-2">
+                     <h1 class="letter-space-2">News And Feeds</h1>
+                     <hr class="anima">
+                     <p>JMV Developers </p>
+                  </div>
+               </div>
+            </div>
+            <div class="section-bg-color">
+               <div class="container content">
+                  <div class="grid-list columns-list">
+                     <div class="grid-box row">
+                        <div class="grid-item col-md-4 ">
+                           <div class="advs-box advs-box-top-icon-img niche-box-post boxed-inverse" data-anima="scale-rotate" data-trigger="hover">
+                              <a href="https://timesofindia.indiatimes.com/city/noida/yamuna-e-way-to-expand-to-8-lanes-for-jewar-airport/articleshow/64876607.cms" class="img-box"><img alt="" class="anima" src="images\blog\Yamuna e-way to expand to 8 lanes for Jewar airport.jpeg"></a>
+                              <div class="advs-box-content">
+                                 <p class="subtitle b news_link"><a href="https://timesofindia.indiatimes.com/city/noida/yamuna-e-way-to-expand-to-8-lanes-for-jewar-airport/articleshow/64876607.cms">Yamuna e-way to expand to 8 lanes for Jewar airport</a></p>
+                                <div class="tag-row">
+                                       <span><i class="fa fa-bookmark"></i> <a style="cursor: default;">Real Estate</a> <a href="#"></a></span>
+                                       <span><i class="fa fa-pencil"></i>Admin</span>
+                                    </div>
+                              </div>
+                           </div>
+                        </div>
+                        <div class="grid-item col-md-4 ">
+                           <div class="advs-box advs-box-top-icon-img niche-box-post boxed-inverse" data-anima="scale-rotate" data-trigger="hover">
+                              <a href="https://www.indiatoday.in/education-today/gk-current-affairs/story/delhi-mumbai-in-12-hours-expressway-to-come-soon-list-of-expressways-that-you-must-know-1322883-2018-08-25" class="img-box"><img alt="" class="anima" src="images\blog\Delhi-Mumbai 12-hour Expressway to come soon.jpeg"></a>
+                              <div class="advs-box-content">
+                                 <p class="subtitle b news_link"><a href="https://www.indiatoday.in/education-today/gk-current-affairs/story/delhi-mumbai-in-12-hours-expressway-to-come-soon-list-of-expressways-that-you-must-know-1322883-2018-08-25">Delhi-Mumbai 12-hour Expressway to come soon:List of expressways that you must know</a></p>
+                                <div class="tag-row">
+                                       <span><i class="fa fa-bookmark"></i> <a style="cursor: default;">Real Estate</a> <a href="#"></a></span>
+                                       <span><i class="fa fa-pencil"></i>Admin</span>
+                                    </div>
+                              </div>
+                           </div>
+                        </div>
+                        <div class="grid-item col-md-4 ">
+                           <div class="advs-box advs-box-top-icon-img niche-box-post boxed-inverse" data-anima="scale-rotate" data-trigger="hover">
+                              <a href="https://timesofindia.indiatimes.com/city/noida/yamuna-expressway-to-soon-have-led-lights-crash-barriers-and-more/articleshow/63522316.cms" class="img-box"><img alt="" class="anima" src="images\blog\Yamuna expressway to soon have LED lights, crash barriers and more.jpeg"></a>
+                              <div class="advs-box-content">
+                                 <p class="subtitle b news_link"><a href="https://timesofindia.indiatimes.com/city/noida/yamuna-expressway-to-soon-have-led-lights-crash-barriers-and-more/articleshow/63522316.cms">Yamuna expressway to soon have LED lights, crash barriers and more</a></p>
+                                <div class="tag-row">
+                                       <span><i class="fa fa-bookmark"></i> <a style="cursor: default;">Real Estate</a> <a href="#"></a></span>
+                                       <span><i class="fa fa-pencil"></i>Admin</span>
+                                    </div>
+                              </div>
+                           </div>
+                        </div>
+                        <div class="grid-item col-md-4 ">
+                           <div class="advs-box advs-box-top-icon-img niche-box-post boxed-inverse" data-anima="scale-rotate" data-trigger="hover">
+                              <a href="https://www.hindustantimes.com/cities/30-acres-along-yamuna-expressway-will-be-allotted-to-crpf-for-a-base/story-lSo6LfLRRHojQh1USrFIGL.html" class="img-box"><img alt="" class="anima" src="images\blog\30 acres along Yamuna Expressway will be allotted to CRPF for a base.jpeg"></a>
+                              <div class="advs-box-content">
+                                 <p class="subtitle b news_link"><a href="https://www.hindustantimes.com/cities/30-acres-along-yamuna-expressway-will-be-allotted-to-crpf-for-a-base/story-lSo6LfLRRHojQh1USrFIGL.html">30 acres along Yamuna Expressway will be allotted to CRPF for a base</a></p>
+                                <div class="tag-row">
+                                       <span><i class="fa fa-bookmark"></i> <a style="cursor: default;">Real Estate</a> <a href="#"></a></span>
+                                       <span><i class="fa fa-pencil"></i>Admin</span>
+                                    </div>
+                              </div>
+                           </div>
+                        </div>
+                        <div class="grid-item col-md-4 ">
+                           <div class="advs-box advs-box-top-icon-img niche-box-post boxed-inverse">
+                              <iframe src="https://www.youtube.com/embed/o_Lt_C1cOHw?ecver=1?showinfo=0&controls=0"></iframe>
+                              <div class="advs-box-content">
+                                 <h2><a href="#">JMV Developers Farm</a></h2>
+                                 <div class="tag-row">
+                                       <span><i class="fa fa-bookmark"></i> <a style="cursor: default;">Real Estate</a> <a href="#"></a></span>
+                                       <span><i class="fa fa-pencil"></i>Admin</span>
+                                    </div>
+                              </div>
+                           </div>
+                        </div>
+                        <div class="grid-item col-md-4 ">
+                           <div class="advs-box advs-box-top-icon-img niche-box-post boxed-inverse" data-anima="scale-rotate" data-trigger="hover">
+                              <a href="https://www.financialexpress.com/infrastructure/airlines-aviation/jewar-international-airport-in-greater-noida-to-be-reality-soon-as-most-land-acquisition-hurdles-overcome/1315905/" class="img-box"><img alt="" class="anima" src="images\blog\Jewar International Airport in Greater Noida to be reality soon as most land acquisition hurdles overcome.jpeg"></a>
+                              <div class="advs-box-content">
+                                 <p class="subtitle b news_link"><a href="https://www.financialexpress.com/infrastructure/airlines-aviation/jewar-international-airport-in-greater-noida-to-be-reality-soon-as-most-land-acquisition-hurdles-overcome/1315905/">Jewar International Airport in Greater Noida to be reality soon</a></p>
+                                <div class="tag-row">
+                                       <span><i class="fa fa-bookmark"></i> <a style="cursor: default;">Real Estate</a> <a href="#"></a></span>
+                                       <span><i class="fa fa-pencil"></i>Admin</span>
+                                    </div>
+                              </div>
+                           </div>
+                        </div>
+                        <div class="grid-item col-md-4 ">
+                           <div class="advs-box advs-box-top-icon-img niche-box-post boxed-inverse" data-anima="scale-rotate" data-trigger="hover">
+                              <a href="https://www.ndtv.com/india-news/118-more-owners-agree-for-land-acquisition-for-jewar-airport-says-mla-dhirendra-singh-1910160" class="img-box"><img alt="" class="anima" src="images\blog\18 More Owners Agree For Land Acquisition For Jewar Airport, Says MLA.jpeg"></a>
+                              <div class="advs-box-content">
+                                 <p class="subtitle b news_link"><a href="https://www.ndtv.com/india-news/118-more-owners-agree-for-land-acquisition-for-jewar-airport-says-mla-dhirendra-singh-1910160">118 More Owners Agree For Land Acquisition For Jewar Airport, Says MLA</a></p>
+                                <div class="tag-row">
+                                       <span><i class="fa fa-bookmark"></i> <a style="cursor: default;">Real Estate</a> <a href="#"></a></span>
+                                       <span><i class="fa fa-pencil"></i>Admin</span>
+                                    </div>
+                              </div>
+                           </div>
+                        </div>
+                        <div class="grid-item col-md-4 ">
+                           <div class="advs-box advs-box-top-icon-img niche-box-post boxed-inverse" data-anima="scale-rotate" data-trigger="hover">
+                              <a href="https://www.businesstoday.in/sectors/infra/delhi-igi-noida-upcoming-jewar-airport-connected-govt-plans-40-km-elevated-road/story/282100.html" class="img-box"><img alt="" class="anima" src="images\blog\Delhi's IGI and Noida's upcoming Jewar airport to be connected! Govt plans 40 km elevated road.jpeg"></a>
+                              <div class="advs-box-content">
+                                 <p class="subtitle b news_link"><a href="https://www.businesstoday.in/sectors/infra/delhi-igi-noida-upcoming-jewar-airport-connected-govt-plans-40-km-elevated-road/story/282100.html">Delhi's IGI and Noida's upcoming Jewar airport to be connected! Govt plans 40 km elevated road</a></p>
+                                <div class="tag-row">
+                                       <span><i class="fa fa-bookmark"></i> <a style="cursor: default;">Real Estate</a> <a href="#"></a></span>
+                                       <span><i class="fa fa-pencil"></i>Admin</span>
+                                    </div>
+                              </div>
+                           </div>
+                        </div>
+                        <div class="grid-item col-md-4 ">
+                           <div class="advs-box advs-box-top-icon-img niche-box-post boxed-inverse" data-anima="scale-rotate" data-trigger="hover">
+                              <a href="https://www.moneycontrol.com/news/india/up-government-signs-mou-to-fast-track-work-on-jewar-international-airport-2578361.html" class="img-box"><img alt="" class="anima" src="images\blog\UP government signs MoU to fast-track work on Jewar International Airport.jpeg"></a>
+                              <div class="advs-box-content">
+                                 <p class="subtitle b news_link"><a href="https://www.moneycontrol.com/news/india/up-government-signs-mou-to-fast-track-work-on-jewar-international-airport-2578361.html">UP government signs MoU to fast-track work on Jewar International Airport</a></p>
+                                <div class="tag-row">
+                                       <span><i class="fa fa-bookmark"></i> <a style="cursor: default;">Real Estate</a> <a href="#"></a></span>
+                                       <span><i class="fa fa-pencil"></i>Admin</span>
+                                    </div>
+                              </div>
+                           </div>
+                        </div>
+                        <div class="clear"></div>
+                        <div class="list-nav">
+                           <ul class="pagination-sm pagination-grid" data-page-items="6" data-pagination-anima="fade-bottom" data-options="scrollTop:true"></ul>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+            </div>
+            <script src='scripts\parallax.min.js'></script>
+            <script async="" src="scripts\bootstrap\js\bootstrap.min.js"></script>
+            <script src="scripts\imagesloaded.min.js"></script>
+            <script src='scripts\flexslider\jquery.flexslider-min.js'></script>
+            <script src='scripts\jquery.tab-accordion.js'></script>
+            <script src='scripts\smooth.scroll.min.js'></script>
+            <script src='scripts\jquery.magnific-popup.min.js'></script>
+            <div id="footer"></div>
+         </div>
+         <!---Main End----------------->
+         <!--- Float button=-->
+         <div class="float-msg">
+            <a href="#" id="show-form" class="float">
+               <!--<i class="fa fa-envelope my-float"></i>-->
+               <p>Enquire Now / Book sites</p>
+            </a>
+         </div>
+         <!----float button-->
+         <!---Float-----form----->
+         <div class="float-form">
+            <div id="form">
+               <p id="feedback_button">Feedback</p>
+               <div class="tab-box" data-tab-anima="show-scale">
+                  <ul class="nav nav-tabs nav-justified">
+                     <li class="active"><a href="#">Enquire Now</a></li>
+                     <li><a href="#">Book site</a></li>
+                  </ul>
+                  <div class="panel active">
+                     <form action="">
+                        <div class="form-inner">
+                           <div class="form-group">
+                              <label for="usr">Name:</label>
+                              <input type="text" class="form-control" id="usr">
+                           </div>
+                           <div class="form-group">
+                              <label>Select Location:</label>
+                              <select class="form-control">
+                                 <option>Gurugram</option>
+                                 <option>Noida</option>
+                                 <option>Ghaziabad</option>
+                                 <option>Jaipur</option>
+                              </select>
+                           </div>
+                           <div class="form-group">
+                              <label for="usr">Email:</label>
+                              <input type="email" class="form-control">
+                           </div>
+                           <!-- <textarea id="feedback"  class="text_field" placeholder="Feedback"></textarea>
+                              -->
+                           <div class="form-group">
+                              <label for="usr">Phone:</label>
+                              <input type="text" class="form-control">
+                           </div>
+                           <input type="submit" id="submit_feedback" values="Submit">
+                        </div>
+                     </form>
+                  </div>
+                  <div class="panel">
+                     <form action="">
+                        <div class="form-inner">
+                           <div class="form-group">
+                              <label for="usr">Name:</label>
+                              <input type="text" class="form-control" id="usr">
+                           </div>
+                           <div class="form-group">
+                              <label>Select Location:</label>
+                              <select class="form-control">
+                                 <option>Gurugram</option>
+                                 <option>Noida</option>
+                                 <option>Ghaziabad</option>
+                                 <option>Jaipur</option>
+                              </select>
+                           </div>
+                           <div class="form-group">
+                              <label for="usr">Email:</label>
+                              <input type="email" class="form-control">
+                           </div>
+                           <!-- <textarea id="feedback"  class="text_field" placeholder="Feedback"></textarea>
+                              -->
+                           <div class="form-group">
+                              <label for="usr">Phone:</label>
+                              <input type="text" class="form-control">
+                           </div>
+                           <input type="submit" id="submit_feedback" values="Submit">
+                        </div>
+                     </form>
+                  </div>
+               </div>
+            </div>
+         </div>
+         <script type="text/javascript">
+            $(document).ready(function(){
+            $('#form').css('display','none');
+            $('#show-form').click(function(){
+             $("#form, form").animate({
+                            width: "toggle"
+                        });
+            
+            });
+            });
+         </script>
+         <script>
+            jQuery(document).ready(function( $ ) {
+            $(window).scroll(function() {
+               if ($(this).scrollTop() > 40) {
+                 $('.scroll-change').addClass('sh');
+               } else {
+                 $('.scroll-change').removeClass('sh');
+               }
+             });
+              
+             
+             });
+             $(function(){
+             $("#header").load("header.html"); 
+             $("#footer").load("footer.html"); 
+             //pop on load
+                       $("#pop_out").trigger('click');
+            });
+         </script>
+         <script></script></div></body></html>
